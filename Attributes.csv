@@ -1,0 +1,1554 @@
+Attr_id;Chapter_id;Chapter_name;Table_id;Table_name;Description
+3;1;General Information;1.1;Taluks Hoblies Grama Panchayath Village Accountant Circles on 31-3-2020;Taluks
+4;1;General Information;1.1;Taluks Hoblies Grama Panchayath Village Accountant Circles on 31-3-2020;Hoblies
+5;1;General Information;1.1;Taluks Hoblies Grama Panchayath Village Accountant Circles on 31-3-2020;Grama Panchayaths
+6;1;General Information;1.1;Taluks Hoblies Grama Panchayath Village Accountant Circles on 31-3-2020;Circles
+7;1;General Information;1.2;Inhabited Un-inhabited and Total Villages per Census;Un-Inhabited Inhabited,Villages
+8;1;General Information;1.2;Inhabited Un-inhabited and Total Villages per Census;Un-Inhabited Inhabited,Villages
+9;1;General Information;1.2;Inhabited Un-inhabited and Total Villages per Census;Total Villages
+10;1;General Information;1.3;Urban Local Bodies;Cc,Urban Local Bodies
+11;1;General Information;1.3;Urban Local Bodies;Cmc,Urban Local Bodies
+12;1;General Information;1.3;Urban Local Bodies;Tmc,Urban Local Bodies
+13;1;General Information;1.3;Urban Local Bodies;Tp,Urban Local Bodies
+14;1;General Information;1.3;Urban Local Bodies;NACs,Urban Local Bodies
+15;1;General Information;1.3;Urban Local Bodies;Total,Urban Local Bodies
+16;1;General Information;1.4;Police Stations Prisons and Prisoners on 31-3-2020 in numbers Prisons and Prisoners;Police Stations
+17;1;General Information;1.4;Police Stations Prisons and Prisoners on 31-3-2020 in numbers Prisons and Prisoners;Prisons,Prisons and Prisoners
+18;1;General Information;1.4;Police Stations Prisons and Prisoners on 31-3-2020 in numbers Prisons and Prisoners;Male,Prisoners,Prisons and Prisoners
+19;1;General Information;1.4;Police Stations Prisons and Prisoners on 31-3-2020 in numbers Prisons and Prisoners;Female,Prisoners,Prisons and Prisoners
+20;1;General Information;1.5;No. of Fire Stations on 31-3-2020;Fire Brigade Stations
+21;1;General Information;1.5;No. of Fire Stations on 31-3-2020;Working Fire Brigade Water Tankers
+22;1;General Information;1.5;No. of Fire Stations on 31-3-2020;Emergency fire calls received
+23;1;General Information;1.5;No. of Fire Stations on 31-3-2020;Value of the property protected during 2019-20 Rs.in Lakhs
+24;1;General Information;1.6;Ration Shops and Ration Card Holders on 31-3-2017 Cumulative;Urban,Ration shops
+25;1;General Information;1.6;Ration Shops and Ration Card Holders on 31-3-2017 Cumulative;Rural,Ration shops
+26;1;General Information;1.6;Ration Shops and Ration Card Holders on 31-3-2017 Cumulative;Total,Ration shops
+27;1;General Information;1.6;Ration Shops and Ration Card Holders on 31-3-2017 Cumulative;Urban,Anthyodaya,Ration card holders
+28;1;General Information;1.6;Ration Shops and Ration Card Holders on 31-3-2017 Cumulative;Rural,Anthyodaya,Ration card holders
+29;1;General Information;1.6;Ration Shops and Ration Card Holders on 31-3-2017 Cumulative;Total,Anthyodaya,Ration card holders
+30;1;General Information;1.6;Priority Non Priority and Total Ration Card Holders on 31-3-2017 Cumulative;Urban,Priority
+31;1;General Information;1.6;Priority Non Priority and Total Ration Card Holders on 31-3-2017 Cumulative;Rural,Priority
+32;1;General Information;1.6;Priority Non Priority and Total Ration Card Holders on 31-3-2017 Cumulative;Total,Priority
+33;1;General Information;1.6;Priority Non Priority and Total Ration Card Holders on 31-3-2017 Cumulative;Urban,Non Priority
+34;1;General Information;1.6;Priority Non Priority and Total Ration Card Holders on 31-3-2017 Cumulative;Rural,Non Priority
+35;1;General Information;1.6;Priority Non Priority and Total Ration Card Holders on 31-3-2017 Cumulative;Total,Non Priority
+36;1;General Information;1.6;Priority Non Priority and Total Ration Card Holders on 31-3-2017 Cumulative;Urban,Total Card Hold
+37;1;General Information;1.6;Priority Non Priority and Total Ration Card Holders on 31-3-2017 Cumulative;Rural,Total Card Hold
+38;1;General Information;1.6;Priority Non Priority and Total Ration Card Holders on 31-3-2017 Cumulative;Total,Total Card Hold
+39;1;General Information;1.7;Anthyodaya Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Urban,with cylinder
+40;1;General Information;1.7;Anthyodaya Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Rural,with cylinder
+41;1;General Information;1.7;Anthyodaya Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Total,with cylinder
+42;1;General Information;1.7;Anthyodaya Card Holders with and without gas cylinder on 31-3-2020 Cumulative;% to State total,with cylinder
+43;1;General Information;1.7;Anthyodaya Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Urban,without cylinder
+44;1;General Information;1.7;Anthyodaya Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Rural,without cylinder
+45;1;General Information;1.7;Anthyodaya Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Total,without cylinder
+46;1;General Information;1.7;Anthyodaya Card Holders with and without gas cylinder on 31-3-2020 Cumulative;% to State total,without cylinder
+47;1;General Information;1.8;Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Urban,with cylinder
+48;1;General Information;1.8;Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Rural,with cylinder
+49;1;General Information;1.8;Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Total,with cylinder
+50;1;General Information;1.8;Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;% to State total,with cylinder
+51;1;General Information;1.8;Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Urban,without cylinder
+52;1;General Information;1.8;Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Rural,without cylinder
+53;1;General Information;1.8;Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Total,without cylinder
+54;1;General Information;1.8;Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;% to State total,without cylinder
+55;1;General Information;1.9;Non-Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Urban,with cylinder
+56;1;General Information;1.9;Non-Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Rural,with cylinder
+57;1;General Information;1.9;Non-Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Total,with cylinder
+58;1;General Information;1.9;Non-Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;% to State total,with cylinder
+59;1;General Information;1.9;Non-Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Urban,without cylinder
+60;1;General Information;1.9;Non-Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Rural,without cylinder
+61;1;General Information;1.9;Non-Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;Total,without cylinder
+62;1;General Information;1.9;Non-Priority Card Holders with and without gas cylinder on 31-3-2020 Cumulative;% % to State total,without cylinder
+63;1;General Information;1.10;District Income and Per Capita Income;Gross District Domestic Product Gddp Rs. in Lakhs,2017 At Current Prices 2017-18
+64;1;General Information;1.10;District Income and Per Capita Income;Net District Domestic Product Nddp Rs. in Lakhs,2017 At Current Prices 2017-18
+65;1;General Information;1.10;District Income and Per Capita Income;Gross District Domestic Product Gddp Rs. in Lakhs,At Constant Prices 2017-18
+66;1;General Information;1.10;District Income and Per Capita Income;Net District Domestic Product Nddp Rs. in Lakhs,At Constant Prices 2017-18
+67;1;General Information;1.10;District Income and Per Capita Income;At Current Prices 2017-18,Per capita Income In Rs.
+68;1;General Information;1.10;District Income and Per Capita Income;At constant Prices 2017-18,Per capita Income In Rs.
+69;1;General Information;1.10;District Income and Per Capita Income;Rank
+70;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Geograpical Area Sq.Kms
+71;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Population Density
+72;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Rual,Households
+73;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Urban,Households
+74;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Total,Households
+75;2;Area and Population;2.1;Area Population Density and Households 2011 Census;% Share to Total Households
+76;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Rank
+77;2;Area and Population;2.1;Area Population Density and Households 2011 Census;Projected households in 2020
+78;2;Area and Population;2.1;Population 2011 Census;Total,Population
+79;2;Area and Population;2.1;Population 2011 Census;Male,Population
+80;2;Area and Population;2.1;Population 2011 Census;Female,Population
+81;2;Area and Population;2.1;Population 2011 Census;% Share to Total Population
+82;2;Area and Population;2.1;Population 2011 Census;Rank
+83;2;Area and Population;2.1;Projected Population for 2021;Total,Population
+84;2;Area and Population;2.1;Projected Population for 2021;Male,Population
+85;2;Area and Population;2.1;Projected Population for 2021;Female,Population
+86;2;Area and Population;2.1;Projected Population for 2021;% Share to Total Population
+87;2;Area and Population;2.1;Projected Population for 2021;Rank
+88;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Male,Rural,Population 2011
+89;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Female,Rural,Population 2011
+90;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Total,Rural,Population 2011
+91;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Male,Urban,Population 2011
+92;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Female,Urban,Population 2011
+93;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Total,Urban,Population 2011
+94;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Total,Population 2011
+95;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Total,Decadal Change in % 2001-11
+96;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Rural,Decadal Change in % 2001-11
+97;2;Area and Population;2.2;Rural and Urban Population and Decadal Change;Urban,Decadal Change in % 2001-11
+98;2;Area and Population;2.3;Sex Ratio;Total,Sex Ratio 2001
+99;2;Area and Population;2.3;Sex Ratio;Rural,Sex Ratio 2001
+100;2;Area and Population;2.3;Sex Ratio;Urban,Sex Ratio 2001
+101;2;Area and Population;2.3;Sex Ratio;Total,Sex Ratio 2011
+102;2;Area and Population;2.3;Sex Ratio;Rural,Sex Ratio 2011
+103;2;Area and Population;2.3;Sex Ratio;Urban,Sex Ratio 2011
+104;2;Area and Population;2.3;Sex Ratio;Decadal Change in % 2001-2011
+105;2;Area and Population;2.4;Child Population 0-6 Years 2011 and Projected Child Population 2021;Total,Child Population 0-6 Years 2011
+106;2;Area and Population;2.4;Child Population 0-6 Years 2011 and Projected Child Population 2021;Rural,Child Population 0-6 Years 2011
+107;2;Area and Population;2.4;Child Population 0-6 Years 2011 and Projected Child Population 2021;Urban,Child Population 0-6 Years 2011
+108;2;Area and Population;2.4;Child Population 0-6 Years 2011 and Projected Child Population 2021;Total,Projected Child Population 0-6 Years 2021
+109;2;Area and Population;2.4;Child Population 0-6 Years 2011 and Projected Child Population 2021;Rural,Projected Child Population 0-6 Years 2021
+110;2;Area and Population;2.4;Child Population 0-6 Years 2011 and Projected Child Population 2021;Urban,Projected Child Population 0-6 Years 2021
+111;2;Area and Population;2.4;Percentage of Child Population to the Total population;Total,2011 Census
+112;2;Area and Population;2.4;Percentage of Child Population to the Total population;Rural,2011 Census
+113;2;Area and Population;2.4;Percentage of Child Population to the Total population;Urban,2011 Census
+114;2;Area and Population;2.4;Percentage of Child Population to the Total population;Total,2021 Projected
+115;2;Area and Population;2.4;Percentage of Child Population to the Total population;Rural,2021 Projected
+116;2;Area and Population;2.4;Percentage of Child Population to the Total population;Urban,2021 Projected
+117;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Total,Child Sex Ratio 0-6 Years 2001
+118;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Rural,Child Sex Ratio 0-6 Years 2001
+119;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Urban,Child Sex Ratio 0-6 Years 2001
+120;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Total,Child Sex Ratio 0-6 Years 2011
+121;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Rural,Child Sex Ratio 0-6 Years 2011
+122;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Urban,Child Sex Ratio 0-6 Years 2011
+123;2;Area and Population;2.5;Child Sex Ratio 0-6 Years;Decadal change in % 2001-2011
+124;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Male,Rural,Scheduled Caste Population 2011
+125;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Female,Rural,Scheduled Caste Population 2011
+126;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Total,Rural,Scheduled Caste Population 2011
+127;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Male,Urban,Scheduled Caste Population 2011
+128;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Female,Urban,Scheduled Caste Population 2011
+129;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Total,Urban,Scheduled Caste Population 2011
+130;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Total,Scheduled Caste Population 2011
+131;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Total,Decadal Change 2001 2011
+132;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Rural,Decadal Change 2001 2011
+133;2;Area and Population;2.6;Scheduled Caste Population and Decadal Change;Urban,Decadal Change 2001 2011
+134;2;Area and Population;2.7;Percentage of Scheduled Caste Population to Total Population;Total,% of Scheduled Caste Population 2001
+135;2;Area and Population;2.7;Percentage of Scheduled Caste Population to Total Population;Rural,% of Scheduled Caste Population 2001
+136;2;Area and Population;2.7;Percentage of Scheduled Caste Population to Total Population;Urban,% of Scheduled Caste Population 2001
+137;2;Area and Population;2.7;Percentage of Scheduled Caste Population to Total Population;Total,% of Scheduled Caste Population 2011
+138;2;Area and Population;2.7;Percentage of Scheduled Caste Population to Total Population;Rural,% of Scheduled Caste Population 2011
+139;2;Area and Population;2.7;Percentage of Scheduled Caste Population to Total Population;Urban,% of Scheduled Caste Population 2011
+140;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Male,Rural,Scheduled Tribe Population 2011
+141;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Female,Rural,Scheduled Tribe Population 2011
+142;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Total,Rural,Scheduled Tribe Population 2011
+143;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Male,Urban,Scheduled Tribe Population 2011
+144;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Female,Urban,Scheduled Tribe Population 2011
+145;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Total,Urban,Scheduled Tribe Population 2011
+146;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Total,Scheduled Tribe Population 2011
+147;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Total,Decadal change in% 2001-2011
+148;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Rural,Decadal change in% 2001-2011
+149;2;Area and Population;2.8;Scheduled Tribe Population and Decadal Change;Urban,Decadal change in% 2001-2011
+150;2;Area and Population;2.9;Percentage of Scheduled Tribes Population to Total Population;Total,% of Scheduled Tribe Population 2001 Census
+151;2;Area and Population;2.9;Percentage of Scheduled Tribes Population to Total Population;Rural,% of Scheduled Tribe Population 2001 Census
+152;2;Area and Population;2.9;Percentage of Scheduled Tribes Population to Total Population;Urban,% of Scheduled Tribe Population 2001 Census
+153;2;Area and Population;2.9;Percentage of Scheduled Tribes Population to Total Population;Total,% of Scheduled Tribe Population 2011 Census
+154;2;Area and Population;2.9;Percentage of Scheduled Tribes Population to Total Population;Rural,% of Scheduled Tribe Population 2011 Census
+155;2;Area and Population;2.9;Percentage of Scheduled Tribes Population to Total Population;Urban,% of Scheduled Tribe Population 2011 Census
+163;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Male,0-14 2011
+164;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Female,0-14 2011
+165;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Total,0-14 2011
+166;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Male,0-14 2021
+167;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Female,0-14 2021
+168;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Total,0-14 2021
+169;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Male,15-59 2011
+170;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Female,15-59 2011
+171;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Total,15-59 2011
+172;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Male,15-59 2021
+173;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Female,15-59 2021
+174;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Total,15-59 2021
+175;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Male,60 2011
+176;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Female,60 2011
+177;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Total,60 2011
+178;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Male,60 2021
+179;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Female,60 2021
+180;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Total,60 2021
+181;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Grand Total,2011
+182;2;Area and Population;2.11;Age wise Population per 2011 Census and Projected population of 2021;Grand Total,2021
+183;2;Area and Population;2.12;Projected Population In Numbers;2011
+184;2;Area and Population;2.12;Projected Population In Numbers;2012
+185;2;Area and Population;2.12;Projected Population In Numbers;2013
+186;2;Area and Population;2.12;Projected Population In Numbers;2014
+187;2;Area and Population;2.12;Projected Population In Numbers;2015
+188;2;Area and Population;2.12;Projected Population In Numbers;2016
+189;2;Area and Population;2.12;Projected Population In Numbers;2017
+190;2;Area and Population;2.12;Projected Population In Numbers;2018
+191;2;Area and Population;2.12;Projected Population In Numbers;2019
+192;2;Area and Population;2.12;Projected Population In Numbers;2020
+193;2;Area and Population;2.12;Projected Population In Numbers;2021
+194;2;Area and Population;2.13;Religion-wise Population 2011;Male,Hindu
+195;2;Area and Population;2.13;Religion-wise Population 2011;Female,Hindu
+196;2;Area and Population;2.13;Religion-wise Population 2011;Total,Hindu
+197;2;Area and Population;2.13;Religion-wise Population 2011;% of Hindu Population to Total Population,Hindu
+198;2;Area and Population;2.13;Religion-wise Population 2011;Male,Muslim
+199;2;Area and Population;2.13;Religion-wise Population 2011;Female,Muslim
+200;2;Area and Population;2.13;Religion-wise Population 2011;Total,Muslim
+201;2;Area and Population;2.13;Religion-wise Population 2011;% of Muslim Population to Total Population,Muslim
+202;2;Area and Population;2.13;Religion-wise Population 2011;Male,Christian
+203;2;Area and Population;2.13;Religion-wise Population 2011;Female,Christian
+204;2;Area and Population;2.13;Religion-wise Population 2011;Total,Christian
+205;2;Area and Population;2.13;Religion-wise Population 2011;% of Christian Population to Total Population,Christian
+206;2;Area and Population;2.13;Religion-wise Population 2011;Male,Sikh
+207;2;Area and Population;2.13;Religion-wise Population 2011;Female,Sikh
+208;2;Area and Population;2.13;Religion-wise Population 2011;Total,Sikh
+209;2;Area and Population;2.13;Religion-wise Population 2011;% of Sikh Population to Total Population,Sikh
+210;2;Area and Population;2.13;Religion-wise Population 2011;Male,Buddhist
+211;2;Area and Population;2.13;Religion-wise Population 2011;Female,Buddhist
+212;2;Area and Population;2.13;Religion-wise Population 2011;Total,Buddhist
+213;2;Area and Population;2.13;Religion-wise Population 2011;% of Buddhist Population to Total Population,Buddhist
+214;2;Area and Population;2.13;Religion-wise Population 2011;Male,Jain
+215;2;Area and Population;2.13;Religion-wise Population 2011;Female,Jain
+216;2;Area and Population;2.13;Religion-wise Population 2011;Total,Jain
+217;2;Area and Population;2.13;Religion-wise Population 2011;% of Jain Population to Total Population,Jain
+218;2;Area and Population;2.13;Religion-wise Population 2011;Male,Other religions and persuasions includes Unclassified Sector
+219;2;Area and Population;2.13;Religion-wise Population 2011;Female,Other religions and persuasions includes Unclassified Sector
+220;2;Area and Population;2.13;Religion-wise Population 2011;Total,Other religions and persuasions includes Unclassified Sector
+221;2;Area and Population;2.13;Religion-wise Population 2011;Male,Religion not stated
+222;2;Area and Population;2.13;Religion-wise Population 2011;Female,Religion not stated
+223;2;Area and Population;2.13;Religion-wise Population 2011;Total,Religion not stated
+224;2;Area and Population;2.13;Religion-wise Population 2011;% of Other Population to Total Population
+225;2;Area and Population;2.13;Religion-wise Population 2011;Male,Grand Total
+226;2;Area and Population;2.13;Religion-wise Population 2011;Female,Grand Total
+227;2;Area and Population;2.13;Religion-wise Population 2011;Total,Grand Total
+228;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Male,Rural
+229;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Female,Rural
+230;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Total,Rural
+231;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Male,Urban
+232;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Female,Urban
+233;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Total,Urban
+234;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Male,Total
+235;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Female,Total
+236;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;Total
+237;2;Area and Population;2.14;Main Workers 2011 Census in Numbers;% of main workers to total workers
+238;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Male,Rural
+239;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Female,Rural
+240;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Total,Rural
+241;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Male,Urban
+242;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Female,Urban
+243;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Total,Urban
+244;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Male,Total
+245;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Female,Total
+246;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;Total
+247;2;Area and Population;2.15;Marginal Workers 2011 Census in Numbers;% of marginal workers to total workers
+248;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Male,Rural
+249;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Female,Rural
+250;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Total,Rural
+251;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Male,Urban
+252;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Female,Urban
+253;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Total,Urban
+254;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Male,Total
+255;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Female,Total
+256;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;Total
+257;2;Area and Population;2.16;Non Workers 2011 Census in Numbers;% of Non workers to total Population
+258;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Male,Rural
+259;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Female,Rural
+260;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Total,Rural
+261;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Male,Urban
+262;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Female,Urban
+263;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Total,Urban
+264;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Male,Total
+265;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Female,Total
+266;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;Total
+267;2;Area and Population;2.17;Agricultural cultivators 2011 Census in Numbers;% of agricultural cultivators to total workers
+268;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Male,Rural
+269;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Female,Rural
+270;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Total,Rural
+271;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Male,Urban
+272;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Female,Urban
+273;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Total,Urban
+274;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Male,Total
+275;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Female,Total
+276;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;Total
+277;2;Area and Population;2.18;Agricultural labourers 2011 Census in Numbers;% of Agricultural labourers to total workers
+278;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Male,Rural
+279;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Female,Rural
+280;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Total,Rural
+281;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Male,Urban
+282;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Female,Urban
+283;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Total,Urban
+284;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Male,Total
+285;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Female,Total
+286;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;Total
+287;2;Area and Population;2.19;Workers in Household Industries 2011 Census in Numbers;% of workers in household industries to total workers
+288;2;Area and Population;2.20;Workers 2011 Census in Numbers;Male,Rural
+289;2;Area and Population;2.20;Workers 2011 Census in Numbers;Female,Rural
+290;2;Area and Population;2.20;Workers 2011 Census in Numbers;Total,Rural
+291;2;Area and Population;2.20;Workers 2011 Census in Numbers;Male,Urban
+292;2;Area and Population;2.20;Workers 2011 Census in Numbers;Female,Urban
+293;2;Area and Population;2.20;Workers 2011 Census in Numbers;Total,Urban
+294;2;Area and Population;2.20;Workers 2011 Census in Numbers;Male,Total
+295;2;Area and Population;2.20;Workers 2011 Census in Numbers;Female,Total
+296;2;Area and Population;2.20;Workers 2011 Census in Numbers;Total
+297;2;Area and Population;2.20;Workers 2011 Census in Numbers;% of other workers to total workers
+298;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Male,Rural
+299;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Female,Rural
+300;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Total,Rural
+301;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Male,Urban
+302;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Female,Urban
+303;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Total,Urban
+304;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Male,Total
+305;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Female,Total
+306;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;Total
+307;2;Area and Population;2.21;Total Workers 2011 Census in Numbers;% oftotal workers to total poulation
+308;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Male,Rural
+309;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Female,Rural
+310;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Total,Rural
+311;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Male,Urban
+312;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Female,Urban
+313;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Total,Urban
+314;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Male,Total
+315;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Female,Total
+316;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;Total
+317;2;Area and Population;2.22;Non- Agricultural Workers 2011 Census in Numbers;% of non agricultural workers to total workers
+318;3;Rainfall;3.1;No. of Raingauge Stations Annual Normal Rainfall and Rainy Days;Working,Raingauge Stations
+319;3;Rainfall;3.1;No. of Raingauge Stations Annual Normal Rainfall and Rainy Days;Under Repair,Raingauge Stations
+320;3;Rainfall;3.1;No. of Raingauge Stations Annual Normal Rainfall and Rainy Days;Total,Raingauge Stations
+321;3;Rainfall;3.1;No. of Raingauge Stations Annual Normal Rainfall and Rainy Days;Rainy Days,Annual Normal Rainfall 1961-2010
+322;3;Rainfall;3.1;No. of Raingauge Stations Annual Normal Rainfall and Rainy Days;Normal Rainfall,Annual Normal Rainfall 1961-2010
+323;3;Rainfall;3.2;Actual Annual Rainfall;2009,Actual Annual Rainfall from 2009 to 2019 mm
+324;3;Rainfall;3.2;Actual Annual Rainfall;2010,Actual Annual Rainfall from 2009 to 2019 mm
+325;3;Rainfall;3.2;Actual Annual Rainfall;2011,Actual Annual Rainfall from 2009 to 2019 mm
+326;3;Rainfall;3.2;Actual Annual Rainfall;2012,Actual Annual Rainfall from 2009 to 2019 mm
+327;3;Rainfall;3.2;Actual Annual Rainfall;2013,Actual Annual Rainfall from 2009 to 2019 mm
+328;3;Rainfall;3.2;Actual Annual Rainfall;2014,Actual Annual Rainfall from 2009 to 2019 mm
+329;3;Rainfall;3.2;Actual Annual Rainfall;2015,Actual Annual Rainfall from 2009 to 2019 mm
+330;3;Rainfall;3.2;Actual Annual Rainfall;2016,Actual Annual Rainfall from 2009 to 2019 mm
+331;3;Rainfall;3.2;Actual Annual Rainfall;2017,Actual Annual Rainfall from 2009 to 2019 mm
+332;3;Rainfall;3.2;Actual Annual Rainfall;2018,Actual Annual Rainfall from 2009 to 2019 mm
+333;3;Rainfall;3.2;Actual Annual Rainfall;2019,Actual Annual Rainfall from 2009 to 2019 mm
+334;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Geographical Area
+335;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Forest
+336;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;% of Forest Area to Geographical Area
+337;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Non agricultural uses,Land not available for Cultivation
+338;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Barren Uncultivatable Land,Land not available for Cultivation
+339;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Total,Land not available for Cultivation
+340;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;% of Land not available for Cultivation to Geographical Area,Land not available for Cultivation
+341;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Cultivable waste,Other Uncultivated Land
+342;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Permanent Pasture,Other Uncultivated Land
+343;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;% of Permanent Pasture to Geographical Area,Other Uncultivated Land
+344;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Trees and Groves,Other Uncultivated Land
+345;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Total,Other Uncultivated Land
+346;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Current,Fallow Land
+347;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Other,Fallow Land
+348;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Total,Fallow Land
+349;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Net,Area sown
+350;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;More than Once,Area sown
+351;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Total,Area sown
+352;4;Agriculture, Horticulture & Sericulture;4.1;Land Utilization in Hectares 2018-19;Net area Sown to Geographical Area,Area sown
+353;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018-19;Length in kms,canals,Gross and Gross Net Area Irrigated
+354;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018-19;Gross Irrigated Area,canals,Gross and Gross Net Area Irrigated
+355;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018-19;Gross Net Area Irrigated,canals,Gross and Gross Net Area Irrigated
+356;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018-19;Nos,Tanks,Gross and Gross Net Area Irrigated
+357;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018-19;Gross Irrigated Area,Tanks,Gross and Gross Net Area Irrigated
+358;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018-19;Gross Net Area Irrigated,Tanks,Gross and Gross Net Area Irrigated
+359;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018-19;Nos,Open,Gross and Gross Net Area Irrigated
+360;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018-19;Gross Irrigated Area,Open,Gross and Gross Net Area Irrigated
+361;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018-19;Gross Net Area Irrigated,Open,Gross and Gross Net Area Irrigated
+362;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018- 19;Nos,Tube wells,Gross Net Area Irrigated Hectares
+363;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018- 19;Gross Irrigated Area,Tube wells,Gross Net Area Irrigated Hectares
+364;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018- 19;Gross Net Area Irrigated,Tube wells,Gross Net Area Irrigated Hectares
+365;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018- 19;Nos,Lift Irrigation,Gross Net Area Irrigated Hectares
+366;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018- 19;Gross Irrigated Area,Lift Irrigation,Gross Net Area Irrigated Hectares
+367;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018- 19;Net Area Irrigated,Lift Irrigation,Gross Net Area Irrigated Hectares
+368;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018- 19;Gross Irrigated Area,Gross Net Area Irrigated Hectares
+369;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018- 19;Gross Net Area Irrigated,Gross Net Area Irrigated Hectares
+370;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018- 19;Gross Irrigated Area,Total,Gross Net Area Irrigated Hectares
+371;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018- 19;Gross Net Area Irrigated,Total,Gross Net Area Irrigated Hectares
+372;4;Agriculture, Horticulture & Sericulture;4.2;Gross and Net area Irrigated under different Sources 2018- 19;% of Gross Net Area Irrigated to Gross Net Area Sown
+373;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Paddy,Area under Cereals
+374;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Jowar,Area under Cereals
+375;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Bajra,Area under Cereals
+376;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Maize,Area under Cereals
+377;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Ragi,Area under Cereals
+378;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Wheat,Area under Cereals
+379;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Others Cereals,Area under Cereals
+380;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Area under Cereals
+381;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Tur,Area Under Pulses
+382;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Horse Gram,Area Under Pulses
+383;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Black Gram,Area Under Pulses
+384;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Green Gram,Area Under Pulses
+385;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Avare,Area Under Pulses
+386;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Cowpea,Area Under Pulses
+387;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Bengal Gram,Pulses
+388;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Other Pulses,Pulses
+389;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Total Pulses including Tur Bengal Gram,Pulses
+390;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Total Food Grains,Pulses
+391;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;% of under food grains to total area sown
+392;4;Agriculture, Horticulture & Sericulture;4.3;Area Under Principal crops in Hectares 2018-19;Total Area of Flower Crops
+393;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Crops in Hectares 2018-19;Ground Nut,oil seeds
+394;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Crops in Hectares 2018-19;Sun Flower,oil seeds
+395;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Crops in Hectares 2018-19;Saf flower,oil seeds
+396;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Crops in Hectares 2018-19;Castor,oil seeds
+397;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Crops in Hectares 2018-19;Sesamum,oil seeds
+398;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Crops in Hectares 2018-19;Niger,oil seeds
+399;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Crops in Hectares 2018-19;Soyabean,oil seeds
+400;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Crops in Hectares 2018-19;Linseed,oil seeds
+401;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Crops in Hectares 2018-19;Other Oil seeds,oil seeds
+402;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Crops in Hectares 2018-19;Total Oil Seeds,oil seeds
+403;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Crops in Hectares 2018-19;% of areaunder Oil Seeds to Total Area Sown
+404;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Banana,Fruits
+405;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Mango,Fruits
+406;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Lemon,Fruits
+407;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Pineapple,Fruits
+408;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Guava,Fruits
+409;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Grapes,Fruits
+410;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Sapota,Fruits
+411;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Pomogranate,Fruits
+412;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Papaya,Fruits
+413;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Oranage,Fruits
+414;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Watermelon,Fruits
+415;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Others,Fruits
+416;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Total,Fruits
+417;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Tomato,Vegetables
+418;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Brinjal,Vegetables
+419;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Cucumber,Vegetables
+420;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Beans,Vegetables
+421;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Cluster Beans,Vegetables
+422;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Cabbage,Vegetables
+423;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Ridge Gourd,Vegetables
+424;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Bitter Gourd,Vegetables
+425;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Raddish,Vegetables
+426;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Onion,Vegetables
+427;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Beetroot,Vegetables
+428;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Carrot,Vegetables
+429;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Knol khol,Vegetables
+430;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Ladies Finger,Vegetables
+431;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Green Chillies,Vegetables
+432;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Snake gourd,Vegetables
+433;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Bottel Gourd,Vegetables
+434;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Potato,Vegetables
+435;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Pumpkin,Vegetables
+436;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Cauliflower,Vegetables
+437;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Others,Vegetables
+438;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Total Leafy Vegetables,Vegetables
+439;4;Agriculture, Horticulture & Sericulture;4.4;Area Under Principal Horticulture Crops in Hectares 2018-19;Total Vegetables,Vegetables
+440;4;Agriculture, Horticulture & Sericulture;4.5;Area under Commercial Crops 2018-19;Cotton
+441;4;Agriculture, Horticulture & Sericulture;4.5;Area under Commercial Crops 2018-19;Sugar Cane
+442;4;Agriculture, Horticulture & Sericulture;4.5;Area under Commercial Crops 2018-19;Tobacco
+443;4;Agriculture, Horticulture & Sericulture;4.5;Area under Commercial Crops 2018-19;Total Fibers
+444;4;Agriculture, Horticulture & Sericulture;4.5;Area under Commercial Crops 2018-19;Total Condiments spices
+445;4;Agriculture, Horticulture & Sericulture;4.5;Area under Commercial Crops 2018-19;coconuts
+446;4;Agriculture, Horticulture & Sericulture;4.5;Area under Commercial Crops 2018-19;Arecanuts
+447;4;Agriculture, Horticulture & Sericulture;4.5;Area under Commercial Crops 2018-19;Total plantation crops
+448;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Paddy,Production of Cereals
+449;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Jowar,Production of Cereals
+450;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Bajra,Production of Cereals
+451;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Maize,Production of Cereals
+452;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Ragi,Production of Cereals
+453;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Wheat,Production of Cereals
+454;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Total Small Minor Millets,Production of Cereals
+455;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Total Cereals Minor Millets,Production of Cereals
+456;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Tur,Production of Pulses
+457;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Horse Gram,Production of Pulses
+458;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Black Gram,Production of Pulses
+459;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Green Gram,Production of Pulses
+460;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Avare,Production of Pulses
+461;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Cowpea,Production of Pulses
+462;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Bengal Gram,Production of Pulses
+463;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Other Pulses,Production of Pulses
+464;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Total Pulses,Production of Pulses
+465;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;Total Food Grains,Production of Pulses
+466;4;Agriculture, Horticulture & Sericulture;4.6;Production of Important Crops in Tonnes 2018-19;% of food grains production to state total
+467;4;Agriculture, Horticulture & Sericulture;4.7;Production of Important Oil Seeds in Tonnes 2018-19;Ground nut
+468;4;Agriculture, Horticulture & Sericulture;4.7;Production of Important Oil Seeds in Tonnes 2018-19;Sun Flower
+469;4;Agriculture, Horticulture & Sericulture;4.7;Production of Important Oil Seeds in Tonnes 2018-19;Saf flower
+470;4;Agriculture, Horticulture & Sericulture;4.7;Production of Important Oil Seeds in Tonnes 2018-19;Castor
+471;4;Agriculture, Horticulture & Sericulture;4.7;Production of Important Oil Seeds in Tonnes 2018-19;Sesamum
+472;4;Agriculture, Horticulture & Sericulture;4.7;Production of Important Oil Seeds in Tonnes 2018-19;Linseed
+473;4;Agriculture, Horticulture & Sericulture;4.7;Production of Important Oil Seeds in Tonnes 2018-19;Soyabean
+474;4;Agriculture, Horticulture & Sericulture;4.7;Production of Important Oil Seeds in Tonnes 2018-19;Niger Seed
+475;4;Agriculture, Horticulture & Sericulture;4.7;Production of Important Oil Seeds in Tonnes 2018-19;Including other Total Oil Seeds
+476;4;Agriculture, Horticulture & Sericulture;4.8;Production of Commercial Crops in Tonnes 2018- 19;Cotton
+477;4;Agriculture, Horticulture & Sericulture;4.8;Production of Commercial Crops in Tonnes 2018- 19;Harvesting,Sugar Cane
+478;4;Agriculture, Horticulture & Sericulture;4.8;Production of Commercial Crops in Tonnes 2018- 19;Tobacco
+479;4;Agriculture, Horticulture & Sericulture;4.9;Production of Plantation Crops In Tonnes 2018-19;Coconut in Thousand Nuts
+480;4;Agriculture, Horticulture & Sericulture;4.9;Production of Plantation Crops In Tonnes 2018-19;Arecanut Processed
+481;4;Agriculture, Horticulture & Sericulture;4.9;Production of Plantation Crops In Tonnes 2018-19;Cardamom
+482;4;Agriculture, Horticulture & Sericulture;4.9;Production of Plantation Crops In Tonnes 2018-19;Pepper
+483;4;Agriculture, Horticulture & Sericulture;4.9;Production of Plantation Crops In Tonnes 2018-19;Cashewnut Processed
+484;4;Agriculture, Horticulture & Sericulture;4.9;Production of Plantation Crops In Tonnes 2018-19;Cocoa
+485;4;Agriculture, Horticulture & Sericulture;4.10;Production of Important Horticulture crops Fruits In Tonnes 2018-19;Banana
+486;4;Agriculture, Horticulture & Sericulture;4.10;Production of Important Horticulture crops Fruits In Tonnes 2018-19;Mango
+487;4;Agriculture, Horticulture & Sericulture;4.10;Production of Important Horticulture crops Fruits In Tonnes 2018-19;Lemon
+488;4;Agriculture, Horticulture & Sericulture;4.10;Production of Important Horticulture crops Fruits In Tonnes 2018-19;Pineapple
+489;4;Agriculture, Horticulture & Sericulture;4.10;Production of Important Horticulture crops Fruits In Tonnes 2018-19;Guava
+490;4;Agriculture, Horticulture & Sericulture;4.10;Production of Important Horticulture crops Fruits In Tonnes 2018-19;Grapes
+491;4;Agriculture, Horticulture & Sericulture;4.10;Production of Important Horticulture crops Fruits In Tonnes 2018-19;Sapota
+492;4;Agriculture, Horticulture & Sericulture;4.10;Production of Important Horticulture crops Fruits In Tonnes 2018-19;Pomegranate
+493;4;Agriculture, Horticulture & Sericulture;4.10;Production of Important Horticulture crops Fruits In Tonnes 2018-19;Papaya
+494;4;Agriculture, Horticulture & Sericulture;4.11;Production of Important Vegetable crops In Tonnes 2018-19;Potato
+495;4;Agriculture, Horticulture & Sericulture;4.11;Production of Important Vegetable crops In Tonnes 2018-19;Tomato
+496;4;Agriculture, Horticulture & Sericulture;4.11;Production of Important Vegetable crops In Tonnes 2018-19;Brinjal
+497;4;Agriculture, Horticulture & Sericulture;4.11;Production of Important Vegetable crops In Tonnes 2018-19;Beans
+498;4;Agriculture, Horticulture & Sericulture;4.11;Production of Important Vegetable crops In Tonnes 2018-19;Cluster Beans
+499;4;Agriculture, Horticulture & Sericulture;4.11;Production of Important Vegetable crops In Tonnes 2018-19;Onion
+500;4;Agriculture, Horticulture & Sericulture;4.11;Production of Important Vegetable crops In Tonnes 2018-19;Green chillies
+501;4;Agriculture, Horticulture & Sericulture;4.11;Production of Important Vegetable crops In Tonnes 2018-19;Total Leafy Vegetables
+502;4;Agriculture, Horticulture & Sericulture;4.11;Production of Important Vegetable crops In Tonnes 2018-19;Total Gourd Variety Vegetables
+503;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Paddy,Yield of Cereals K.g Hect
+504;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Jowar,Yield of Cereals K.g Hect
+505;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Bajra,Yield of Cereals K.g Hect
+506;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Maize,Yield of Cereals K.g Hect
+507;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Ragi,Yield of Cereals K.g Hect
+508;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Wheat,Yield of Cereals K.g Hect
+509;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Total Smal Millets,Yield of Cereals K.g Hect
+510;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Total Cereals Millets,Yield of Cereals K.g Hect
+511;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Tur,Yield of Pulses In Kgs Hectares
+512;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Horse Gram,Yield of Pulses In Kgs Hectares
+513;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Black Gram,Yield of Pulses In Kgs Hectares
+514;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Green Gram,Yield of Pulses In Kgs Hectares
+515;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Avare,Yield of Pulses In Kgs Hectares
+516;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Cowpea,Yield of Pulses In Kgs Hectares
+517;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Bengal Gram,Yield of Pulses In Kgs Hectares
+518;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Other Pulses,Yield of Pulses In Kgs Hectares
+519;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Total Pulses,Yield of Pulses In Kgs Hectares
+520;4;Agriculture, Horticulture & Sericulture;4.12;Yield of Important Crops 2018-19;Total Food Grains,Yield of Pulses In Kgs Hectares
+521;4;Agriculture, Horticulture & Sericulture;4.13;Yield of Important Oil seeds In Kgs Hectares 2018-19;Ground nut
+522;4;Agriculture, Horticulture & Sericulture;4.13;Yield of Important Oil seeds In Kgs Hectares 2018-19;Sun Flower
+523;4;Agriculture, Horticulture & Sericulture;4.13;Yield of Important Oil seeds In Kgs Hectares 2018-19;Saf flower
+524;4;Agriculture, Horticulture & Sericulture;4.13;Yield of Important Oil seeds In Kgs Hectares 2018-19;Castor
+525;4;Agriculture, Horticulture & Sericulture;4.13;Yield of Important Oil seeds In Kgs Hectares 2018-19;Linseed
+526;4;Agriculture, Horticulture & Sericulture;4.13;Yield of Important Oil seeds In Kgs Hectares 2018-19;Soyabean
+527;4;Agriculture, Horticulture & Sericulture;4.13;Yield of Important Oil seeds In Kgs Hectares 2018-19;Sesamum
+528;4;Agriculture, Horticulture & Sericulture;4.13;Yield of Important Oil seeds In Kgs Hectares 2018-19;Niger Seed
+529;4;Agriculture, Horticulture & Sericulture;4.13;Yield of Important Oil seeds In Kgs Hectares 2018-19;Total Oil Seeds
+530;4;Agriculture, Horticulture & Sericulture;4.14;Yield of Commercial Crops 2018-19;Cotton In Bales
+531;4;Agriculture, Horticulture & Sericulture;4.14;Yield of Commercial Crops 2018-19;Sugar Cane Tonnes per Hectares
+532;4;Agriculture, Horticulture & Sericulture;4.14;Yield of Commercial Crops 2018-19;Tobacco in kgs Hectares
+533;4;Agriculture, Horticulture & Sericulture;4.15;Yield of Plantation Crops In Hectare and Forest Area 2019-20;Arecanut Processed
+534;4;Agriculture, Horticulture & Sericulture;4.15;Yield of Plantation Crops In Hectare and Forest Area 2019-20;Cardamom
+535;4;Agriculture, Horticulture & Sericulture;4.15;Yield of Plantation Crops In Hectare and Forest Area 2019-20;Pepper
+536;4;Agriculture, Horticulture & Sericulture;4.15;Yield of Plantation Crops In Hectare and Forest Area 2019-20;Cashewnut Processed
+537;4;Agriculture, Horticulture & Sericulture;4.15;Yield of Plantation Crops In Hectare and Forest Area 2019-20;Cocoa In Tonnes
+538;4;Agriculture, Horticulture & Sericulture;4.15;Yield of Plantation Crops In Hectare and Forest Area 2019-20;Forest Area in Sq Km,Forest Department
+539;4;Agriculture, Horticulture & Sericulture;4.15;Yield of Plantation Crops In Hectare and Forest Area 2019-20;Saplings Planted In Lakhs,Forest Department
+540;4;Agriculture, Horticulture & Sericulture;4.15;Cold Storage Facilities for Horticulture Crops Capacity in Tonnes 2019-20;Number,Government
+541;4;Agriculture, Horticulture & Sericulture;4.15;Cold Storage Facilities for Horticulture Crops Capacity in Tonnes 2019-20;Capacity,Government
+542;4;Agriculture, Horticulture & Sericulture;4.15;Cold Storage Facilities for Horticulture Crops Capacity in Tonnes 2019-20;Number,Private
+543;4;Agriculture, Horticulture & Sericulture;4.15;Cold Storage Facilities for Horticulture Crops Capacity in Tonnes 2019-20;Capacity,Private
+544;4;Agriculture, Horticulture & Sericulture;4.15;Cold Storage Facilities for Horticulture Crops Capacity in Tonnes 2019-20;Number,Total
+545;4;Agriculture, Horticulture & Sericulture;4.15;Cold Storage Facilities for Horticulture Crops Capacity in Tonnes 2019-20;Capacity,Total
+546;4;Agriculture, Horticulture & Sericulture;4.16;Chemical Fertilizers distributed In Tonnes 2019-20;Nitrogen
+547;4;Agriculture, Horticulture & Sericulture;4.16;Chemical Fertilizers distributed In Tonnes 2019-20;Phosphorus
+548;4;Agriculture, Horticulture & Sericulture;4.16;Chemical Fertilizers distributed In Tonnes 2019-20;Potash
+549;4;Agriculture, Horticulture & Sericulture;4.16;Chemical Fertilizers distributed In Tonnes 2019-20;Total
+550;4;Agriculture, Horticulture & Sericulture;4.16;Chemical Fertilizers distributed In Tonnes 2019-20;% of chemical fertilizers distributed to state total
+551;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 In Quintals;Paddy
+552;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 In Quintals;Wheat
+553;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 In Quintals;Jowar
+554;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 In Quintals;Ragi
+555;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 In Quintals;Maize
+556;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 In Quintals;Bajra
+557;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 In Quintals;Bengal Gram
+558;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 In Quintals;Saf flower
+559;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 In Quintals;Tur
+560;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 In Quintals;Black Gram
+561;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 Quintals and;Green Gram
+562;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 Quintals and;Cowpea
+563;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 Quintals and;Ground Nut
+564;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 Quintals and;Sun flower
+565;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 Quintals and;Soyabean
+566;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 Quintals and;Total Quantity
+567;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 Quintals and;% of seeds distributed to State Total
+568;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 Quintals and;Regulated Markets,Market
+569;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 Quintals and;Sub Markets,Market
+570;4;Agriculture, Horticulture & Sericulture;4.17;Seeds Distributed 2019-20 Quintals and;Total,Market
+571;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Mulbery Area Hects
+572;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Cocoon Production In Tonnes
+573;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;No. of villages under Mulberry
+574;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Sc,Sericulturists
+575;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;St,Sericulturists
+576;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Others,Sericulturists
+577;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Total,Sericulturists
+578;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Value of silk Cocoon Produced Rs. in lakhs
+579;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Cocoon Markets
+580;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Sc,Farmers and reelers benefited under Sericulture Development Programme
+581;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;St,Farmers and reelers benefited under Sericulture Development Programme
+582;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Others,Farmers and reelers benefited under Sericulture Development Programme
+583;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Total,Farmers and reelers benefited under Sericulture Development Programme
+584;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Sc,Farmers and reelers benefited under New initiative for Sericulture development Assoistance to Stakeholders
+585;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;St,Farmers and reelers benefited under New initiative for Sericulture development Assoistance to Stakeholders
+586;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Others,Farmers and reelers benefited under New initiative for Sericulture development Assoistance to Stakeholders
+587;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Total,Farmers and reelers benefited under New initiative for Sericulture development Assoistance to Stakeholders
+588;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Sc,No.of farmers and reelers benefited under balance amount under 2013 Act
+589;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;St,No.of farmers and reelers benefited under balance amount under 2013 Act
+590;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;Others,No.of farmers and reelers benefited under balance amount under 2013 Act
+591;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;No. of farmers benefited under Pradhana Mantri Krishi Sinchayee Yojana
+592;4;Agriculture, Horticulture & Sericulture;4.18;Sericulture 2019-20;No. of farmers benefited under Rashtriya Krishi Vikasa Yojana
+593;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Marginal Agricultural Land Holders Below 1 Ha. Sc
+594;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Marginal Agricultural Land Holders Below 1 Ha. Sc
+595;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Numbers,Marginal Agricultural Land Holders Below 1 Ha. Sc
+596;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Marginal Agricultural Land Holders Below 1 Ha. Sc
+597;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Marginal Agricultural Land Holders Below 1 Ha. Sc
+598;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Marginal Agricultural Land Holders Below 1 Ha. Sc
+599;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Marginal Agricultural Land Holders Below 1 Ha. Sc
+600;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Marginal Agricultural Land Holders Below 1 Ha. Sc
+601;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Marginal Agricultural Land Holders Below 1 Hectare
+602;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Marginal Agricultural Land Holders Below 1 Hectare
+603;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Numbers,Marginal Agricultural Land Holders Below 1 Hectare
+604;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Marginal Agricultural Land Holders Below 1 Hectare
+605;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Marginal Agricultural Land Holders Below 1 Hectare
+606;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Marginal Agricultural Land Holders Below 1 Hectare
+607;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Marginal Agricultural Land Holders Below 1 Hectare
+608;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Marginal Agricultural Land Holders Below 1 Hectare
+609;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Marginal Agricultural Land Holders Below 1 Hectare Others
+610;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Marginal Agricultural Land Holders Below 1 Hectare Others
+611;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Marginal Agricultural Land Holders Below 1 Hectare Others
+612;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Marginal Agricultural Land Holders Below 1 Hectare Others
+613;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Marginal Agricultural Land Holders Below 1 Hectare Others
+614;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Marginal Agricultural Land Holders Below 1 Hectare Others
+615;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Marginal Agricultural Land Holders Below 1 Hectare Others
+616;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Marginal Agricultural Land Holders Below 1 Hectare Others
+617;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Marginal Agricultural Land Holders Below 1 Hectare Total
+618;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Marginal Agricultural Land Holders Below 1 Hectare Total
+619;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Marginal Agricultural Land Holders Below 1 Hectare Total
+620;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Marginal Agricultural Land Holders Below 1 Hectare Total
+621;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Marginal Agricultural Land Holders Below 1 Hectare Total
+622;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Marginal Agricultural Land Holders Below 1 Hectare Total
+623;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Marginal Agricultural Land Holders Below 1 Hectare Total
+624;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Marginal Agricultural Land Holders Below 1 Hectare Total
+625;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;% of marginal land holders to the total land holders,Marginal Agricultural Land Holders Below 1 Hectare Total
+626;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Small Agricultural Land Holders 1-2 Hectare Sc
+627;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Small Agricultural Land Holders 1-2 Hectare Sc
+628;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Small Agricultural Land Holders 1-2 Hectare Sc
+629;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Small Agricultural Land Holders 1-2 Hectare Sc
+630;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Small Agricultural Land Holders 1-2 Hectare Sc
+631;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Small Agricultural Land Holders 1-2 Hectare Sc
+632;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Small Agricultural Land Holders 1-2 Hectare Sc
+633;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Small Agricultural Land Holders 1-2 Hectare Sc
+634;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Small Agricultural Land Holders 1-2 Hectare St
+635;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Small Agricultural Land Holders 1-2 Hectare St
+636;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Small Agricultural Land Holders 1-2 Hectare St
+637;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Small Agricultural Land Holders 1-2 Hectare St
+638;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Small Agricultural Land Holders 1-2 Hectare St
+639;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Small Agricultural Land Holders 1-2 Hectare St
+640;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Small Agricultural Land Holders 1-2 Hectare St
+641;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Small Agricultural Land Holders 1-2 Hectare St
+642;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Small Agricultural Land Holders 1-2 Hectare Others
+643;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Small Agricultural Land Holders 1-2 Hectare Others
+644;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Small Agricultural Land Holders 1-2 Hectare Others
+645;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Small Agricultural Land Holders 1-2 Hectare Others
+646;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Small Agricultural Land Holders 1-2 Hectare Others
+647;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Small Agricultural Land Holders 1-2 Hectare Others
+648;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Small Agricultural Land Holders 1-2 Hectare Others
+649;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Small Agricultural Land Holders 1-2 Hectare Others
+650;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Small Agricultural Land Holders 1-2 Hectare Total
+651;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Small Agricultural Land Holders 1-2 Hectare Total
+652;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Small Agricultural Land Holders 1-2 Hectare Total
+653;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Small Agricultural Land Holders 1-2 Hectare Total
+654;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Small Agricultural Land Holders 1-2 Hectare Total
+655;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Small Agricultural Land Holders 1-2 Hectare Total
+656;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Small Agricultural Land Holders 1-2 Hectare Total
+657;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Small Agricultural Land Holders 1-2 Hectare Total
+658;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;% of small land holders to total land holders,Small Agricultural Land Holders 1-2 Hectare Total
+659;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares Sc
+660;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares Sc
+661;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares Sc
+662;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares Sc
+663;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Semi Medium Agricultural Land Holders 2-4 Hectares Sc
+664;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Semi Medium Agricultural Land Holders 2-4 Hectares Sc
+665;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Semi Medium Agricultural Land Holders 2-4 Hectares Sc
+666;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Semi Medium Agricultural Land Holders 2-4 Hectares Sc
+667;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares St
+668;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares St
+669;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares St
+670;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares St
+671;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Semi Medium Agricultural Land Holders 2-4 Hectares St
+672;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Semi Medium Agricultural Land Holders 2-4 Hectares St
+673;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Semi Medium Agricultural Land Holders 2-4 Hectares St
+674;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Semi Medium Agricultural Land Holders 2-4 Hectares St
+675;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+676;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+677;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+678;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+679;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+680;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+681;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+682;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+683;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+684;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+685;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+686;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+687;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+688;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+689;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+690;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+691;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;% of semi medium land holders to total land holders,Semi Medium Agricultural Land Holders 2-4 Hectares Others
+692;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Medium Agricultural Land Holders 4-10 Hectares Sc
+693;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Medium Agricultural Land Holders 4-10 Hectares Sc
+694;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Medium Agricultural Land Holders 4-10 Hectares Sc
+695;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Medium Agricultural Land Holders 4-10 Hectares Sc
+696;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Medium Agricultural Land Holders 4-10 Hectares Sc
+697;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Medium Agricultural Land Holders 4-10 Hectares Sc
+698;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Medium Agricultural Land Holders 4-10 Hectares Sc
+699;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Medium Agricultural Land Holders 4-10 Hectares Sc
+700;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Medium Agricultural Land Holders 4-10 Hectares St
+701;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Medium Agricultural Land Holders 4-10 Hectares St
+702;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Medium Agricultural Land Holders 4-10 Hectares St
+703;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Medium Agricultural Land Holders 4-10 Hectares St
+704;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Medium Agricultural Land Holders 4-10 Hectares St
+705;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Medium Agricultural Land Holders 4-10 Hectares St
+706;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Medium Agricultural Land Holders 4-10 Hectares St
+707;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Medium Agricultural Land Holders 4-10 Hectares St
+708;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Medium Agricultural Land Holders 4-10 Hectares Others
+709;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Medium Agricultural Land Holders 4-10 Hectares Others
+710;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Medium Agricultural Land Holders 4-10 Hectares Others
+711;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Medium Agricultural Land Holders 4-10 Hectares Others
+712;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Medium Agricultural Land Holders 4-10 Hectares Others
+713;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Medium Agricultural Land Holders 4-10 Hectares Others
+714;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Medium Agricultural Land Holders 4-10 Hectares Others
+715;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Medium Agricultural Land Holders 4-10 Hectares Others
+716;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Medium Agricultural Land Holders 4-10 Hectares Total
+717;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Medium Agricultural Land Holders 4-10 Hectares Total
+718;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Medium Agricultural Land Holders 4-10 Hectares Total
+719;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Medium Agricultural Land Holders 4-10 Hectares Total
+720;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Medium Agricultural Land Holders 4-10 Hectares Total
+721;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Medium Agricultural Land Holders 4-10 Hectares Total
+722;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Medium Agricultural Land Holders 4-10 Hectares Total
+723;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Medium Agricultural Land Holders 4-10 Hectares Total
+724;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;% of medium land holders to total land holders,Medium Agricultural Land Holders 4-10 Hectares Total
+725;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Large Agricultural Land Holders More than 10 Hectare
+726;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Large Agricultural Land Holders More than 10 Hectare
+727;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Large Agricultural Land Holders More than 10 Hectare
+728;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Large Agricultural Land Holders More than 10 Hectare
+729;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Large Agricultural Land Holders More than 10 Hectare
+730;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Large Agricultural Land Holders More than 10 Hectare
+731;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Large Agricultural Land Holders More than 10 Hectare
+732;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Large Agricultural Land Holders More than 10 Hectare
+733;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Large Agricultural Land Holders More than 10 Hectar
+734;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Large Agricultural Land Holders More than 10 Hectar
+735;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Large Agricultural Land Holders More than 10 Hectar
+736;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Large Agricultural Land Holders More than 10 Hectar
+737;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Large Agricultural Land Holders More than 10 Hectar
+738;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Large Agricultural Land Holders More than 10 Hectar
+739;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Large Agricultural Land Holders More than 10 Hectar
+740;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Large Agricultural Land Holders More than 10 Hectar
+741;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Large Agricultural Land Holders More than 10 Hectares
+742;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Large Agricultural Land Holders More than 10 Hectares
+743;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Large Agricultural Land Holders More than 10 Hectares
+744;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Large Agricultural Land Holders More than 10 Hectares
+745;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Large Agricultural Land Holders More than 10 Hectares
+746;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Large Agricultural Land Holders More than 10 Hectares
+747;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Large Agricultural Land Holders More than 10 Hectares
+748;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Large Agricultural Land Holders More than 10 Hectares
+749;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Large Agricultural Land Holders More than 10 Hectares
+750;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Large Agricultural Land Holders More than 10 Hectares
+751;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Large Agricultural Land Holders More than 10 Hectares
+752;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Large Agricultural Land Holders More than 10 Hectares
+753;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Large Agricultural Land Holders More than 10 Hectares
+754;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Large Agricultural Land Holders More than 10 Hectares
+755;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Large Agricultural Land Holders More than 10 Hectares
+756;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Large Agricultural Land Holders More than 10 Hectares
+757;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;% of large land holders to total land holders,Large Agricultural Land Holders More than 10 Hectares
+758;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Total Agricultural Land Holders Sc
+759;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Total Agricultural Land Holders Sc
+760;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Total Agricultural Land Holders Sc
+761;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Total Agricultural Land Holders Sc
+762;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Total Agricultural Land Holders Sc
+763;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Total Agricultural Land Holders Sc
+764;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Total Agricultural Land Holders Sc
+765;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Total Agricultural Land Holders Sc
+766;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Total Agricultural Land Holders St
+767;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Total Agricultural Land Holders St
+768;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Total Agricultural Land Holders St
+769;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Total Agricultural Land Holders St
+770;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Total Agricultural Land Holders St
+771;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Total Agricultural Land Holders St
+772;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Total Agricultural Land Holders St
+773;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Total Agricultural Land Holders St
+774;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Total Agricultural Land Holders Others
+775;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Total Agricultural Land Holders Others
+776;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Total Agricultural Land Holders Others
+777;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Total Agricultural Land Holders Others
+778;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Total Agricultural Land Holders Others
+779;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Total Agricultural Land Holders Others
+780;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Total Agricultural Land Holders Others
+781;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Total Agricultural Land Holders Others
+782;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Numbers,Total Agricultural Land Holders Total
+783;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Numbers,Total Agricultural Land Holders Total
+784;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institution,Numbers,Total Agricultural Land Holders Total
+785;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Numbers,Total Agricultural Land Holders Total
+786;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Male,Area,Total Agricultural Land Holders Total
+787;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Female,Area,Total Agricultural Land Holders Total
+788;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Institutions,Area,Total Agricultural Land Holders Total
+789;4;Agriculture, Horticulture & Sericulture;4.19;Agricultural Land Holdings and Area per 2015-16 census;Total,Area,Total Agricultural Land Holders Total
+790;5;Fisheries;5.1;20 12 Livestock Census 2012 In Numbers;Indigenous Breed,Cattle
+791;5;Fisheries;5.1;20 12 Livestock Census 2012 In Numbers;Exotic Breed,Cattle
+792;5;Fisheries;5.1;20 12 Livestock Census 2012 In Numbers;Cross Breed,Cattle
+793;5;Fisheries;5.1;20 12 Livestock Census 2012 In Numbers;Total,Cattle
+794;5;Fisheries;5.1;20 12 Livestock Census 2012 In Numbers;Bufaloes
+795;5;Fisheries;5.1;20 12 Livestock Census 2012 In Numbers;Indigenous Breed,Sheep
+796;5;Fisheries;5.1;20 12 Livestock Census 2012 In Numbers;Exotic Breed,Sheep
+797;5;Fisheries;5.1;20 12 Livestock Census 2012 In Numbers;Cross Breed,Sheep
+798;5;Fisheries;5.1;20 12 Livestock Census 2012 In Numbers;Total,Sheep
+799;5;Fisheries;5.1;Livestock Census 2012;Goats
+800;5;Fisheries;5.1;Livestock Census 2012;Indigenous Breed,Pigs
+801;5;Fisheries;5.1;Livestock Census 2012;Exotic Breed,Pigs
+802;5;Fisheries;5.1;Livestock Census 2012;Cross Breed,Pigs
+803;5;Fisheries;5.1;Livestock Census 2012;Total,Pigs
+804;5;Fisheries;5.1;Livestock Census 2012;Rabbits
+805;5;Fisheries;5.1;Livestock Census 2012;Dogs
+806;5;Fisheries;5.1;Livestock Census 2012;Others
+807;5;Fisheries;5.1;Livestock Census 2012;Total Livestock
+808;5;Fisheries;5.1;Livestock Census 2012;Total Poultry
+809;5;Fisheries;5.1;Livestock Census 2012;% of Total Livestock to state total
+810;5;Fisheries;5.2;Veterinary Hospitals on 31-03-2020;Veterinary Hospitals
+811;5;Fisheries;5.2;Veterinary Hospitals on 31-03-2020;Dispensaries
+812;5;Fisheries;5.2;Veterinary Hospitals on 31-03-2020;Primary Veterinary Centers
+813;5;Fisheries;5.2;Veterinary Hospitals on 31-03-2020;Mobile Dispensaries
+814;5;Fisheries;5.2;Veterinary Hospitals on 31-03-2020;Artificial Insemination Centers
+815;5;Fisheries;5.2;Veterinary Hospitals on 31-03-2020;Others
+816;5;Fisheries;5.2;Veterinary Hospitals on 31-03-2020;Total
+817;5;Fisheries;5.3;Artificial Insemination and Dairy Production 2019-20;Artificially Inseminated Animals
+818;5;Fisheries;5.3;Artificial Insemination and Dairy Production 2019-20;Animals Treated
+819;5;Fisheries;5.3;Artificial Insemination and Dairy Production 2019-20;Production of Milk In Thousand Tonnes
+820;5;Fisheries;5.3;Artificial Insemination and Dairy Production 2019-20;Production of Eggs In Lakhs
+821;5;Fisheries;5.3;Artificial Insemination and Dairy Production 2019-20;Meat Production In Tonnes
+822;5;Fisheries;5.4;2018-19 Fisheries 2019-20;Fish catch In Tonnes
+823;5;Fisheries;5.4;2018-19 Fisheries 2019-20;Number,Ice Plants
+824;5;Fisheries;5.4;2018-19 Fisheries 2019-20;Capacity M.Tonnes day,Ice Plants
+825;5;Fisheries;5.4;2018-19 Fisheries 2019-20;Number,Cold storage Centres
+826;5;Fisheries;5.4;2018-19 Fisheries 2019-20;Capacity M.Tonnes day,Cold storage Centres
+827;5;Fisheries;5.4;2018-19 Fisheries 2019-20;Tanks of Panchayth Raj,No. of Fishing Tanks
+828;5;Fisheries;5.4;2018-19 Fisheries 2019-20;Tanks of Minor Irrigation Department,No. of Fishing Tanks
+829;5;Fisheries;5.4;Fisheries 2019-20;Full Time,No of Families involved in fishing
+830;5;Fisheries;5.4;Fisheries 2019-20;Part Time,No of Families involved in fishing
+831;5;Fisheries;5.4;Fisheries 2019-20;No. of Beneficiaries under Matsyashraya Yojane
+832;5;Fisheries;5.4;Fisheries 2019-20;No of Fishlets In Lakhs
+833;5;Fisheries;5.4;Fisheries 2019-20;No of Fish Markets
+834;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Factories,Readymade Garments
+835;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Male,Employees,Readymade Garments
+836;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Female,Employees,Readymade Garments
+837;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Factories,Textiles
+838;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Male,Employees,Textiles
+839;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Female,Employees,Textiles
+840;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Factories,Chemical
+841;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Male,Employees,Chemical
+842;6;Industries;6.1;Number of Factories and Employees on 31-03-2020 Cumulative;Female,Employees,Chemical
+843;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Factories,Engineering
+844;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Male,Employees,Engineering
+845;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Female,Employees,Engineering
+846;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Factories,Others
+847;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Male,Employees,Others
+848;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Female,Employees,Others
+849;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Factories,Total
+850;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Male,Employees,Total
+851;6;Industries;6.1;Number of Factories Employees on 31-03-2020 Cumulative;Female,Employees,Total
+852;6;Industries;6.1;Of the total New Factories started in 2019-20 and their Employees;Factories
+853;6;Industries;6.1;Of the total New Factories started in 2019-20 and their Employees;Male,Employees
+854;6;Industries;6.1;Of the total New Factories started in 2019-20 and their Employees;Female,Employees
+855;6;Industries;6.1;Of the total New Factories started in 2019-20 and their Employees;Total,Employees
+856;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Automobiles
+857;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Automobiles
+858;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Automobiles
+859;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Automobiles
+860;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Electricals Electronics
+861;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Electricals Electronics
+862;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Electricals Electronics
+863;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Electricals Electronics
+864;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Chemicals
+865;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Chemicals
+866;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Chemicals
+867;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Chemicals
+868;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Food Intoxicants
+869;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Food Intoxicants
+870;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Food Intoxicants
+871;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Food Intoxicants
+872;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Leather
+873;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Leather
+874;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Leather
+875;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Leather
+876;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Paper and Printing
+877;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Paper and Printing
+878;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Paper and Printing
+879;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Paper and Printing
+880;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Rubber and plastic
+881;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Rubber and plastic
+882;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Rubber and plastic
+883;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Rubber and plastic
+884;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Textiles
+885;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Textiles
+886;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Textiles
+887;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Textiles
+888;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Wood
+889;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Wood
+890;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Wood
+891;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Wood
+892;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Others
+893;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Others
+894;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Others
+895;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Others
+896;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Other Service Activities
+897;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Other Service Activities
+898;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Other Service Activities
+899;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Other Service Activities
+900;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;No.,Total
+901;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;% of Industries to state total,Total
+902;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Male,Employees,Total
+903;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Female,Employees,Total
+904;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;Total,Employees,Total
+905;6;Industries;6.2;Small Scale Units Registered in District Industrial Centre on 31-03-2020 Cumulative In Numbers;% of Employment to State total,Total
+906;6;Industries;6.2;Of the Total New Small Scale Industries started in 2019-20 and their Employees;No.
+907;6;Industries;6.2;Of the Total New Small Scale Industries started in 2019-20 and their Employees;Male,Employees
+908;6;Industries;6.2;Of the Total New Small Scale Industries started in 2019-20 and their Employees;Female,Employees
+909;6;Industries;6.2;Of the Total New Small Scale Industries started in 2019-20 and their Employees;Total,Employees
+910;6;Industries;6.3;No. of Working Factories and Cane Crushed 2019-20;Working Factories Nos,No. of Working Factories and Cane Crushed
+911;6;Industries;6.3;No. of Working Factories and Cane Crushed 2019-20;Cane rushed In MTs,No. of Working Factories and Cane Crushed
+912;6;Industries;6.3;No. of Working Factories and Cane Crushed 2019-20;Sugar Produced In MTs,No. of Working Factories and Cane Crushed
+913;6;Industries;6.3;No. of Working Factories and Cane Crushed 2019-20;No of Enterprises engaged in Trade Hotels and Transport activities per 2015 Economic Census
+914;6;Industries;6.4;Number of Industrial Estates Sheds and Plots on 31-03-2020;Estates,Factories
+915;6;Industries;6.4;Number of Industrial Estates Sheds and Plots on 31-03-2020;Sheds,Factories
+916;6;Industries;6.4;Number of Industrial Estates Sheds and Plots on 31-03-2020;Plots,Factories
+917;7;Banks;7.1;Bank-wise Deposits and Credits Distributed in 2019-20;No. of Branches,Regional Rural Banks In Lakhs
+918;7;Banks;7.1;Bank-wise Deposits and Credits Distributed in 2019-20;No. of ATMs,Regional Rural Banks In Lakhs
+919;7;Banks;7.1;Bank-wise Deposits and Credits Distributed in 2019-20;Agriculture Sector Loan,Regional Rural Banks In Lakhs
+920;7;Banks;7.1;Bank-wise Deposits and Credits Distributed in 2019-20;Industrial Sector Loan,Regional Rural Banks In Lakhs
+921;7;Banks;7.1;Bank-wise Deposits and Credits Distributed in 2019-20;Service Sector Loan,Regional Rural Banks In Lakhs
+922;7;Banks;7.1;Bank-wise Deposits and Credits Distributed in 2019-20;Other Loans,Regional Rural Banks In Lakhs
+923;7;Banks;7.1;Bank-wise Deposits and Credits Distributed in 2019-20;Total Loans,Regional Rural Banks In Lakhs
+924;7;Banks;7.1;Bank-wise Deposits and Credits Distributed in 2019-20;Deposits,Regional Rural Banks In Lakhs
+925;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;No. of Branches,Public Sector Banks In Lakhs
+926;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;No. of ATMs,Public Sector Banks In Lakhs
+927;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;Agriculture Sector Loan,Public Sector Banks In Lakhs
+928;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;Industrial Sector Loan,Public Sector Banks In Lakhs
+929;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;Service Sector Loan,Public Sector Banks In Lakhs
+930;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;Other Loans,Public Sector Banks In Lakhs
+931;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;Total Loans,Public Sector Banks In Lakhs
+932;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;Deposits,Public Sector Banks In Lakhs
+933;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;No. of Branches,Foreign Banks In Lakhs
+934;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;No. of ATMs,Foreign Banks In Lakhs
+935;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;Agriculture Sector Loan,Foreign Banks In Lakhs
+936;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;Industrial Sector Loan,Foreign Banks In Lakhs
+937;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;Service Sector Loan,Foreign Banks In Lakhs
+938;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;Other Loans,Foreign Banks In Lakhs
+939;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;Total Loans,Foreign Banks In Lakhs
+940;7;Banks;7.2;Bankwise Deposits and Credits Distributed in 2019-20;Deposits,Foreign Banks In Lakhs
+941;7;Banks;7.2;Bankwise Deposits and Credits Distributed 2019-20;No. of Branches,Private Sector Banks In Lakhs
+942;7;Banks;7.2;Bankwise Deposits and Credits Distributed 2019-20;No. of ATMs,Private Sector Banks In Lakhs
+943;7;Banks;7.2;Bankwise Deposits and Credits Distributed 2019-20;Agriculture Sector Loan,Private Sector Banks In Lakhs
+944;7;Banks;7.2;Bankwise Deposits and Credits Distributed 2019-20;Industrial Sector Loan,Private Sector Banks In Lakhs
+945;7;Banks;7.2;Bankwise Deposits and Credits Distributed 2019-20;Service Sector Loan,Private Sector Banks In Lakhs
+946;7;Banks;7.2;Bankwise Deposits and Credits Distributed 2019-20;Other Loans,Private Sector Banks In Lakhs
+947;7;Banks;7.2;Bankwise Deposits and Credits Distributed 2019-20;Total Loans,Private Sector Banks In Lakhs
+948;7;Banks;7.2;Bankwise Deposits and Credits Distributed 2019-20;Deposits,Private Sector Banks In Lakhs
+949;8;Co-Operation and Agricultural Marketing;8.1;Dcc Banks 2019-20;No. of Dcc Bank Branches,In Lakhs
+950;8;Co-Operation and Agricultural Marketing;8.1;Dcc Banks 2019-20;No of Members Availed Loan,In Lakhs
+951;8;Co-Operation and Agricultural Marketing;8.1;Dcc Banks 2019-20;Agriculture Loan,In Lakhs
+952;8;Co-Operation and Agricultural Marketing;8.1;Dcc Banks 2019-20;Other Loan,In Lakhs
+953;8;Co-Operation and Agricultural Marketing;8.1;Dcc Banks 2019-20;Total Loan,In Lakhs
+954;8;Co-Operation and Agricultural Marketing;8.1;Dcc Banks 2019-20;Deposits,In Lakhs
+955;8;Co-Operation and Agricultural Marketing;8.2;Kscard Pld Banks 2019-20 Rs. In Lakhs;No. of Pld Banks
+956;8;Co-Operation and Agricultural Marketing;8.2;Kscard Pld Banks 2019-20 Rs. In Lakhs;No of Members Availed Loan
+957;8;Co-Operation and Agricultural Marketing;8.2;Kscard Pld Banks 2019-20 Rs. In Lakhs;Agriculture Loan
+958;8;Co-Operation and Agricultural Marketing;8.2;Kscard Pld Banks 2019-20 Rs. In Lakhs;Other Loan
+959;8;Co-Operation and Agricultural Marketing;8.2;Kscard Pld Banks 2019-20 Rs. In Lakhs;Total Loan
+960;8;Co-Operation and Agricultural Marketing;8.2;Kscard Pld Banks 2019-20 Rs. In Lakhs;Deposits
+961;8;Co-Operation and Agricultural Marketing;8.3;Credit Co-operative Societies on 31-03-2020 In Cumulative Numbers;Society,Agricultural
+962;8;Co-Operation and Agricultural Marketing;8.3;Credit Co-operative Societies on 31-03-2020 In Cumulative Numbers;Members,Agricultural
+963;8;Co-Operation and Agricultural Marketing;8.3;Credit Co-operative Societies on 31-03-2020 In Cumulative Numbers;Society,Non-Agricultural
+964;8;Co-Operation and Agricultural Marketing;8.3;Credit Co-operative Societies on 31-03-2020 In Cumulative Numbers;Members,Non-Agricultural
+965;8;Co-Operation and Agricultural Marketing;8.3;Credit Co-operative Societies on 31-03-2020 In Cumulative Numbers;Society,Total
+966;8;Co-Operation and Agricultural Marketing;8.3;Credit Co-operative Societies on 31-03-2020 In Cumulative Numbers;Members,Total
+967;8;Co-Operation and Agricultural Marketing;8.4;Non-Credit Co-operative Socities on 31-03-2020 In Cumulative Numbers;Society,Marketin
+968;8;Co-Operation and Agricultural Marketing;8.4;Non-Credit Co-operative Socities on 31-03-2020 In Cumulative Numbers;Members,Marketin
+969;8;Co-Operation and Agricultural Marketing;8.4;Non-Credit Co-operative Socities on 31-03-2020 In Cumulative Numbers;Society,Housing
+970;8;Co-Operation and Agricultural Marketing;8.4;Non-Credit Co-operative Socities on 31-03-2020 In Cumulative Numbers;Members,Housing
+971;8;Co-Operation and Agricultural Marketing;8.4;Non-Credit Co-operative Socities on 31-03-2020 In Cumulative Numbers;Society,Milk
+972;8;Co-Operation and Agricultural Marketing;8.4;Non-Credit Co-operative Socities on 31-03-2020 In Cumulative Numbers;Member,Milk
+973;8;Co-Operation and Agricultural Marketing;8.4;Non-Credit Co-operative Socities on 31-03-2020 In Cumulative Numbers;Society,Others
+974;8;Co-Operation and Agricultural Marketing;8.4;Non-Credit Co-operative Socities on 31-03-2020 In Cumulative Numbers;Members,Others
+975;8;Co-Operation and Agricultural Marketing;8.4;Non-Credit Co-operative Socities on 31-03-2020 In Cumulative Numbers;Socie,Total
+976;8;Co-Operation and Agricultural Marketing;8.4;Non-Credit Co-operative Socities on 31-03-2020 In Cumulative Numbers;Members,Total
+977;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Multiaxled Airculated Vehicles,Goods Vehicles
+978;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Trucks and Lorries,Goods Vehicles
+979;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Four Wheelers,Goods Vehicles
+980;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Wheelers,Goods Vehicles
+981;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Total,Goods Vehicles
+982;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Stage Carriag,Buses
+983;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Contract Vehicles,Buses
+984;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Private Service Vehicles,Buses
+985;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Educational Institution Vehicles,Buses
+986;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Other Buses,Buses
+987;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Total Buses
+988;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Motor Cabs,Taxies
+989;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Maxi Cabs,Taxies
+990;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Other Cabs,Taxies
+991;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Seated Vehicles Auto Rickshaws,Passengers Vehicles
+992;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Four to Six Seated Vehiclea,Passengers Vehicles
+993;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Scooters,Two Wheelers
+994;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Mopeds,Two Wheelers
+995;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Motor Cycles,Two Wheelers
+996;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Total,Two Wheelers
+997;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Cars,Motor Vehicles
+998;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Jeep,Motor Vehicles
+999;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Omni Bus,Motor Vehicles
+1000;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Tractors,Motor Vehicles
+1001;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Tillers,Motor Vehicles
+1002;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Vehicles For Carrying Construction Materials
+1003;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Others Vehicles
+1004;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;Total Motor Vehicles
+1005;9;Transport and Communication;9.1;Motor Vehicles on 31-03-2020 In Cumulative Numbers;% of total motor vehicles to the state total
+1006;9;Transport and Communication;9.2;P.w.d Road Length on 31-03-2020 In Kms. Cumulative;National Highway
+1007;9;Transport and Communication;9.2;P.w.d Road Length on 31-03-2020 In Kms. Cumulative;State Highway
+1008;9;Transport and Communication;9.2;P.w.d Road Length on 31-03-2020 In Kms. Cumulative;Major District Roads
+1009;9;Transport and Communication;9.2;P.w.d Road Length on 31-03-2020 In Kms. Cumulative;Major Bridges in Nos.
+1010;9;Transport and Communication;9.2;P.w.d Road Length on 31-03-2020 In Kms. Cumulative;Length of Railway Lines
+1011;9;Transport and Communication;9.3;Length of Rural Roads and Number of Habitations having access to All Weather Roads on 31-03-2020 Cumulative;Pucca Road,Panchayat Roads,Length of Rural Roads In Kms.
+1012;9;Transport and Communication;9.3;Length of Rural Roads and Number of Habitations having access to All Weather Roads on 31-03-2020 Cumulative;Water Bound Macadam Road,Panchayat Roads,Length of Rural Roads In Kms.
+1013;9;Transport and Communication;9.3;Length of Rural Roads and Number of Habitations having access to All Weather Roads on 31-03-2020 Cumulative;Kaccha Road,Panchayat Roads,Length of Rural Roads In Kms.
+1014;9;Transport and Communication;9.3;Length of Rural Roads and Number of Habitations having access to All Weather Roads on 31-03-2020 Cumulative;Total Road,Panchayat Roads,Length of Rural Roads In Kms.
+1015;9;Transport and Communication;9.3;Length of Rural Roads and Number of Habitations having access to All Weather Roads on 31-03-2020 Cumulative;Total No.of Habitations,No.of Habitations access to all weather roads
+1016;9;Transport and Communication;9.3;Length of Rural Roads and Number of Habitations having access to All Weather Roads on 31-03-2020 Cumulative;No.of Habitations access to all weather roads
+1017;9;Transport and Communication;9.3;Length of Rural Roads and Number of Habitations having access to All Weather Roads on 31-03-2020 Cumulative;% of Habitations access to all weather roads,No.of Habitations access to all weather roads
+1018;9;Transport and Communication;9.4;Post Offices Telephone Exchanges and Telephones on 31-03-2020 Cumulative;Post Offices,Communications in Numbers
+1019;9;Transport and Communication;9.4;Post Offices Telephone Exchanges and Telephones on 31-03-2020 Cumulative;Telephone Exchanges,Communications in Numbers
+1020;9;Transport and Communication;9.4;Post Offices Telephone Exchanges and Telephones on 31-03-2020 Cumulative;Telephones,Communications in Numbers
+1021;9;Transport and Communication;9.4;Post Offices Telephone Exchanges and Telephones on 31-03-2020 Cumulative;Mobile Phones,Communications in Numbers
+1022;9;Transport and Communication;9.4;Post Offices Telephone Exchanges and Telephones on 31-03-2020 Cumulative;Internet Connections,Communications in Numbers
+1023;10;Education;10.1;Literates 2011 Census;Male,Rural
+1024;10;Education;10.1;Literates 2011 Census;Female,Rural
+1025;10;Education;10.1;Literates 2011 Census;Total,Rural
+1026;10;Education;10.1;Literates 2011 Census;Male,Urban
+1027;10;Education;10.1;Literates 2011 Census;Female,Urban
+1028;10;Education;10.1;Literates 2011 Census;Total,Urban
+1029;10;Education;10.1;Literates 2011 Census;Male,Total
+1030;10;Education;10.1;Literates 2011 Census;Female,Total
+1031;10;Education;10.1;Literates 2011 Census;Total
+1032;10;Education;10.2;Literacy Rate In Percentage per 2011 Census;Male,Rural
+1033;10;Education;10.2;Literacy Rate In Percentage per 2011 Census;Female,Rural
+1034;10;Education;10.2;Literacy Rate In Percentage per 2011 Census;Total,Rural
+1035;10;Education;10.2;Literacy Rate In Percentage per 2011 Census;Male,Urban
+1036;10;Education;10.2;Literacy Rate In Percentage per 2011 Census;Female,Urban
+1037;10;Education;10.2;Literacy Rate In Percentage per 2011 Census;Total,Urban
+1038;10;Education;10.2;Literacy Rate In Percentage per 2011 Census;Male,Total
+1039;10;Education;10.2;Literacy Rate In Percentage per 2011 Census;Female,Total
+1040;10;Education;10.2;Literacy Rate In Percentage per 2011 Census;Total
+1041;10;Education;10.2;Literacy Rate In Percentage per 2011 Census;Rank
+1042;10;Education;10.3;No.of Lower Primary Schools From 1st To 5th and Students 2019-20;No.of Schools
+1043;10;Education;10.3;No.of Lower Primary Schools From 1st To 5th and Students 2019-20;Boys,Total Enrolment
+1044;10;Education;10.3;No.of Lower Primary Schools From 1st To 5th and Students 2019-20;Girls,Total Enrolment
+1045;10;Education;10.3;No.of Lower Primary Schools From 1st To 5th and Students 2019-20;Total,Total Enrolment
+1046;10;Education;10.4;No.of Higher Primary Schools From 6th To 8th and Students 2019-20;No.of Schools
+1047;10;Education;10.4;No.of Higher Primary Schools From 6th To 8th and Students 2019-20;Boys,Total Enrolment
+1048;10;Education;10.4;No.of Higher Primary Schools From 6th To 8th and Students 2019-20;Girls,Total Enrolment
+1049;10;Education;10.4;No.of Higher Primary Schools From 6th To 8th and Students 2019-20;Total,Total Enrolment
+1050;10;Education;10.5;No.of High Schools and Students 2019-20;No.of Schools
+1051;10;Education;10.5;No.of High Schools and Students 2019-20;Boys,Total Enrolment
+1052;10;Education;10.5;No.of High Schools and Students 2019-20;Girls,Total Enrolment
+1053;10;Education;10.5;No.of High Schools and Students 2019-20;Total,Total Enrolment
+1054;10;Education;10.6;No.of Lower and Upper Primary School Teachers and Student Teacher Ratio 2019-20;Tot Enrolment of Students In No.
+1055;10;Education;10.6;No.of Lower and Upper Primary School Teachers and Student Teacher Ratio 2019-20;Male,No.of Primary School Teachersal
+1056;10;Education;10.6;No.of Lower and Upper Primary School Teachers and Student Teacher Ratio 2019-20;Female,No.of Primary School Teachersal
+1057;10;Education;10.6;No.of Lower and Upper Primary School Teachers and Student Teacher Ratio 2019-20;Total,No.of Primary School Teachersal
+1058;10;Education;10.6;No.of Lower and Upper Primary School Teachers and Student Teacher Ratio 2019-20;Student Teacher Ratio
+1059;10;Education;10.7;No.of High School Teachers and Student Teacher Ratio 2019-20;Total Enrolment of Students In No.
+1060;10;Education;10.7;No.of High School Teachers and Student Teacher Ratio 2019-20;Male,No.of High School Teachers
+1061;10;Education;10.7;No.of High School Teachers and Student Teacher Ratio 2019-20;Female,No.of High School Teachers
+1062;10;Education;10.7;No.of High School Teachers and Student Teacher Ratio 2019-20;Total,No.of High School Teachers
+1063;10;Education;10.7;No.of High School Teachers and Student Teacher Ratio 2019-20;Student Teacher Ratio
+1064;10;Education;10.8;No.of Children in the age group 6 to 14 years and No of Children out of school 2019-20;Boys,No.of Children Enrollment in age group 6 to 14 years
+1065;10;Education;10.8;No.of Children in the age group 6 to 14 years and No of Children out of school 2019-20;Girls,No.of Children Enrollment in age group 6 to 14 years
+1066;10;Education;10.8;No.of Children in the age group 6 to 14 years and No of Children out of school 2019-20;Total,No.of Children Enrollment in age group 6 to 14 years
+1067;10;Education;10.8;No.of Children in the age group 6 to 14 years and No of Children out of school 2019-20;Boys,No.of Children Out of school in age group 6 to 14 years
+1068;10;Education;10.8;No.of Children in the age group 6 to 14 years and No of Children out of school 2019-20;Girls,No.of Children Out of school in age group 6 to 14 years
+1069;10;Education;10.8;No.of Children in the age group 6 to 14 years and No of Children out of school 2019-20;Total,No.of Children Out of school in age group 6 to 14 years
+1070;10;Education;10.8;No.of Children in the age group 6 to 14 years and No of Children out of school 2019-20;Drop out ratio
+1071;10;Education;10.9;Infrastructure Facilities in Primary Schools Lower and Upper on 31-03-2020 In Numbers;No.of Primary Schools
+1072;10;Education;10.9;Infrastructure Facilities in Primary Schools Lower and Upper on 31-03-2020 In Numbers;Boys Toilet
+1073;10;Education;10.9;Infrastructure Facilities in Primary Schools Lower and Upper on 31-03-2020 In Numbers;Girls Toilet
+1074;10;Education;10.9;Infrastructure Facilities in Primary Schools Lower and Upper on 31-03-2020 In Numbers;Electricity
+1075;10;Education;10.9;Infrastructure Facilities in Primary Schools Lower and Upper on 31-03-2020 In Numbers;Play Ground
+1076;10;Education;10.9;Infrastructure Facilities in Primary Schools Lower and Upper on 31-03-2020 In Numbers;Ramp
+1077;10;Education;10.9;Infrastructure Facilities in Primary Schools Lower and Upper on 31-03-2020 In Numbers;Compound
+1078;10;Education;10.9;Infrastructure Facilities in Primary Schools Lower and Upper on 31-03-2020 In Numbers;Drinking Water
+1079;10;Education;10.9;Infrastructure Facilities in Primary Schools Lower and Upper on 31-03-2020 In Numbers;Library
+1080;10;Education;10.9;Infrastructure Facilities in Primary Schools Lower and Upper on 31-03-2020 In Numbers;Computer
+1081;10;Education;10.10;Infrastructure Facilities in High Schools on 31-03-2020 In Numbers;No.of High Schools
+1082;10;Education;10.10;Infrastructure Facilities in High Schools on 31-03-2020 In Numbers;Boys Toilet
+1083;10;Education;10.10;Infrastructure Facilities in High Schools on 31-03-2020 In Numbers;Girls Toilet
+1084;10;Education;10.10;Infrastructure Facilities in High Schools on 31-03-2020 In Numbers;Electricity
+1085;10;Education;10.10;Infrastructure Facilities in High Schools on 31-03-2020 In Numbers;Play Ground
+1086;10;Education;10.10;Infrastructure Facilities in High Schools on 31-03-2020 In Numbers;Ramp
+1087;10;Education;10.10;Infrastructure Facilities in High Schools on 31-03-2020 In Numbers;Compound
+1088;10;Education;10.10;Infrastructure Facilities in High Schools on 31-03-2020 In Numbers;Drinking Water
+1089;10;Education;10.10;Infrastructure Facilities in High Schools on 31-03-2020 In Numbers;Library
+1090;10;Education;10.10;Infrastructure Facilities in High Schools on 31-03-2020 In Numbers;Computer
+1091;10;Education;10.11;No.of Pre University Colleges Students and Lecturers 2019-20;No of Colleges
+1092;10;Education;10.11;No.of Pre University Colleges Students and Lecturers 2019-20;Male,No.of Lecturers
+1093;10;Education;10.11;No.of Pre University Colleges Students and Lecturers 2019-20;Female,No.of Lecturers
+1094;10;Education;10.11;No.of Pre University Colleges Students and Lecturers 2019-20;Boys,Government,No.Of Students 1st and 2nd Year
+1095;10;Education;10.11;No.of Pre University Colleges Students and Lecturers 2019-20;Girls,Government,No.Of Students 1st and 2nd Year
+1096;10;Education;10.11;No.of Pre University Colleges Students and Lecturers 2019-20;Boys,Aided,Private,No.Of Students 1st and 2nd Year
+1097;10;Education;10.11;No.of Pre University Colleges Students and Lecturers 2019-20;Girls,Aided,Private,No.Of Students 1st and 2nd Year
+1098;10;Education;10.11;No.of Pre University Colleges Students and Lecturers 2019-20;Boys,Unaided,Private,No.Of Students 1st and 2nd Year
+1099;10;Education;10.11;No.of Pre University Colleges Students and Lecturers 2019-20;Girls,Unaided,Private,No.Of Students 1st and 2nd Year
+1100;10;Education;10.11;No.of Pre University Colleges Students and Lecturers 2019-20;Boys,Total Students,No.Of Students 1st and 2nd Year
+1101;10;Education;10.11;No.of Pre University Colleges Students and Lecturers 2019-20;Girls,Total Students,No.Of Students 1st and 2nd Year
+1102;10;Education;10.12;No.of General Degree Colleges and Students 2019-20;No.of Colleges,Government Colleges
+1103;10;Education;10.12;No.of General Degree Colleges and Students 2019-20;Boys,Students from 1st year to final year,Government Colleges
+1104;10;Education;10.12;No.of General Degree Colleges and Students 2019-20;Girls,Students from 1st year to final year,Government Colleges
+1105;10;Education;10.12;No.of General Degree Colleges and Students 2019-20;Total,Students from 1st year to final year,Government Colleges
+1106;10;Education;10.12;No.of General Degree Colleges and Students 2019-20;No.of Colleges,Private Aided Unaided Colleges
+1107;10;Education;10.12;No.of General Degree Colleges and Students 2019-20;Boys,1st year to final year Aided Unaided,Private Aided Unaided Colleges
+1108;10;Education;10.12;No.of General Degree Colleges and Students 2019-20;Girls,1st year to final year Aided Unaided,Private Aided Unaided Colleges
+1109;10;Education;10.12;No.of General Degree Colleges and Students 2019-20;Total,1st year to final year Aided Unaided,Private Aided Unaided Colleges
+1110;10;Education;10.12;No.of General Degree Colleges and Students 2019-20;% of students to state total
+1111;10;Education;10.13;No.of Medical Colleges and Students 2019-20;No.of Colleges,Ayush colleges Government
+1112;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Boys,Students,Students from 1st year to final year,Ayush colleges Government
+1113;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Girls,Students,Students from 1st year to final year,Ayush colleges Government
+1114;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Total,Students,Students from 1st year to final year,Ayush colleges Government
+1115;10;Education;10.13;No.of Medical Colleges and Students 2019-20;No.of Colleges,Ayush Colleges Private Aided Unaided
+1116;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Boys,Students,Students from 1st year to final year Aided Unaided,Ayush Colleges Private Aided Unaided
+1117;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Girls,Students,Students from 1st year to final year Aided Unaided,Ayush Colleges Private Aided Unaided
+1118;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Total,Students,Students from 1st year to final year Aided Unaided,Ayush Colleges Private Aided Unaided
+1119;10;Education;10.13;No.of Medical Colleges and Students 2019-20;No.of Colleges,Government,Medical Colleges Allopathy
+1120;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Boys,Government,Medical Colleges Allopathy
+1121;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Girls,Government,Medical Colleges Allopathy
+1122;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Total,Government,Medical Colleges Allopathy
+1123;10;Education;10.13;No.of Medical Colleges and Students 2019-20;No.of Colleges,Private,Medical Colleges Allopathy
+1124;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Boys,Private,Medical Colleges Allopathy
+1125;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Girls,Private,Medical Colleges Allopathy
+1126;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Total,Private,Medical Colleges Allopathy
+1127;10;Education;10.13;No.of Medical Colleges and Students 2019-20;of Colleges,Government,Dental Colleges
+1128;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Boys,Government,Dental Colleges
+1129;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Girls,Government,Dental Colleges
+1130;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Total,Government,Dental Colleges
+1131;10;Education;10.13;No.of Medical Colleges and Students 2019-20;No of Colleges,Private,Dental Colleges
+1132;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Boys,Private,Dental Colleges
+1133;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Girls,Private,Dental Colleges
+1134;10;Education;10.13;No.of Medical Colleges and Students 2019-20;Total,Private,Dental Colleges
+1135;10;Education;10.14;No.of Polytechnic Colleges and Students 2019-20;No.of Colleges,Government Colleges
+1136;10;Education;10.14;No.of Polytechnic Colleges and Students 2019-20;Boys,Students from 1st year to final year,Government Colleges
+1137;10;Education;10.14;No.of Polytechnic Colleges and Students 2019-20;Girls,Students from 1st year to final year,Government Colleges
+1138;10;Education;10.14;No.of Polytechnic Colleges and Students 2019-20;Total,Students from 1st year to final year,Government Colleges
+1139;10;Education;10.14;No.of Polytechnic Colleges and Students 2019-20;No.of Colleges,Private Colleges Aided Unaided
+1140;10;Education;10.14;No.of Polytechnic Colleges and Students 2019-20;Boys,Students from 1st year to final year,Private Colleges Aided Unaided
+1141;10;Education;10.14;No.of Polytechnic Colleges and Students 2019-20;Girls,Students from 1st year to final year,Private Colleges Aided Unaided
+1142;10;Education;10.14;No.of Polytechnic Colleges and Students 2019-20;Total,Students from 1st year to final year,Private Colleges Aided Unaided
+1143;10;Education;10.15;No.of Engineering Colleges and Students 2019-20;No.of Colleges,Government Colleges
+1144;10;Education;10.15;No.of Engineering Colleges and Students 2019-20;Boys,Students from 1st year to final year,Government Colleges
+1145;10;Education;10.15;No.of Engineering Colleges and Students 2019-20;Girls,Students from 1st year to final year,Government Colleges
+1146;10;Education;10.15;No.of Engineering Colleges and Students 2019-20;Total,Students from 1st year to final year,Government Colleges
+1147;10;Education;10.15;No.of Engineering Colleges and Students 2019-20;No.of Colleges,Private Colleges Aided Unaided
+1148;10;Education;10.15;No.of Engineering Colleges and Students 2019-20;Boys,Students from 1st year to final year,Private Colleges Aided Unaided
+1149;10;Education;10.15;No.of Engineering Colleges and Students 2019-20;Girls,Students from 1st year to final year,Private Colleges Aided Unaided
+1150;10;Education;10.15;No.of Engineering Colleges and Students 2019-20;Total,Students from 1st year to final year,Private Colleges Aided Unaided
+1151;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Nos.,Taluk Hospitals
+1152;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Beds,Taluk Hospitals
+1153;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Nos.,District Hospitals
+1154;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Beds,District Hospitals
+1155;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Nos.,Other Hospitals under Hfw
+1156;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Beds,Other Hospitals under Hfw
+1157;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Nos.,Autonom Teaching Hospitals
+1158;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Beds,Autonom Teaching Hospitals
+1159;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Nos.,Community Health Centres
+1160;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Beds,Community Health Centres
+1161;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Nos.,Primary Health Centres
+1162;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Beds,Primary Health Centres
+1163;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Nos.,Total Allopathy Hospitals
+1164;11;Health & Family Welfare Services;11.1;Taluk District Autonomous Teaching and Other Hospitals on 31-3-2020 In numbers Cumulative;Beds,Total Allopathy Hospitals
+1165;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Nos.,Ayush Hospitals
+1166;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Beds,Ayush Hospitals
+1167;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Dispensary,Ayush Hospitals
+1168;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Nos.,Govt. Hospitals Allopathy Hospitals Indian System of Medicine Hospitals
+1169;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Beds,Govt. Hospitals Allopathy Hospitals Indian System of Medicine Hospitals
+1170;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Nos.,Pvt. Hospitals Including Nursing Homes Clinics
+1171;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Beds,Pvt. Hospitals Including Nursing Homes Clinics
+1172;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Nos.,Total No.of Hospitals and Beds Govt Private
+1173;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Beds,Total No.of Hospitals and Beds Govt Private
+1174;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;% to state total,Total No.of Hospitals and Beds Govt Private
+1175;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Govt,No.of Doctors
+1176;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Priva.,No.of Doctors
+1177;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Total,No.of Doctors
+1178;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;% to state total,No.of Doctors
+1179;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Medical Shops
+1180;11;Health & Family Welfare Services;11.2;No.of Hospitals Doctors Beds on 31-3-2020 Cumulative;Blood Banks
+1181;11;Health & Family Welfare Services;11.3;Immunisation given to Children during 2019-20 In Numbers;D.p.t,Immunisation
+1182;11;Health & Family Welfare Services;11.3;Immunisation given to Children during 2019-20 In Numbers;Polio,Immunisation
+1183;11;Health & Family Welfare Services;11.3;Immunisation given to Children during 2019-20 In Numbers;Bcg,Immunisation
+1184;11;Health & Family Welfare Services;11.3;Immunisation given to Children during 2019-20 In Numbers;M.r,Immunisation
+1185;11;Health & Family Welfare Services;11.3;Immunisation given to Children during 2019-20 In Numbers;Td,Immunisation
+1186;11;Health & Family Welfare Services;11.3;Immunisation given to Children during 2019-20 In Numbers;Pentavalent includes Dpt Hepatities B,Immunisation
+1187;11;Health & Family Welfare Services;11.3;Immunisation given to Children during 2019-20 In Numbers;Rota,Immunisation
+1188;11;Health & Family Welfare Services;11.4;Family Welfare Services In numbers;Vasectomy,Sterlisation during 2019-20
+1189;11;Health & Family Welfare Services;11.4;Family Welfare Services In numbers;Tubectomy,Sterlisation during 2019-20
+1190;11;Health & Family Welfare Services;11.4;Family Welfare Services In numbers;I.u.d users,Users of Family Welfare Services during 2019-20
+1191;11;Health & Family Welfare Services;11.4;Family Welfare Services In numbers;C.C.users,Users of Family Welfare Services during 2019-20
+1192;11;Health & Family Welfare Services;11.4;Family Welfare Services In numbers;O.p users,Users of Family Welfare Services during 2019-20
+1193;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Male,Identified Aids patients,Aids Patients identified and death occured during 2019-20
+1194;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Female,Identified Aids patients,Aids Patients identified and death occured during 2019-20
+1195;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Ts/tg,Identified Aids patients,Aids Patients identified and death occured during 2019-20
+1196;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Total,Identified Aids patients,Aids Patients identified and death occured during 2019-20
+1197;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Male,Aids Patients Death Occured,Aids Patients identified and death occured during 2019-20
+1198;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Female,Aids Patients Death Occured,Aids Patients identified and death occured during 2019-20
+1199;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Ts/tg,Aids Patients Death Occured,Aids Patients identified and death occured during 2019-20
+1200;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Total,Aids Patients Death Occured,Aids Patients identified and death occured during 2019-20
+1201;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Male,Identified Leprosy patients,Lepros Patients identified and cured during 2019-20
+1202;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Female,Identified Leprosy patients,Lepros Patients identified and cured during 2019-20
+1203;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Total,Identified Leprosy patients,Lepros Patients identified and cured during 2019-20
+1204;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Male,Leprosy Patients Cured,Lepros Patients identified and cured during 2019-20
+1205;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Female,Leprosy Patients Cured,Lepros Patients identified and cured during 2019-20
+1206;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Total,Leprosy Patients Cured,Lepros Patients identified and cured during 2019-20
+1207;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Male,Identified T.b Patients,T.b patients identified cured and death occured during 2019-20
+1208;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Female,Identified T.b Patients,T.b patients identified cured and death occured during 2019-20
+1209;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Total,Identified T.b Patients,T.b patients identified cured and death occured during 2019-20
+1210;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Male,Cured T.b Patients,T.b patients identified cured and death occured during 2019-20
+1211;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Female,Cured T.b Patients,T.b patients identified cured and death occured during 2019-20
+1212;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Total,Cured T.b Patients,T.b patients identified cured and death occured during 2019-20
+1213;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Male,T.b Patients Death Occured,T.b patients identified cured and death occured during 2019-20
+1214;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Female,T.b Patients Death Occured,T.b patients identified cured and death occured during 2019-20
+1215;11;Health & Family Welfare Services;11.5;Aids Leprosy and Tb Control Programmes In numbers;Total,T.b Patients Death Occured,T.b patients identified cured and death occured during 2019-20
+1216;11;Health & Family Welfare Services;11.6;Different Health Facilities on 31-01-2020;F.r.u First Referral Units,as on 31-03-2020
+1217;11;Health & Family Welfare Services;11.6;Different Health Facilities on 31-01-2020;No.of Vehicles,108 Ambulances,as on 31-03-2020
+1218;11;Health & Family Welfare Services;11.6;Different Health Facilities on 31-01-2020;No.of Patients benefited,108 Ambulances,as on 31-03-2020
+1219;11;Health & Family Welfare Services;11.6;Different Health Facilities on 31-01-2020;Nos,Number of working Hospitals
+1220;11;Health & Family Welfare Services;11.6;Different Health Facilities on 31-01-2020;Delivaries occured in Hospitals during 2019-20,Number of working Hospitals
+1221;11;Health & Family Welfare Services;11.6;Different Health Facilities on 31-01-2020;No. of Beneficiaries availed Janani Suraksha Yojana during 2019-20
+1222;11;Health & Family Welfare Services;11.6;Different Health Facilities on 31-01-2020;No. of Beneficiaries received Madilu kit during 2019- 20
+1223;11;Health & Family Welfare Services;11.6;Different Health Facilities on 31-01-2020;Maternal Death 2019-20
+1224;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Government Pre-Matric
+1225;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Government Pre-Matric
+1226;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Government Pre-Matric
+1227;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Government Pre-Matric
+1228;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Government Pre-Matric
+1229;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Students,Total Hostels,Government Pre-Matric
+1230;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Government Post-Matric
+1231;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Government Post-Matric
+1232;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Government Post-Matric
+1233;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Government Post-Matric
+1234;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Government Post-Matric
+1235;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Students,Total Hostels,Government Post-Matric
+1236;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Aided Pre-Matric
+1237;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Aided Pre-Matric
+1238;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Aided Pre-Matric
+1239;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Aided Pre-Matric
+1240;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Aided Pre-Matric
+1241;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Students,Total Hostels,Aided Pre-Matric
+1242;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Aided Post-Matric
+1243;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Aided Post-Matric
+1244;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Aided Post-Matric
+1245;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Aided Post-Matric
+1246;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Aided Post-Matric
+1247;12;Social Welfare;12.1;Scheduled Castes Students Hostels on 31-3-2020 In numbers;Students,Total Hostels,Aided Post-Matric
+1248;12;Social Welfare;12.2;Scheduled Tribes Students Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Government Pre-Matric
+1249;12;Social Welfare;12.2;Scheduled Tribes Students Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Government Pre-Matric
+1250;12;Social Welfare;12.2;Scheduled Tribes Students Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Government Pre-Matric
+1251;12;Social Welfare;12.2;Scheduled Tribes Students Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Government Pre-Matric
+1252;12;Social Welfare;12.2;Scheduled Tribes Students Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Government Pre-Matric
+1253;12;Social Welfare;12.2;Scheduled Tribes Students Hostels on 31-3-2020 In numbers;Students,Total Hostels,Government Pre-Matric
+1254;12;Social Welfare;12.2;Scheduled Tribes Student Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Government Post-Matric
+1255;12;Social Welfare;12.2;Scheduled Tribes Student Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Government Post-Matric
+1256;12;Social Welfare;12.2;Scheduled Tribes Student Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Government Post-Matric
+1257;12;Social Welfare;12.2;Scheduled Tribes Student Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Government Post-Matric
+1258;12;Social Welfare;12.2;Scheduled Tribes Student Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Government Post-Matric
+1259;12;Social Welfare;12.2;Scheduled Tribes Student Hostels on 31-3-2020 In numbers;Students,Total Hostels,Government Post-Matric
+1260;12;Social Welfare;12.2;Scheduled Tribes Student Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Aided Pre-Matric
+1261;12;Social Welfare;12.2;Scheduled Tribes Student Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Aided Pre-Matric
+1262;12;Social Welfare;12.2;Scheduled Tribes Student Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Aided Pre-Matric
+1263;12;Social Welfare;12.2;Scheduled Tribes Student Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Aided Pre-Matric
+1264;12;Social Welfare;12.2;Scheduled Tribes Student Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Aided Pre-Matric
+1265;12;Social Welfare;12.2;Scheduled Tribes Student Hostels on 31-3-2020 In numbers;Students,Total Hostels,Aided Pre-Matric
+1266;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Aided Post-Matric
+1267;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Aided Post-Matric
+1268;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Aided Post-Matric
+1269;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Aided Post-Matric
+1270;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Aided Post-Matric
+1271;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Total Hostels,Aided Post-Matric
+1272;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Government Pre-Matric
+1273;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Government Pre-Matric
+1274;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Government Pre-Matric
+1275;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Government Pre-Matric
+1276;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Government Pre-Matric
+1277;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Total Hostels,Government Pre-Matric
+1278;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Government Post-Matric
+1279;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Government Post-Matric
+1280;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Government Post-Matric
+1281;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Government Post-Matric
+1282;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Government Post-Matric
+1283;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Total Hostels,Government Post-Matric
+1284;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Aided Pre-matric
+1285;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Aided Pre-matric
+1286;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Aided Pre-matric
+1287;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Aided Pre-matric
+1288;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Aided Pre-matric
+1289;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Total Hostels,Aided Pre-matric
+1290;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Aided Post-Matric
+1291;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Aided Post-Matric
+1292;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Aided Post-Matric
+1293;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Aided Post-Matric
+1294;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Aided Post-Matric
+1295;12;Social Welfare;12.3;Backward Class Student Hostels on 31-3-2020 In numbers;Students,Total Hostels,Aided Post-Matric
+1296;12;Social Welfare;12.4;Ashrama Residential Student Hostels on 31-3-2020 In numbers;Nos,Scheduled Caste Ashrama Residential Schools
+1297;12;Social Welfare;12.4;Ashrama Residential Student Hostels on 31-3-2020 In numbers;Students,Scheduled Caste Ashrama Residential Schools
+1298;12;Social Welfare;12.4;Ashrama Residential Student Hostels on 31-3-2020 In numbers;Nos,Scheduled Tribes Ashrama Residential Schools
+1299;12;Social Welfare;12.4;Ashrama Residential Student Hostels on 31-3-2020 In numbers;Students,Scheduled Tribes Ashrama Residential Schools
+1300;12;Social Welfare;12.4;Ashrama Residential Student Hostels on 31-3-2020 In numbers;Nos,Backward Classes Ashrama Residential Schools
+1301;12;Social Welfare;12.4;Ashrama Residential Student Hostels on 31-3-2020 In numbers;Students,Backward Classes Ashrama Residential Schools
+1302;12;Social Welfare;12.5;Minorities Students Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Government Pre-Matric
+1303;12;Social Welfare;12.5;Minorities Students Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Government Pre-Matric
+1304;12;Social Welfare;12.5;Minorities Students Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Government Pre-Matric
+1305;12;Social Welfare;12.5;Minorities Students Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Government Pre-Matric
+1306;12;Social Welfare;12.5;Minorities Students Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Government Pre-Matric
+1307;12;Social Welfare;12.5;Minorities Students Hostels on 31-3-2020 In numbers;Students,Total Hostels,Government Pre-Matric
+1308;12;Social Welfare;12.5;Minorities Student Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Government Post-Matric
+1309;12;Social Welfare;12.5;Minorities Student Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Government Post-Matric
+1310;12;Social Welfare;12.5;Minorities Student Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Government Post-Matric
+1311;12;Social Welfare;12.5;Minorities Student Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Government Post-Matric
+1312;12;Social Welfare;12.5;Minorities Student Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Government Post-Matric
+1313;12;Social Welfare;12.5;Minorities Student Hostels on 31-3-2020 In numbers;Students,Total Hostels,Government Post-Matric
+1314;12;Social Welfare;12.5;Minorities Students Hostels on 31-3-2020 In numbers;Nos,Boys Hostels,Aided Pre-Matric
+1315;12;Social Welfare;12.5;Minorities Students Hostels on 31-3-2020 In numbers;Students,Boys Hostels,Aided Pre-Matric
+1316;12;Social Welfare;12.5;Minorities Students Hostels on 31-3-2020 In numbers;Nos,Girls Hostels,Aided Pre-Matric
+1317;12;Social Welfare;12.5;Minorities Students Hostels on 31-3-2020 In numbers;Students,Girls Hostels,Aided Pre-Matric
+1318;12;Social Welfare;12.5;Minorities Students Hostels on 31-3-2020 In numbers;Nos,Total Hostels,Aided Pre-Matric
+1319;12;Social Welfare;12.5;Minorities Students Hostels on 31-3-2020 In numbers;Students,Total Hostels,Aided Pre-Matric
+1320;12;Social Welfare;12.6;Scholarship availed by students in Primary and High Schools during 2019-20;Boys,Primary Schools 1-8th Standard,Scheduled Castes students
+1321;12;Social Welfare;12.6;Scholarship availed by students in Primary and High Schools during 2019-20;Girls,Primary Schools 1-8th Standard,Scheduled Castes students
+1322;12;Social Welfare;12.6;Scholarship availed by students in Primary and High Schools during 2019-20;Total,Primary Schools 1-8th Standard,Scheduled Castes students
+1323;12;Social Welfare;12.6;Scholarship availed by students in Primary and High Schools during 2019-20;Boys,High School 9-10th Standard,Scheduled Castes students
+1324;12;Social Welfare;12.6;Scholarship availed by students in Primary and High Schools during 2019-20;Girls,High School 9-10th Standard,Scheduled Castes students
+1325;12;Social Welfare;12.6;Scholarship availed by students in Primary and High Schools during 2019-20;Total,High School 9-10th Standard,Scheduled Castes students
+1326;12;Social Welfare;12.6;Scholarship availed by Students in Primary and High Schools during 2019-20;Boys,Primary Schools 1-8th Standard,Scheduled Tribes students
+1327;12;Social Welfare;12.6;Scholarship availed by Students in Primary and High Schools during 2019-20;Girls,Primary Schools 1-8th Standard,Scheduled Tribes students
+1328;12;Social Welfare;12.6;Scholarship availed by Students in Primary and High Schools during 2019-20;Total,Primary Schools 1-8th Standard,Scheduled Tribes students
+1329;12;Social Welfare;12.6;Scholarship availed by Students in Primary and High Schools during 2019-20;Boys,High School 9-10th Standard,Scheduled Tribes students
+1330;12;Social Welfare;12.6;Scholarship availed by Students in Primary and High Schools during 2019-20;Girls,High School 9-10th Standard,Scheduled Tribes students
+1331;12;Social Welfare;12.6;Scholarship availed by Students in Primary and High Schools during 2019-20;Total,High School 9-10th Standard,Scheduled Tribes students
+1332;12;Social Welfare;12.6;Scholarship availed by Students in Primary and High Schools during 2019-20;Boys,Primary Schools 1-8th Standard,Backward Classes students
+1333;12;Social Welfare;12.6;Scholarship availed by Students in Primary and High Schools during 2019-20;Girls,Primary Schools 1-8th Standard,Backward Classes students
+1334;12;Social Welfare;12.6;Scholarship availed by Students in Primary and High Schools during 2019-20;Total,Primary Schools 1-8th Standard,Backward Classes students
+1335;12;Social Welfare;12.6;Scholarship availed by Students in Primary and High Schools during 2019-20;Boys,High School 9-10th Standard,Backward Classes students
+1336;12;Social Welfare;12.6;Scholarship availed by Students in Primary and High Schools during 2019-20;Girls,High School 9-10th Standard,Backward Classes students
+1337;12;Social Welfare;12.6;Scholarship availed by Students in Primary and High Schools during 2019-20;Total,High School 9-10th Standard,Backward Classes students
+1338;12;Social Welfare;12.6;Scholarship availed by Students of 1-10th Standard during 2019-20;Boys,1-10th Standard,Minorities
+1339;12;Social Welfare;12.6;Scholarship availed by Students of 1-10th Standard during 2019-20;Girls,1-10th Standard,Minorities
+1340;12;Social Welfare;12.6;Scholarship availed by Students of 1-10th Standard during 2019-20;Total,1-10th Standard,Minorities
+1341;13;Women & Child Development;13.1;Stree Shakthi self help groups members till 31-03-2020;No. Of Stree Shakti Self Help Groups
+1342;13;Women & Child Development;13.1;Stree Shakthi self help groups members till 31-03-2020;% of Self help groups to state total
+1343;13;Women & Child Development;13.1;Stree Shakthi self help groups members till 31-03-2020;No. of Sc Women,Self Help Group Members
+1344;13;Women & Child Development;13.1;Stree Shakthi self help groups members till 31-03-2020;No. of St Women,Self Help Group Members
+1345;13;Women & Child Development;13.1;Stree Shakthi self help groups members till 31-03-2020;No. of other Women,Self Help Group Members
+1346;13;Women & Child Development;13.1;Stree Shakthi self help groups members till 31-03-2020;Total No. of member,Self Help Group Members
+1347;13;Women & Child Development;13.2;Loan and revolving fund availed from the Bank and Government since inception to 31-3-2020;Total of Accumulated savings Rs. In Crores
+1348;13;Women & Child Development;13.2;Loan and revolving fund availed from the Bank and Government since inception to 31-3-2020;No. of SHGs availed Loan from Banks,Self Help Groups
+1349;13;Women & Child Development;13.2;Loan and revolving fund availed from the Bank and Government since inception to 31-3-2020;Total Loan availed from Banks Rs. In Crores,Self Help Groups
+1350;13;Women & Child Development;13.2;Loan and revolving fund availed from the Bank and Government since inception to 31-3-2020;Revolving Funds received from Govt Rs. In Crores,Self Help Groups
+1351;13;Women & Child Development;13.3;Beneficiaries under Bhagyalakshmi Scheme on 31-3-2020 In Numbers;Current Year,No. Of beneficiaries under Bhagyalakshmi Scheme
+1352;13;Women & Child Development;13.3;Beneficiaries under Bhagyalakshmi Scheme on 31-3-2020 In Numbers;Cumulative,No. Of beneficiaries under Bhagyalakshmi Scheme
+1353;13;Women & Child Development;13.3;Beneficiaries under Bhagyalakshmi Scheme on 31-3-2020 In Numbers;% of Bhagyalakshmi scheme beneficiaries to state total
+1354;13;Women & Child Development;13.3;Beneficiaries under Bhagyalakshmi Scheme on 31-3-2020 In Numbers;Current Year,No. Of Lic Bonds distributed
+1355;13;Women & Child Development;13.3;Beneficiaries under Bhagyalakshmi Scheme on 31-3-2020 In Numbers;Cumulative,No. Of Lic Bonds distributed
+1356;13;Women & Child Development;13.4;No. of Anganawadi Centres as on 31-3-2020;Own Building,Anganawadi Centres
+1357;13;Women & Child Development;13.4;No. of Anganawadi Centres as on 31-3-2020;School Building,Anganawadi Centres
+1358;13;Women & Child Development;13.4;No. of Anganawadi Centres as on 31-3-2020;Other,Anganawadi Centres
+1359;13;Women & Child Development;13.4;No. of Anganawadi Centres as on 31-3-2020;Total,Anganawadi Centres
+1360;13;Women & Child Development;13.4;No. of Anganawadi Centres as on 31-3-2020;% of Anganawadis having Own Buildings,Anganawadi Centres
+1361;13;Women & Child Development;13.5;No. of Anganawadi Teachers Workers and Supplementary Nutrition Programme on 31-3-2020;0-3 Years,No. of Beneficiaries under Supplementary Nutrition Programme
+1362;13;Women & Child Development;13.5;No. of Anganawadi Teachers Workers and Supplementary Nutrition Programme on 31-3-2020;3-6 Years,No. of Beneficiaries under Supplementary Nutrition Programme
+1363;13;Women & Child Development;13.5;No. of Anganawadi Teachers Workers and Supplementary Nutrition Programme on 31-3-2020;Pregnant Women,No. of Beneficiaries under Supplementary Nutrition Programme
+1364;13;Women & Child Development;13.5;No. of Anganawadi Teachers Workers and Supplementary Nutrition Programme on 31-3-2020;Lactating Women,No. of Beneficiaries under Supplementary Nutrition Programme
+1365;13;Women & Child Development;13.5;No. of Anganawadi Teachers Workers and Supplementary Nutrition Programme on 31-3-2020;Adolescent Girls,No. of Beneficiaries under Supplementary Nutrition Programme
+1366;13;Women & Child Development;13.5;No. of Anganawadi Teachers Workers and Supplementary Nutrition Programme on 31-3-2020;Total,No. of Beneficiaries under Supplementary Nutrition Programme
+1367;13;Women & Child Development;13.5;No. of Anganawadi Teachers Workers and Supplementary Nutrition Programme on 31-3-2020;No. of Anganawadi Teachers
+1368;13;Women & Child Development;13.5;No. of Anganawadi Teachers Workers and Supplementary Nutrition Programme on 31-3-2020;No. of Anganawadi Workers / Assistants
+1369;13;Women & Child Development;13.6;Malnourished Children and Destitute Children Protected;Total No. of Children in Anganwadi,Malnourished Children
+1370;13;Women & Child Development;13.6;Malnourished Children and Destitute Children Protected;Normal Children,Malnourished Children
+1371;13;Women & Child Development;13.6;Malnourished Children and Destitute Children Protected;Moderately Malnourished,Malnourished Children
+1372;13;Women & Child Development;13.6;Malnourished Children and Destitute Children Protected;Severely Malnourished,Malnourished Children
+1373;13;Women & Child Development;13.6;Malnourished Children and Destitute Children Protected;Nos,Creches
+1374;13;Women & Child Development;13.6;Malnourished Children and Destitute Children Protected;Children,Creches
+1375;13;Women & Child Development;13.6;Malnourished Children and Destitute Children Protected;Destitute Children Protected
+1376;14;Rural Development and Panchayat Raj;14.1;Skill Development and Self Employment at the end of 31-03-2020 Cumulative;Ddu-gky,Nrlm National Rural Livelihood Mission
+1377;14;Rural Development and Panchayat Raj;14.1;Skill Development and Self Employment at the end of 31-03-2020 Cumulative;Cif Community Investment Fund to groups,Nrlm National Rural Livelihood Mission
+1378;14;Rural Development and Panchayat Raj;14.1;Skill Development and Self Employment at the end of 31-03-2020 Cumulative;Employment through skill training placement Estp,Employment through Skill Training Placement Estp
+1379;14;Rural Development and Panchayat Raj;14.1;Skill Development and Self Employment at the end of 31-03-2020 Cumulative;Persons Skilled,Self Employment Programme,Employment through Skill Training Placement Estp
+1380;14;Rural Development and Panchayat Raj;14.1;Skill Development and Self Employment at the end of 31-03-2020 Cumulative;Groups Skilled,Self Employment Programme,Employment through Skill Training Placement Estp
+1381;14;Rural Development and Panchayat Raj;14.1;Skill Development and Self Employment at the end of 31-03-2020 Cumulative;Chief Minister Kaushalya Karnataka Yojane Cmkky,Ksdc Karnataka Skill Development Corporation
+1382;14;Rural Development and Panchayat Raj;14.1;Skill Development and Self Employment at the end of 31-03-2020 Cumulative;Women Groups,Ksdc Karnataka Skill Development Corporation
+1383;14;Rural Development and Panchayat Raj;14.2;Swachh Bharat Mission Rural;2019-20 Constructed during 2019-20,Individual Household Toilets
+1384;14;Rural Development and Panchayat Raj;14.2;Swachh Bharat Mission Rural;Constructed on 31-03-2020 Cumulative,Individual Household Toilets
+1385;14;Rural Development and Panchayat Raj;14.2;Swachh Bharat Mission Rural;Constructed during 2019-20,Community Toilets
+1386;14;Rural Development and Panchayat Raj;14.2;Swachh Bharat Mission Rural;Constructed on 31-03-2020 Cumulative,Community Toilets
+1387;14;Rural Development and Panchayat Raj;14.2;Swachh Bharat Mission Rural;Constructed during 2019-20,Solid and Liquid Waste Disposal
+1388;14;Rural Development and Panchayat Raj;14.2;Swachh Bharat Mission Rural;Constructed on 31-03-2020 Cumulative,Solid and Liquid Waste Disposal
+1389;14;Rural Development and Panchayat Raj;14.3;Phisical Progress under Mahathma Gandhi National Rural Employment Guarantee Act Mgnrega during 2019-20;No. of Registered and Distributed Job Cards
+1390;14;Rural Development and Panchayat Raj;14.3;Phisical Progress under Mahathma Gandhi National Rural Employment Guarantee Act Mgnrega during 2019-20;No. of Householdsdemanded Employment
+1391;14;Rural Development and Panchayat Raj;14.3;Phisical Progress under Mahathma Gandhi National Rural Employment Guarantee Act Mgnrega during 2019-20;Number of Households Provided employement
+1392;14;Rural Development and Panchayat Raj;14.3;Phisical Progress under Mahathma Gandhi National Rural Employment Guarantee Act Mgnrega during 2019-20;Male,Man days Generated In Lakhs
+1393;14;Rural Development and Panchayat Raj;14.3;Phisical Progress under Mahathma Gandhi National Rural Employment Guarantee Act Mgnrega during 2019-20;Female,Man days Generated In Lakhs
+1394;14;Rural Development and Panchayat Raj;14.3;Phisical Progress under Mahathma Gandhi National Rural Employment Guarantee Act Mgnrega during 2019-20;Total,Man days Generated In Lakhs
+1395;14;Rural Development and Panchayat Raj;14.3;Phisical Progress under Mahathma Gandhi National Rural Employment Guarantee Act Mgnrega during 2019-20;Number of Households Completed 100 days of employment
+1396;14;Rural Development and Panchayat Raj;14.4;Habitations Having drinking water facility on 31-3-2020;Total Number of Habitations
+1397;14;Rural Development and Panchayat Raj;14.4;Habitations Having drinking water facility on 31-3-2020;>0 - <25%,No. of Habitations having drinking water facilities
+1398;14;Rural Development and Panchayat Raj;14.4;Habitations Having drinking water facility on 31-3-2020;>25 - <50%,No. of Habitations having drinking water facilities
+1399;14;Rural Development and Panchayat Raj;14.4;Habitations Having drinking water facility on 31-3-2020;>50 - <75%,No. of Habitations having drinking water facilities
+1400;14;Rural Development and Panchayat Raj;14.4;Habitations Having drinking water facility on 31-3-2020;>75 - <100%,No. of Habitations having drinking water facilities
+1401;14;Rural Development and Panchayat Raj;14.4;Habitations Having drinking water facility on 31-3-2020;>100%,No. of Habitations having drinking water facilities
+1402;14;Rural Development and Panchayat Raj;14.4;Habitations Having drinking water facility on 31-3-2020;% of habitations having more than 50 Lpcd
+1403;14;Rural Development and Panchayat Raj;14.5;Drinking Water Supply Facilities on 31-03-2020;Borewells drilled in 2019-20,Bore Wells drilled
+1404;14;Rural Development and Panchayat Raj;14.5;Drinking Water Supply Facilities on 31-03-2020;Total Borewells on 31-3-2020,Bore Wells drilled
+1405;14;Rural Development and Panchayat Raj;14.5;Drinking Water Supply Facilities on 31-03-2020;Schemes of 2019-20,Piped Water Supply Schemes
+1406;14;Rural Development and Panchayat Raj;14.5;Drinking Water Supply Facilities on 31-03-2020;Total Pwss,Piped Water Supply Schemes
+1407;14;Rural Development and Panchayat Raj;14.5;Drinking Water Supply Facilities on 31-03-2020;Schemes Commissioned during 2019-20,Mini Water Supply Schemes
+1408;14;Rural Development and Panchayat Raj;14.5;Drinking Water Supply Facilities on 31-03-2020;Total Mwss,Mini Water Supply Schemes
+1409;15;Housing;15.1;2011 Census Houses and their uses;Tota No. of Census Houses,Census Houses
+1410;15;Housing;15.1;2011 Census Houses and their uses;No. of vacanthouses %,Census Houses
+1411;15;Housing;15.1;2011 Census Houses and their uses;No. of Occupied houses %,Census Houses
+1412;15;Housing;15.1;2011 Census Houses and their uses;Residence %,Occupied Census
+1413;15;Housing;15.1;2011 Census Houses and their uses;Residence cum other use %,Occupied Census
+1414;15;Housing;15.1;2011 Census Houses and their uses;Shop Office %,Occupied Census
+1415;15;Housing;15.1;2011 Census Houses and their uses;School College %,Occupied Census
+1416;15;Housing;15.2;Households by Source of Lighting per 2011 Census in Percentage;Total No. of households
+1417;15;Housing;15.2;Households by Source of Lighting per 2011 Census in Percentage;Electricity %
+1418;15;Housing;15.2;Households by Source of Lighting per 2011 Census in Percentage;Kerosene %
+1419;15;Housing;15.2;Households by Source of Lighting per 2011 Census in Percentage;Solar Energy %
+1420;15;Housing;15.2;Households by Source of Lighting per 2011 Census in Percentage;Any other %
+1421;15;Housing;15.2;Households by Source of Lighting per 2011 Census in Percentage;No Lighting %
+1422;15;Housing;15.3;Households by Source Of Drinking Water per 2011 Census in Percentage;Total No. of households
+1423;15;Housing;15.3;Households by Source Of Drinking Water per 2011 Census in Percentage;Tap,Source of Drinking Wate
+1424;15;Housing;15.3;Households by Source Of Drinking Water per 2011 Census in Percentage;Well,Source of Drinking Wate
+1425;15;Housing;15.3;Households by Source Of Drinking Water per 2011 Census in Percentage;Handpump,Source of Drinking Wate
+1426;15;Housing;15.3;Households by Source Of Drinking Water per 2011 Census in Percentage;Tubewell,Source of Drinking Wate
+1427;15;Housing;15.3;Households by Source of Drinking Water per 2011 Census in Percentage;Tank Pond Lake
+1428;15;Housing;15.3;Households by Source of Drinking Water per 2011 Census in Percentage;Rivers Canals
+1429;15;Housing;15.3;Households by Source of Drinking Water per 2011 Census in Percentage;Spring
+1430;15;Housing;15.3;Households by Source of Drinking Water per 2011 Census in Percentage;Others
+1431;15;Housing;15.4;Households by Type of Fuel used for Cooking per 2011 Census in Percentage;Total No.of households
+1432;15;Housing;15.4;Households by Type of Fuel used for Cooking per 2011 Census in Percentage;Fire Wood
+1433;15;Housing;15.4;Households by Type of Fuel used for Cooking per 2011 Census in Percentage;Kerosene
+1434;15;Housing;15.4;Households by Type of Fuel used for Cooking per 2011 Census in Percentage;Lpg Png
+1435;15;Housing;15.4;Households by Type of Fuel used for Cooking per 2011 Census in Percentage;Electricity
+1436;15;Housing;15.4;Households by Type of Fuel used for Cooking per 2011 Census in Percentage;Bio-gas
+1437;15;Housing;15.4;Households by Type of Fuel used for Cooking per 2011 Census in Percentage;Others
+1438;15;Housing;15.4;Households by Type of Fuel used for Cooking per 2011 Census in Percentage;No Cooking
+1439;15;Housing;15.5;No. of Houses Constructed under Basava Housing Scheme during 2019-20;Scheduled Castes
+1440;15;Housing;15.5;No. of Houses Constructed under Basava Housing Scheme during 2019-20;Scheduled Tribes
+1441;15;Housing;15.5;No. of Houses Constructed under Basava Housing Scheme during 2019-20;Minorities
+1442;15;Housing;15.5;No. of Houses Constructed under Basava Housing Scheme during 2019-20;Others
+1443;15;Housing;15.5;No. of Houses Constructed under Basava Housing Scheme during 2019-20;Total
+1444;15;Housing;15.6;No. of Houses Constructed Under Dr. B.R.Ambedkar Nivasa Scheme during 2019-20;Rural,Scheduled Caste
+1445;15;Housing;15.6;No. of Houses Constructed Under Dr. B.R.Ambedkar Nivasa Scheme during 2019-20;Urban,Scheduled Caste
+1446;15;Housing;15.6;No. of Houses Constructed Under Dr. B.R.Ambedkar Nivasa Scheme during 2019-20;Total,Scheduled Caste
+1447;15;Housing;15.6;No. of Houses Constructed Under Dr. B.R.Ambedkar Nivasa Scheme during 2019-20;Rural,Scheduled Tribes
+1448;15;Housing;15.6;No. of Houses Constructed Under Dr. B.R.Ambedkar Nivasa Scheme during 2019-20;Urban,Scheduled Tribes
+1449;15;Housing;15.6;No. of Houses Constructed Under Dr. B.R.Ambedkar Nivasa Scheme during 2019-20;Total,Scheduled Tribes
+1450;15;Housing;15.6;No. of Houses Constructed Under Dr. B.R.Ambedkar Nivasa Scheme during 2019-20;Rural,Total SCs and STs
+1451;15;Housing;15.6;No. of Houses Constructed Under Dr. B.R.Ambedkar Nivasa Scheme during 2019-20;Urban,Total SCs and STs
+1452;15;Housing;15.6;No. of Houses Constructed Under Dr. B.R.Ambedkar Nivasa Scheme during 2019-20;Total,Total SCs and STs
+1453;15;Housing;15.7;No. of Houses Constructed under Pmay Grameen Housing Scheme during 2019-20;Scheduled Castes
+1454;15;Housing;15.7;No. of Houses Constructed under Pmay Grameen Housing Scheme during 2019-20;Scheduled Tribes
+1455;15;Housing;15.7;No. of Houses Constructed under Pmay Grameen Housing Scheme during 2019-20;Minorities
+1456;15;Housing;15.7;No. of Houses Constructed under Pmay Grameen Housing Scheme during 2019-20;Others
+1457;15;Housing;15.7;No. of Houses Constructed under Pmay Grameen Housing Scheme during 2019-20;Total
+1458;15;Housing;15.7;No. of Houses Constructed under Pmay Urban Housing Scheme during 2019-20;Scheduled Castes
+1459;15;Housing;15.7;No. of Houses Constructed under Pmay Urban Housing Scheme during 2019-20;Scheduled Tribes
+1460;15;Housing;15.7;No. of Houses Constructed under Pmay Urban Housing Scheme during 2019-20;Minorities
+1461;15;Housing;15.7;No. of Houses Constructed under Pmay Urban Housing Scheme during 2019-20;Others
+1462;15;Housing;15.7;No. of Houses Constructed under Pmay Urban Housing Scheme during 2019-20;Total
+1463;15;Housing;15.8;No. of Houses Constructed under Devraj Urs Housing Scheme Gramin during 2019-20;Scheduled Castes
+1464;15;Housing;15.8;No. of Houses Constructed under Devraj Urs Housing Scheme Gramin during 2019-20;Scheduled Tribes
+1465;15;Housing;15.8;No. of Houses Constructed under Devraj Urs Housing Scheme Gramin during 2019-20;Minorities
+1466;15;Housing;15.8;No. of Houses Constructed under Devraj Urs Housing Scheme Gramin during 2019-20;Others
+1467;15;Housing;15.8;No. of Houses Constructed under Devraj Urs Housing Scheme Gramin during 2019-20;Total
+1468;15;Housing;15.8;No. of Houses Constructed under Devraj Urs Housing Scheme Urban during 2019-20;Scheduled Castes
+1469;15;Housing;15.8;No. of Houses Constructed under Devraj Urs Housing Scheme Urban during 2019-20;Scheduled Tribes
+1470;15;Housing;15.8;No. of Houses Constructed under Devraj Urs Housing Scheme Urban during 2019-20;Minorities
+1471;15;Housing;15.8;No. of Houses Constructed under Devraj Urs Housing Scheme Urban during 2019-20;Others
+1472;15;Housing;15.8;No. of Houses Constructed under Devraj Urs Housing Scheme Urban during 2019-20;Total
+1473;15;Housing;15.9;No. of Houses Constructed under Vajapayee Urban Housing Scheme during 2019-20;Scheduled Castes
+1474;15;Housing;15.9;No. of Houses Constructed under Vajapayee Urban Housing Scheme during 2019-20;Scheduled Tribes
+1475;15;Housing;15.9;No. of Houses Constructed under Vajapayee Urban Housing Scheme during 2019-20;Minorities
+1476;15;Housing;15.9;No. of Houses Constructed under Vajapayee Urban Housing Scheme during 2019-20;Others
+1477;15;Housing;15.9;No. of Houses Constructed under Vajapayee Urban Housing Scheme during 2019-20;Total
+1478;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;Beneficiries under Bhagyajyoti Kutirajyoti
+1479;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;Villages,Electrified
+1480;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;Hamlets,Electrified
+1481;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;I.p. Sets,Electrified
+1482;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;Villages,Non Electrified
+1483;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;Hamlets,Non Electrified
+1484;16;Energy;16.1;No. of Electrified Villages Hamlets Sets on 31-03-2020;I.p. Sets,Non Electrified
+1485;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Ht,Domestic
+1486;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Lt,Domestic
+1487;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Ht,Industrial
+1488;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Lt,Industrial
+1489;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Ht,Commercial Consumption
+1490;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Lt,Commercial Consumption
+1491;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Ht,I.p. Sets
+1492;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Lt,I.p. Sets
+1493;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Street Light Lt
+1494;16;Energy;16.2;Sectorwise number of Electricity Consumers on 31-03-2020;Water supply Ht
+1495;16;Energy;16.2;Sectorwise number of Electricity Consumers as on 31-03-2020;Lt,Water Supply
+1496;16;Energy;16.2;Sectorwise number of Electricity Consumers as on 31-03-2020;Ht,Others
+1497;16;Energy;16.2;Sectorwise number of Electricity Consumers as on 31-03-2020;Lt,Others
+1498;16;Energy;16.2;Sectorwise number of Electricity Consumers as on 31-03-2020;Ht,Total
+1499;16;Energy;16.2;Sectorwise number of Electricity Consumers as on 31-03-2020;Lt,Total
+1500;16;Energy;16.2;Sectorwise number of Electricity Consumers as on 31-03-2020;Grand Total Ht Lt
+1501;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,Domestic,Consumption In Million Units
+1502;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,Domestic,Consumption In Million Units
+1503;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,Industrial,Consumption In Million Units
+1504;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,Industrial,Consumption In Million Units
+1505;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,Commercial Consumption,Consumption In Million Units
+1506;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,Commercial Consumption,Consumption In Million Units
+1507;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,I.p. Sets,Consumption In Million Units
+1508;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,I.p. Sets,Consumption In Million Units
+1509;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Street Light,Consumption In Million Units
+1510;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,Water supply,Consumption In Million Units
+1511;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,Water supply,Consumption In Million Units
+1512;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Others Electricity Consumption Ht,Consumption In Million Units
+1513;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Others Lt,Consumption In Million Units
+1514;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,Total,Consumption In Million Units
+1515;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,Total,Consumption In Million Units
+1516;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Grand Total Ht Lt,Consumption In Million Units
+1517;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;% of Electricity Consumption by sets to Total Consumption,Consumption In Million Units
+1518;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Ht,Income from Electricity consumption Rs. in Lakhs,Consumption In Million Units
+1519;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Lt,Income from Electricity consumption Rs. in Lakhs,Consumption In Million Units
+1520;16;Energy;16.3;Sectorwise Electricity Consumption 2019-20;Grand Total Ht Lt,Income from Electricity consumption Rs. in Lakhs,Consumption In Million Units
+1521;17;Other Information;17.1;Excise Shops and Consumption of Liquor 2019-20;Excise Shops In Nos
+1522;17;Other Information;17.1;Excise Shops and Consumption of Liquor 2019-20;Iml Liquor,Consumption of Liquor In Lakh
+1523;17;Other Information;17.1;Excise Shops and Consumption of Liquor 2019-20;Beer,Consumption of Liquor In Lakh
+1524;17;Other Information;17.1;Excise Shops and Consumption of Liquor 2019-20;Income from Excise Rs. in Crores
+1525;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Pensioners,Indira Gandhi National Old Age Pension Scheme
+1526;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Bank Post Office Account Holders,Indira Gandhi National Old Age Pension Scheme
+1527;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Percentage to State Pensioners,Indira Gandhi National Old Age Pension Scheme
+1528;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Pensioners,Indra Gandhi National Widow Pension Scheme
+1529;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Bank Post Office Account Holders,Indra Gandhi National Widow Pension Scheme
+1530;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Percentage to State Pensioners,Indra Gandhi National Widow Pension Scheme
+1531;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Pensioners Upto 75% Disability,Indira Gandhi National Disabled Pension Scheme
+1532;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Pensioners Above 75% Disability,Indira Gandhi National Disabled Pension Scheme
+1533;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Total,Indira Gandhi National Disabled Pension Scheme
+1534;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Bank Post Office Account Holders,Indira Gandhi National Disabled Pension Scheme
+1535;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Percentage to State Pensioners,Indira Gandhi National Disabled Pension Scheme
+1536;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Pensioners,Sandhya Suraksha
+1537;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Bank Post Office Account Holders,Sandhya Suraksha
+1538;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Pensioners,Mythri Pension Scheme
+1539;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Bank Post Office Account Holders,Mythri Pension Scheme
+1540;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Pensioners,Manaswini Pension Scheme
+1541;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Bank Post Office Account Holders,Manaswini Pension Scheme
+1542;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Pensioners,Farmers widow Pension Scheme
+1543;17;Other Information;17.2;Number of Pensioners under Social Security Schemes on 31-3-2020;Bank Post Office Account Holders,Farmers widow Pension Scheme
+1544;17;Other Information;17.3;Registration of Births and Deaths;Rural,Registration Units
+1545;17;Other Information;17.3;Registration of Births and Deaths;Urban,Registration Units
+1546;17;Other Information;17.3;Registration of Births and Deaths;Total,Registration Units
+1547;17;Other Information;17.3;Registration of Births and Deaths;Male,Births,Registered events 2019
+1548;17;Other Information;17.3;Registration of Births and Deaths;Female,Births,Registered events 2019
+1549;17;Other Information;17.3;Registration of Births and Deaths;Transgender,Births,Registered events 2019
+1550;17;Other Information;17.3;Registration of Births and Deaths;Total,Births,Registered events 2019
+1551;17;Other Information;17.3;Registration of Births and Deaths;Male,Deaths,Registered events 2019
+1552;17;Other Information;17.3;Registration of Births and Deaths;Female,Deaths,Registered events 2019
+1553;17;Other Information;17.3;Registration of Births and Deaths;Transgender,Deaths,Registered events 2019
+1554;17;Other Information;17.3;Registration of Births and Deaths;Total,Deaths,Registered events 2019
+1555;17;Other Information;17.3;Registration of Births and Deaths;Male,Births,Late Registered events 2019
+1556;17;Other Information;17.3;Registration of Births and Deaths;Female,Births,Late Registered events 2019
+1557;17;Other Information;17.3;Registration of Births and Deaths;Transgender,Births,Late Registered events 2019
+1558;17;Other Information;17.3;Registration of Births and Deaths;Total,Births,Late Registered events 2019
+1559;17;Other Information;17.3;Registration of Births and Deaths;Male,Deaths,Late Registered events 2019
+1560;17;Other Information;17.3;Registration of Births and Deaths;Female,Deaths,Late Registered events 2019
+1561;17;Other Information;17.3;Registration of Births and Deaths;Transgender,Deaths,Late Registered events 2019
+1562;17;Other Information;17.3;Registration of Births and Deaths;Total,Deaths,Late Registered events 2019
