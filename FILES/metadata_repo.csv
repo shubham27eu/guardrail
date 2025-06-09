@@ -1,0 +1,107 @@
+Owner,Data
+Adult Individual,Personal Health Record
+Adult Individual,Investment Portfolio Details
+Adult Individual,Employment Contract
+Adult Individual,Rental Agreement
+Adult Individual,Driving License Information
+Adult Individual,Credit Score Report
+Adult Individual,Fitness Tracking Data
+Adult Individual,Online Purchase History
+Adult Individual,Travel Itinerary
+Adult Individual,Social Media Preferences
+Child (<18 years),Birth Certificate Copy
+Child (<18 years),School Enrollment Records
+Child (<18 years),Immunization History
+Child (<18 years),Medical Consent Form
+Child (<18 years),Guardianship Documents
+Child (<18 years),Educational Assessment Scores
+Child (<18 years),Extracurricular Activity Sign-up
+Child (<18 years),Parental Permission Slips
+Child (<18 years),Childcare Attendance Log
+Child (<18 years),Emergency Contact Details
+Person with Disability (via guardian),Medical Diagnosis Report
+Person with Disability (via guardian),Assistance Program Eligibility
+Person with Disability (via guardian),Therapy Session Notes
+Person with Disability (via guardian),Accessible Housing Needs
+Person with Disability (via guardian),Support Animal Registration
+Person with Disability (via guardian),Special Education Plan
+Person with Disability (via guardian),Caregiver Schedule
+Person with Disability (via guardian),Assistive Device Inventory
+Person with Disability (via guardian),Guardianship Court Order
+Person with Disability (via guardian),Disability Benefits Statement
+Hindu Undivided Family (HUF),Ancestral Property Deed
+Hindu Undivided Family (HUF),Family Business Accounts
+Hindu Undivided Family (HUF),Karta's Declaration
+Hindu Undivided Family (HUF),Joint Investment Statement
+Hindu Undivided Family (HUF),HUF PAN Card Details
+Hindu Undivided Family (HUF),Succession Planning Document
+Hindu Undivided Family (HUF),Common Bank Account Transactions
+Hindu Undivided Family (HUF),Hindu Succession Act Compliance
+Hindu Undivided Family (HUF),Ancestral Jewellery Valuation
+Hindu Undivided Family (HUF),Family Trust Formation Documents
+Company,Annual Financial Report
+Company,Board Meeting Minutes
+Company,Shareholder Register
+Company,Intellectual Property Patents
+Company,Marketing Campaign Data
+Company,Employee Payroll Records
+Company,Supply Chain Agreements
+Company,Customer Relationship Management Database
+Company,Legal Compliance Audit
+Company,Product Development Roadmaps
+Firm,Partnership Agreement
+Firm,Client Project Contracts
+Firm,Operational Expenditure Logs
+Firm,Professional Service Invoices
+Firm,Employee Training Records
+Firm,Business Development Plans
+Firm,Joint Venture Proposals
+Firm,Supplier Contact Information
+Firm,Office Lease Agreement
+Firm,Regulatory Body Filings
+Association or Body of Individuals,Membership Roster
+Association or Body of Individuals,Event Registration Data
+Association or Body of Individuals,Funding Grant Applications
+Association or Body of Individuals,Volunteer Management System
+Association or Body of Individuals,Community Outreach Reports
+Association or Body of Individuals,Annual General Meeting Minutes
+Association or Body of Individuals,Activity Participation Statistics
+Association or Body of Individuals,Donation Tracking System
+Association or Body of Individuals,Bylaws and Constitutions
+Association or Body of Individuals,Collaborative Research Findings
+State,Public Service Citizen Feedback
+State,Infrastructure Project Blueprints
+State,Census Demographics
+State,Legislation Drafts
+State,Land Registry Records
+State,Tax Collection Statistics
+State,Emergency Preparedness Plans
+State,Public Health Data
+State,Environmental Impact Assessments
+State,Government Spending Reports
+Artificial Juristic Person (e.g., Trust, NGO),Charitable Donation Records
+Artificial Juristic Person (e.g., Trust, NGO),Beneficiary Assistance Logs
+Artificial Juristic Person (e.g., Trust, NGO),Program Impact Assessments
+Artificial Juristic Person (e.g., Trust, NGO),Grant Utilization Reports
+Artificial Juristic Person (e.g., Trust, NGO),Board of Trustees Minutes
+Artificial Juristic Person (e.g., Trust, NGO),Volunteer Background Checks
+Artificial Juristic Person (e.g., Trust, NGO),Fundraising Campaign Metrics
+Artificial Juristic Person (e.g., Trust, NGO),Legal Entity Registration
+Artificial Juristic Person (e.g., Trust, NGO),Annual Audit Statements
+Artificial Juristic Person (e.g., Trust, NGO),Community Needs Assessment
+Adult Individual,Pension Scheme Contributions
+Adult Individual,Property Tax Statements
+Adult Individual,Vehicle Registration Papers
+Adult Individual,Digital Identity Certificate
+Adult Individual,Insurance Policy Details
+Child (<18 years),School Performance Reports
+Child (<18 years),Extracurricular Activity Certificates
+Person with Disability (via guardian),Adaptive Technology Prescriptions
+Hindu Undivided Family (HUF),Joint Family Investment Decisions
+Company,Market Research Analysis
+Firm,Employee Performance Reviews
+Association or Body of Individuals,Internal Communication Logs
+State,Public Transportation Usage Data
+Artificial Juristic Person (e.g., Trust, NGO),Partner Organization Agreements
+Adult Individual,Subscription Service Preferences
+Adult Individual,Home Security System Logs.
