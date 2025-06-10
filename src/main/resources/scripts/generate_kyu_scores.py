@@ -156,14 +156,13 @@ def main():
     # However, 'original_ids' should correspond to kyu_df before dropna if we want to map back to true original state.
     # For this script, we'll output IDs corresponding to the rows *used* for prediction.
 
+    # Create the output DataFrame
+    # The 'ID' column should be the string representation of the 0-indexed row numbers
+    # of the DataFrame *after all processing and filtering* (i.e., kyu_df.index).
     output_df = pd.DataFrame({
-        id_col_name_for_output: kyu_df.index, # Use index from the potentially filtered kyu_df
+        'ID': kyu_df.index.astype(str),
         'KYU_Score': all_predictions_textual
     })
-    # If chosen_input_id_col was found, map the index back to that original ID for more meaningful output
-    if chosen_input_id_col and chosen_input_id_col != "DataFrame_Index":
-         output_df[id_col_name_for_output] = kyu_df[chosen_input_id_col]
-
 
     try:
         output_df.to_excel(output_file_path, index=False)
