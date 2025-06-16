@@ -128,4 +128,10 @@ public class SimpleDataFrame {
         }
         return sb.toString();
     }
+    public void setColumnHeaders(List<String> newHeaders) {
+        if (newHeaders == null || newHeaders.size() != this.headers.size()) {
+            throw new IllegalArgumentException("New headers list must match existing header count.");
+        }
+        this.headers = new ArrayList<>(newHeaders);
+    }
 }
