@@ -59,15 +59,18 @@ public class MockDataTestRunner {
 
                 System.out.println("KYU Score ------ " + kyuScoreString);
 
-                String sensitivityLevelString = resultSDF.getColumnCount() == 0 ? "Low" :
-                        ("cell".equals(resultType)
-                                ? sensitivityResultsList.stream()
-                                        .filter(sr -> sr.getAttributeId().equals(resultSDF.getColumnHeaders().get(0)))
-                                        .map(SensitivityResult::getSensitivityLevel)
-                                        .findFirst().orElse("Low")
-                                : DataProcessor.getMaxSensitivityLevel(resultSDF, sensitivityResultsList));
+                // String sensitivityLevelString = resultSDF.getColumnCount() == 0 ? "Low" :
+                //         ("cell".equals(resultType)
+                //                 ? sensitivityResultsList.stream()
+                //                         .filter(sr -> sr.getAttributeId().equals(resultSDF.getColumnHeaders().get(0)))
+                //                         .map(SensitivityResult::getSensitivityLevel)
+                //                         .findFirst().orElse("Low")
+                //                 : DataProcessor.getMaxSensitivityLevel(resultSDF, sensitivityResultsList));
+                // TODO: MockDataTestRunner needs refactoring to work without DataProcessor.getMaxSensitivityLevel
+                // For now, using a placeholder value to allow compilation.
+                String sensitivityLevelString = "low";
 
-                System.out.println("Sensitivity Level ------ " + sensitivityLevelString);
+                System.out.println("Sensitivity Level (mocked in TestRunner) ------ " + sensitivityLevelString);
 
                 List<String> selectedStrategies = StrategySelector.getStrategies(resultType, sensitivityLevelString.toLowerCase(), kyuScoreString.toLowerCase());
                 System.out.println("Selected Strategies ----- " + selectedStrategies);

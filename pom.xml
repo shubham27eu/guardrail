@@ -48,10 +48,21 @@
     </dependencies>
 
     <build>
+
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
                 <filtering>true</filtering>
+                <excludes>
+                    <exclude>scripts/GUARDRAIL-3/*.pkl</exclude>
+                    <exclude>scripts/GUARDRAIL-3/*.joblib</exclude>
+                    <exclude>scripts/GUARDRAIL-3/*.faiss</exclude>
+                    <exclude>scripts/GUARDRAIL-3/*.csv</exclude>
+                    <exclude>scripts/GUARDRAIL-3/*.xlsx</exclude>
+                    <exclude>scripts/GUARDRAIL-3/**/*.pyc</exclude>
+                    <exclude>scripts/GUARDRAIL-3/__pycache__/**</exclude>
+                    <exclude>scripts/GUARDRAIL-3/DB/*.db</exclude>
+                </excludes>
             </resource>
         </resources>
         <plugins>
