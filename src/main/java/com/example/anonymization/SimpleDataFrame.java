@@ -134,4 +134,58 @@ public class SimpleDataFrame {
         }
         this.headers = new ArrayList<>(newHeaders);
     }
+
+    public void writeToCsv(String filePath) throws IOException {
+        if (filePath == null || filePath.trim().isEmpty()) {
+            throw new IllegalArgumentException("File path cannot be null or empty.");
+        }
+
+        StringBuilder sb = new StringBuilder();
+        List<String> currentHeaders = this.getColumnHeaders(); // Use getter to ensure consistency if overridden
+
+        // Write headers
+        // Simple quoting for headers containing comma, quote, or newline
+        sb.append(currentHeaders.stream()
+                .map(this::escapeCsvValue)
+                .collect(Collectors.joining(",")))
+                .append("\n");
+
+        // Write rows
+        if (this.getRowCount() > 0) {
+            for (Map<String, Object> row : this.getRows()) { // Use getter
+                List<String> rowValues = new ArrayList<>();
+                for (String header : currentHeaders) {
+                    Object value = row.get(header);
+                    rowValues.add(escapeCsvValue(value));
+                }
+                sb.append(String.join(",", rowValues)).append("\n");
+            }
+        } else if (currentHeaders.isEmpty()) {
+             // No headers and no rows, write truly empty file if desired
+             // For now, if headers existed, they are written. If no headers, this means empty file.
+             // If currentHeaders is empty, the header line above is just a newline.
+             // To ensure an absolutely empty file if no headers and no data:
+             // if (currentHeaders.isEmpty()) {
+             //     Files.write(Paths.get(filePath), "".getBytes("UTF-8"));
+             //     return;
+             // }
+        }
+        // If no rows but headers exist, only the header line will be written.
+
+        java.nio.file.Files.write(java.nio.file.Paths.get(filePath), sb.toString().getBytes(java.nio.charset.StandardCharsets.UTF_8));
+    }
+
+    private String escapeCsvValue(Object value) {
+        if (value == null) {
+            return ""; // Represent null as empty string in CSV
+        }
+        String stringValue = String.valueOf(value);
+        // If value contains comma, quote, or newline, then enclose in double quotes
+        if (stringValue.contains(",") || stringValue.contains("\"") || stringValue.contains("\n") || stringValue.contains("\r")) {
+            // Replace any existing double quotes with two double quotes
+            stringValue = stringValue.replace("\"", "\"\"");
+            return "\"" + stringValue + "\"";
+        }
+        return stringValue;
+    }
 }
