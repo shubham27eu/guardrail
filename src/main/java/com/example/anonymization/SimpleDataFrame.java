@@ -1,5 +1,6 @@
 package com.example.anonymization;
 
+import java.io.IOException; // Added import for IOException
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
