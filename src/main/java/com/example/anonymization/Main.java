@@ -62,22 +62,40 @@ public class Main {
             System.err.println("Skipping table creation for empty SimpleDataFrame: " + tableName);
             return;
         }
-        List<String> headers = sdf.getColumnHeaders();
-        String columnsWithType = headers.stream().map(header -> "\"" + header + "\" TEXT").collect(Collectors.joining(", "));
+
+        List<String> originalHeaders = sdf.getColumnHeaders();
+        List<String> sanitizedHeaders = new ArrayList<>();
+
+        for (int i = 0; i < originalHeaders.size(); i++) {
+            String header = originalHeaders.get(i);
+            if (header == null || header.trim().isEmpty()) {
+                header = "unnamed_col_" + i;
+                System.out.println("⚠️ Found blank column name. Renamed to: " + header);
+            }
+            sanitizedHeaders.add(header);
+        }
+
+        // Update headers in SimpleDataFrame (optional, depends on how you're handling column lookups elsewhere)
+        sdf.setColumnHeaders(sanitizedHeaders);
+
+        String columnsWithType = sanitizedHeaders.stream()
+                .map(header -> "\"" + header + "\" TEXT")
+                .collect(Collectors.joining(", "));
 
         try (Statement stmt = conn.createStatement()) {
             stmt.execute("DROP TABLE IF EXISTS \"" + tableName + "\"");
             stmt.execute("CREATE TABLE \"" + tableName + "\" (" + columnsWithType + ")");
 
             String insertSQL = "INSERT INTO \"" + tableName + "\" (" +
-                    headers.stream().map(h -> "\"" + h + "\"").collect(Collectors.joining(", ")) +
+                    sanitizedHeaders.stream().map(h -> "\"" + h + "\"").collect(Collectors.joining(", ")) +
                     ") VALUES (" +
-                    headers.stream().map(h -> "?").collect(Collectors.joining(", ")) + ")";
+                    sanitizedHeaders.stream().map(h -> "?").collect(Collectors.joining(", ")) + ")";
 
             try (PreparedStatement pstmt = conn.prepareStatement(insertSQL)) {
                 for (Map<String, Object> row : sdf.getRows()) {
-                    for (int i = 0; i < headers.size(); i++) {
-                        pstmt.setString(i + 1, row.get(headers.get(i)) != null ? String.valueOf(row.get(headers.get(i))) : null);
+                    for (int i = 0; i < sanitizedHeaders.size(); i++) {
+                        Object value = row.get(originalHeaders.get(i)); // use original header for lookup
+                        pstmt.setString(i + 1, value != null ? String.valueOf(value) : null);
                     }
                     pstmt.addBatch();
                 }

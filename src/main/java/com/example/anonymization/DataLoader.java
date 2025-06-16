@@ -3,152 +3,167 @@ package com.example.anonymization;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
+
 import org.apache.poi.ss.usermodel.*;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook; // For .xlsx
-// Consider also: import org.apache.poi.hssf.usermodel.HSSFWorkbook; // For .xls if needed
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.stream.Collectors;
+import java.io.*;
+import java.nio.file.*;
+import java.util.*;
 
+/**
+ * Utility class that loads the various input files used by the anonymization pipeline.
+ *  • CSV files are read with Apache Commons CSV
+ *  • XLS/XLSX files are read with Apache POI
+ *
+ * The loader decides which parser to use by the file-extension.
+ */
 public class DataLoader {
 
-    // Generic CSV Loader into SimpleDataFrame
-    public static SimpleDataFrame loadCsvToSimpleDataFrame(String filePath, char delimiter) throws IOException {
-        try (FileReader reader = new FileReader(filePath);
-             CSVParser csvParser = new CSVParser(reader, CSVFormat.Builder.create().setDelimiter(delimiter).setHeader().setSkipHeaderRecord(true).build())) {
+    /* ──────────────────────────────  COMMON HELPERS  ───────────────────────────── */
 
-            List<String> headers = csvParser.getHeaderNames();
+    private static String ext(String filePath) {
+        int dot = filePath.lastIndexOf('.');
+        return dot < 0 ? "" : filePath.substring(dot + 1).toLowerCase();
+    }
+
+    /* ──────────────────────────────  CSV → SimpleDataFrame  ────────────────────── */
+
+    private static SimpleDataFrame loadCsvToSimpleDataFrame(String filePath, char delimiter) throws IOException {
+        try (Reader reader = Files.newBufferedReader(Paths.get(filePath));
+             CSVParser parser = CSVFormat.Builder.create()
+                                                .setDelimiter(delimiter)
+                                                .setHeader()
+                                                .setSkipHeaderRecord(true)
+                                                .build()
+                                                .parse(reader)) {
+
+            List<String> headers = parser.getHeaderNames();
             SimpleDataFrame sdf = new SimpleDataFrame(headers);
 
-            for (CSVRecord csvRecord : csvParser) {
+            for (CSVRecord rec : parser) {
                 Map<String, Object> row = new HashMap<>();
-                for (String header : headers) {
-                    row.put(header, csvRecord.get(header));
-                }
+                for (String h : headers) row.put(h, rec.get(h));
                 sdf.addRow(row);
             }
             return sdf;
         }
     }
 
-    // Specific loader for Data_2019-20.csv
-    public static SimpleDataFrame loadDataDf(String filePath, char delimiter) throws IOException {
-        return loadCsvToSimpleDataFrame(filePath, delimiter);
-    }
+    /* ──────────────────────────────  XLSX → SimpleDataFrame  ───────────────────── */
 
-    // Specific loader for Attributes.csv
-    public static List<Attribute> loadAttributes(String filePath) throws IOException {
-        List<Attribute> attributes = new ArrayList<>();
-        // Assuming Attr_id is the first column and Description is the second. Adjust if different.
-        // Using a generic CSV reader approach here.
-        try (FileReader reader = new FileReader(filePath);
-             CSVParser csvParser = new CSVParser(reader, CSVFormat.DEFAULT.withFirstRecordAsHeader().withTrim())) {
-            
-            // Determine actual header names for safety, though we expect "Attr_id" and "Description"
-            // For now, let's assume fixed positions or names if known, or be more robust by checking headers.
-            // If "Attributes.csv" has headers "Attr_id", "Description", this will work.
-            // Otherwise, need to adjust CSVFormat or manual parsing.
-            // The notebook implies attribute_df = pd.read_csv("Attributes.csv"), so it likely has headers.
+    private static SimpleDataFrame loadExcelToSimpleDataFrame(String filePath, String sheetName) throws IOException {
+        List<String> headers   = new ArrayList<>();
+        List<Map<String, Object>> rows = new ArrayList<>();
+        DataFormatter fmt = new DataFormatter();
 
-            String idHeader = csvParser.getHeaderNames().contains("Attr_id") ? "Attr_id" : csvParser.getHeaderNames().get(0);
-            String descHeader = csvParser.getHeaderNames().contains("Description") ? "Description" : csvParser.getHeaderNames().get(1);
-
-
-            for (CSVRecord csvRecord : csvParser) {
-                String attrId = csvRecord.get(idHeader);
-                String description = csvRecord.get(descHeader);
-                attributes.add(new Attribute(attrId, description));
-            }
-        }
-        return attributes;
-    }
-
-    // Generic Excel Loader (adapt as needed for specific POJO mapping)
-    private static List<Map<String, Object>> loadExcelSheet(String filePath, String sheetName) throws IOException {
-        List<Map<String, Object>> sheetData = new ArrayList<>();
         try (InputStream is = Files.newInputStream(Paths.get(filePath));
-             Workbook workbook = WorkbookFactory.create(is)) { // WorkbookFactory handles both .xls and .xlsx
+             Workbook wb   = new XSSFWorkbook(is)) {
 
-            Sheet sheet = sheetName != null ? workbook.getSheet(sheetName) : workbook.getSheetAt(0);
-            if (sheet == null) {
-                throw new IOException("Sheet with name " + (sheetName != null ? sheetName : "[FIRST_SHEET]") + " not found in " + filePath);
-            }
+            Sheet sheet = sheetName == null ? wb.getSheetAt(0) : wb.getSheet(sheetName);
+            if (sheet == null) throw new IOException("Sheet '" + sheetName + "' not found in " + filePath);
 
             Row headerRow = sheet.getRow(0);
-            if (headerRow == null) {
-                throw new IOException("Header row not found in sheet " + (sheetName != null ? sheetName : "[FIRST_SHEET]"));
-            }
+            headerRow.forEach(c -> headers.add(fmt.formatCellValue(c)));
 
-            List<String> headers = new ArrayList<>();
-            for (Cell cell : headerRow) {
-                headers.add(cell.getStringCellValue());
-            }
-
-            DataFormatter dataFormatter = new DataFormatter();
             for (int i = 1; i <= sheet.getLastRowNum(); i++) {
-                Row currentRow = sheet.getRow(i);
-                if (currentRow == null) continue;
-                Map<String, Object> rowMap = new HashMap<>();
+                Row r = sheet.getRow(i);
+                if (r == null) continue;
+                Map<String,Object> row = new LinkedHashMap<>();
                 for (int j = 0; j < headers.size(); j++) {
-                    Cell cell = currentRow.getCell(j, Row.MissingCellPolicy.RETURN_BLANK_AS_NULL);
-                    if (cell != null) {
-                        rowMap.put(headers.get(j), dataFormatter.formatCellValue(cell));
-                    } else {
-                        rowMap.put(headers.get(j), null);
-                    }
+                    Cell c = r.getCell(j, Row.MissingCellPolicy.RETURN_BLANK_AS_NULL);
+                    row.put(headers.get(j), c == null ? null : fmt.formatCellValue(c));
                 }
-                sheetData.add(rowMap);
+                rows.add(row);
             }
         }
-        return sheetData;
+
+        SimpleDataFrame sdf = new SimpleDataFrame(headers);
+        rows.forEach(sdf::addRow);
+        return sdf;
     }
-    
-    // Specific loader for Sensitivity_Results.xlsx
-    // Expected columns: "Attr_id", "Sensitivity_Level" (as per notebook cell 3 & 9)
+
+    /* ──────────────────────────────  Public loaders  ───────────────────────────── */
+
+    /** Loads the main data-frame (Data_2019-20.*). */
+    public static SimpleDataFrame loadDataDf(String filePath, char delimiter) throws IOException {
+        return switch (ext(filePath)) {
+            case "csv"  -> loadCsvToSimpleDataFrame(filePath, delimiter);
+            case "xls", "xlsx" -> loadExcelToSimpleDataFrame(filePath, null);
+            default -> throw new IOException("Unsupported file type for data_df: " + filePath);
+        };
+    }
+
+    /** Loads Attributes.* and returns a list of Attribute POJOs. */
+    public static List<Attribute> loadAttributes(String filePath) throws IOException {
+        List<Attribute> attrs = new ArrayList<>();
+
+        if ("csv".equals(ext(filePath))) {
+            try (Reader r = Files.newBufferedReader(Paths.get(filePath));
+                 CSVParser p = CSVFormat.DEFAULT.withFirstRecordAsHeader().withTrim().parse(r)) {
+
+                String idH  = p.getHeaderNames().contains("Attr_id")     ? "Attr_id"     : p.getHeaderNames().get(0);
+                String dsH  = p.getHeaderNames().contains("Description") ? "Description" : p.getHeaderNames().get(1);
+
+                for (CSVRecord rec : p)
+                    attrs.add(new Attribute(rec.get(idH), rec.get(dsH)));
+            }
+        } else if ("xls".equals(ext(filePath)) || "xlsx".equals(ext(filePath))) {
+            SimpleDataFrame sdf = loadExcelToSimpleDataFrame(filePath, null);
+            String idH = sdf.getColumnHeaders().stream()
+                            .filter(h -> h.equalsIgnoreCase("Attr_id")).findFirst()
+                            .orElse(sdf.getColumnHeaders().get(0));
+            String dsH = sdf.getColumnHeaders().stream()
+                            .filter(h -> h.equalsIgnoreCase("Description")).findFirst()
+                            .orElse(sdf.getColumnHeaders().get(1));
+
+            for (Map<String,Object> row : sdf.getRows())
+                attrs.add(new Attribute(String.valueOf(row.get(idH)), String.valueOf(row.get(dsH))));
+        } else {
+            throw new IOException("Unsupported file type for Attributes: " + filePath);
+        }
+        return attrs;
+    }
+
+    /** Loads Sensitivity_Results.xlsx (or .csv) → list of POJOs */
     public static List<SensitivityResult> loadSensitivityResults(String filePath, String sheetName) throws IOException {
-        List<SensitivityResult> results = new ArrayList<>();
-        List<Map<String, Object>> sheetData = loadExcelSheet(filePath, sheetName);
-        for (Map<String, Object> row : sheetData) {
-            // Ensure keys match exact column names in Excel file.
-            // The notebook uses 'Attr_id' for sensitivity_df.
-            String attrId = row.get("Attr_id") != null ? row.get("Attr_id").toString() : (row.get("column_name") != null ? row.get("column_name").toString() : null);
-            String sensitivityLevel = row.get("Sensitivity_Level") != null ? row.get("Sensitivity_Level").toString() : (row.get("sensitivity_level") != null ? row.get("sensitivity_level").toString() : null);
-            
-            if (attrId == null || sensitivityLevel == null) {
-                // Handle cases where expected columns might be missing or have different names
-                // For now, skip rows with missing critical data or throw error
-                System.err.println("Skipping row due to missing Attr_id or Sensitivity_Level: " + row);
-                continue;
-            }
-            results.add(new SensitivityResult(attrId, sensitivityLevel));
+        List<SensitivityResult> res = new ArrayList<>();
+
+        SimpleDataFrame sdf = switch (ext(filePath)) {
+            case "csv"        -> loadCsvToSimpleDataFrame(filePath, ',');
+            case "xls", "xlsx"-> loadExcelToSimpleDataFrame(filePath, sheetName);
+            default           -> throw new IOException("Unsupported file for sensitivity results: " + filePath);
+        };
+
+        for (Map<String,Object> row : sdf.getRows()) {
+            String attr = Optional.ofNullable(row.get("Attr_id"))
+                                  .orElse(row.get("column_name"))      // fallback names
+                                  .toString();
+            String lvl  = Optional.ofNullable(row.get("Sensitivity_Level"))
+                                  .orElse(row.get("sensitivity_level"))
+                                  .toString();
+            res.add(new SensitivityResult(attr, lvl));
         }
-        return results;
+        return res;
     }
 
-    // Specific loader for KYU Score.xlsx
-    // Expected columns: "ID", "KYU_Score" (as per notebook cell 11)
+    /** Loads KYU Score.* → list of POJOs */
     public static List<KyuScore> loadKyuScores(String filePath, String sheetName) throws IOException {
-        List<KyuScore> scores = new ArrayList<>();
-        List<Map<String, Object>> sheetData = loadExcelSheet(filePath, sheetName);
-        for (Map<String, Object> row : sheetData) {
-             // Ensure keys match exact column names in Excel file.
-            String userId = row.get("ID") != null ? row.get("ID").toString() : (row.get("user_id") != null ? row.get("user_id").toString() : null);
-            String kyuScore = row.get("KYU_Score") != null ? row.get("KYU_Score").toString() : (row.get("kyu_score") != null ? row.get("kyu_score").toString() : null);
+        List<KyuScore> res = new ArrayList<>();
 
-            if (userId == null || kyuScore == null) {
-                System.err.println("Skipping row due to missing ID or KYU_Score: " + row);
-                continue;
-            }
-            scores.add(new KyuScore(userId, kyuScore));
+        SimpleDataFrame sdf = switch (ext(filePath)) {
+            case "csv"        -> loadCsvToSimpleDataFrame(filePath, ',');
+            case "xls", "xlsx"-> loadExcelToSimpleDataFrame(filePath, sheetName);
+            default           -> throw new IOException("Unsupported file for KYU scores: " + filePath);
+        };
+
+        for (Map<String,Object> row : sdf.getRows()) {
+            String id  = Optional.ofNullable(row.get("ID"))
+                                 .orElse(row.get("user_id")).toString();
+            String kyu = Optional.ofNullable(row.get("KYU_Score"))
+                                 .orElse(row.get("kyu_score")).toString();
+            res.add(new KyuScore(id, kyu));
         }
-        return scores;
+        return res;
     }
 }
