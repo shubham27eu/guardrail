@@ -213,7 +213,10 @@ def request_data():
 
 
     # --- Call Java Anonymization Application ---
-    anonymized_values = []
+    # Initialize variables with default/error values before the try block
+    anonymization_score_from_java = "N/A"
+    utility_retained_from_java = "N/A"
+    anonymized_values = ["Anonymization process did not complete successfully or was not attempted."] # Default
     input_file_path_for_java = None
     output_file_path_for_java = None
 
