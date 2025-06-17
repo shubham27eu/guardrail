@@ -322,8 +322,7 @@ def request_data():
     if attribute_values_for_java_processing:
         try:
             with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt', encoding='utf-8') as tmp_input_file:
-                tmp_input_file.write('
-'.join(attribute_values_for_java_processing))
+                tmp_input_file.write('\n'.join(attribute_values_for_java_processing))
                 input_file_path_for_java = tmp_input_file.name
 
             with tempfile.NamedTemporaryFile(delete=False, suffix='.csv', encoding='utf-8') as tmp_output_file_obj:
