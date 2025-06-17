@@ -146,10 +146,20 @@ public class SimpleDataFrame {
 
         // Write headers
         // Simple quoting for headers containing comma, quote, or newline
-        sb.append(currentHeaders.stream()
-                .map(this::escapeCsvValue)
-                .collect(Collectors.joining(",")))
-                .append("\n");
+        List<String> escapedHeaders = new ArrayList<>();
+        for (String header : currentHeaders) {
+            String escapedHeader;
+            if (header == null) { // Should not happen for headers, but good practice
+                escapedHeader = "[NULL_HEADER]";
+            } else {
+                escapedHeader = header.replace("\"", "\"\""); // Escape quotes first
+                if (header.contains(",") || header.contains("\"")) { // Check original header for quote
+                    escapedHeader = "\"" + escapedHeader + "\"";
+                }
+            }
+            escapedHeaders.add(escapedHeader);
+        }
+        sb.append(String.join(",", escapedHeaders)).append("\n");
 
         // Write rows
         if (this.getRowCount() > 0) {
@@ -157,7 +167,22 @@ public class SimpleDataFrame {
                 List<String> rowValues = new ArrayList<>();
                 for (String header : currentHeaders) {
                     Object value = row.get(header);
-                    rowValues.add(escapeCsvValue(value));
+                    String cellValueAsString;
+
+                    if (value == null) {
+                        cellValueAsString = "[NULL]"; // Represent Java null as the string "[NULL]"
+                    } else {
+                        cellValueAsString = String.valueOf(value);
+                        // Basic CSV escaping:
+                        // 1. Replace all internal quotes with double quotes
+                        cellValueAsString = cellValueAsString.replace("\"", "\"\"");
+                        // 2. If the string contains a comma OR an already escaped quote (which is now a pair of quotes),
+                        //    OR an actual quote that was just escaped, then enclose the whole cell in quotes.
+                        if (cellValueAsString.contains(",") || cellValueAsString.contains("\"")) {
+                            cellValueAsString = "\"" + cellValueAsString + "\"";
+                        }
+                    }
+                    rowValues.add(cellValueAsString);
                 }
                 sb.append(String.join(",", rowValues)).append("\n");
             }
@@ -176,17 +201,7 @@ public class SimpleDataFrame {
         java.nio.file.Files.write(java.nio.file.Paths.get(filePath), sb.toString().getBytes(java.nio.charset.StandardCharsets.UTF_8));
     }
 
-    private String escapeCsvValue(Object value) {
-        if (value == null) {
-            return ""; // Represent null as empty string in CSV
-        }
-        String stringValue = String.valueOf(value);
-        // If value contains comma, quote, or newline, then enclose in double quotes
-        if (stringValue.contains(",") || stringValue.contains("\"") || stringValue.contains("\n") || stringValue.contains("\r")) {
-            // Replace any existing double quotes with two double quotes
-            stringValue = stringValue.replace("\"", "\"\"");
-            return "\"" + stringValue + "\"";
-        }
-        return stringValue;
-    }
+    // The escapeCsvValue method is now integrated into the writeToCsv logic directly,
+    // and its behavior for nulls has changed to "[NULL]" instead of "".
+    // private String escapeCsvValue(Object value) { ... }
 }
