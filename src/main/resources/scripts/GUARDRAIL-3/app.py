@@ -6,6 +6,7 @@ from werkzeug.utils import secure_filename
 import subprocess
 import tempfile
 import joblib
+import traceback # Added for enhanced exception logging
 from faiss_domain_helper import predict_domain_for_value
 from collections import Counter
 from compliance_lookup import get_sensitivity_for_owner_domain
@@ -383,8 +384,11 @@ def request_data():
             anonymized_values = [f"Java executable not found. Check JAVA_JAR_PATH: {JAVA_JAR_PATH}"]
             print(f"Java executable or JAR not found. Ensure JAVA_JAR_PATH is correct: {JAVA_JAR_PATH}")
         except Exception as e:
-            anonymized_values = [f"An unexpected error occurred when calling Java: {e}"]
-            print(f"General error calling Java: {e}")
+            print(f"An unexpected error occurred when calling Java. Error type: {type(e)}") # Log type
+            print(f"Error message: {e}") # Log message
+            print("Full traceback:") # Indicate traceback is coming
+            traceback.print_exc() # Print full traceback to console
+            anonymized_values = [f"An unexpected error occurred when calling Java: {e}"] # Keep this for UI
         finally:
             if input_file_path_for_java and os.path.exists(input_file_path_for_java):
                 os.remove(input_file_path_for_java)
