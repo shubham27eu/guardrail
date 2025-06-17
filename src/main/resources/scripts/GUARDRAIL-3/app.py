@@ -326,7 +326,7 @@ def request_data():
                 tmp_input_file.write('\n'.join(attribute_values_for_java_processing))
                 input_file_path_for_java = tmp_input_file.name
 
-            with tempfile.NamedTemporaryFile(delete=False, suffix='.csv', encoding='utf-8') as tmp_output_file_obj:
+            with tempfile.NamedTemporaryFile(delete=False, suffix='.csv') as tmp_output_file_obj: # Removed encoding for output temp file path generation
                 output_file_path_for_java = tmp_output_file_obj.name
 
             # Ensure JAVA_JAR_PATH is correctly defined above
