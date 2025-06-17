@@ -34,9 +34,8 @@ The system comprises two main parts:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/shubham27eu/guardrail.git
-   cd guardrail
-   git checkout feat/python-java-integration-revised
+    git clone <repository_url>
+    cd <repository_name>
     ```
 
 2.  **Build the Java Anonymization Engine:**
@@ -57,13 +56,12 @@ The system comprises two main parts:
     # On Linux/macOS:
     source venv/bin/activate
     # On Windows:
-    # venv\Scripts\activate
+    venv\Scripts\activate
     ```
     Install Python dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-    *(Note: `requirements.txt` will be created in the next step. Ensure it's present before running this command.)*
 
 ## Execution Instructions
 
@@ -73,7 +71,7 @@ The system comprises two main parts:
     # On Linux/macOS:
     source venv/bin/activate
     # On Windows:
-    # venv\Scripts\activate
+    venv\Scripts\activate
     ```
 
 2.  **Run the Flask Application:**
@@ -99,7 +97,7 @@ The system comprises two main parts:
     -   `com/example/anonymization/Main.java`: Main entry point for the Java CLI application.
 -   `src/main/resources/scripts/GUARDRAIL-3/`: Python Flask application.
     -   `app.py`: Main Flask application file.
-    -   `requirements.txt`: Python dependencies for `app.py`. (To be created)
+    -   `requirements.txt`: Python dependencies for `app.py` components.
     -   `kyu_module.py`, `faiss_domain_helper.py`, `compliance_lookup.py`: Helper Python modules for `app.py`.
     -   `templates/`: HTML templates for the web UI.
     -   `static/`: Static files (CSS, JS, uploaded data).
