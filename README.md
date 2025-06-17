@@ -34,9 +34,10 @@ The system comprises two main parts:
 
 1.  **Clone the Repository:**
     ```bash
-git clone https://github.com/shubham27eu/guardrail.git
-cd guardrail
-git checkout feat/python-java-integration-revised
+    git clone https://github.com/shubham27eu/guardrail.git
+   cd guardrail
+   git checkout feat/python-java-integration-revised
+    ```
 
 2.  **Build the Java Anonymization Engine:**
     From the project root directory:
