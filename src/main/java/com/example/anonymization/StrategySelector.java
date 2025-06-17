@@ -102,7 +102,7 @@ public class StrategySelector {
         // Table - Moderate Sensitivity
         Map<String, List<String>> tableModerateSensitivity = new HashMap<>();
         tableModerateSensitivity.put("low", Arrays.asList("generalization"));
-        tableModerateSensitivity.put("moderate", Arrays.asList("partial_masking")); // NEW - ONLY partial_masking
+        tableModerateSensitivity.put("moderate", Arrays.asList("microaggregation", "partial_masking"));
         tableModerateSensitivity.put("high", Arrays.asList("no_transformation"));
         tableStrategies.put("moderate", tableModerateSensitivity);
         
