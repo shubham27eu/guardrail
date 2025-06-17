@@ -345,11 +345,9 @@ def request_data():
 
             java_stdout = process_result.stdout
             java_stderr = process_result.stderr
-            print(f"Java stdout:
-{java_stdout}")
+            print(f"Java stdout:\n{java_stdout}")
             if java_stderr:
-                print(f"Java stderr:
-{java_stderr}")
+                print(f"Java stderr:\n{java_stderr}")
 
             # Parse scores from Java stdout - defaults remain "N/A" if not found
             if java_stdout:
@@ -376,10 +374,8 @@ def request_data():
 
         except subprocess.CalledProcessError as e:
             anonymized_values = [f"Java process error (Code {e.returncode}): {e.stderr if e.stderr else 'No stderr'}. Stdout: {e.stdout if e.stdout else 'No stdout'}"]
-            print(f"Java CProcessError stdout:
-{e.stdout}")
-            print(f"Java CProcessError stderr:
-{e.stderr}")
+            print(f"Java CProcessError stdout:\n{e.stdout}")
+            print(f"Java CProcessError stderr:\n{e.stderr}")
         except subprocess.TimeoutExpired:
             anonymized_values = ["Java process timed out after 120 seconds."]
             print("Java process timed out.")
