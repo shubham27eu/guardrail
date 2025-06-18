@@ -53,7 +53,7 @@ The system comprises two main parts:
     ```
     Create and activate a virtual environment:
     ```bash
-    python -m venv venv
+    python3 -m venv venv
     # On Linux/macOS:
     source venv/bin/activate
     # On Windows:
@@ -78,7 +78,7 @@ The system comprises two main parts:
 2.  **Run the Flask Application:**
     From the `src/main/resources/scripts/GUARDRAIL-3/` directory:
     ```bash
-    python app.py
+    python3 app.py
     ```
 
 3.  **Access the Application:**
