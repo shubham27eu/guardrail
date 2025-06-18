@@ -76,7 +76,7 @@
     </plugins>
   </build>
   <properties>
-    <attributes.path>path-not-set</attributes.path>
     <data.df.path>path-not-set</data.df.path>
+    <attributes.path>path-not-set</attributes.path>
   </properties>
 </project>
