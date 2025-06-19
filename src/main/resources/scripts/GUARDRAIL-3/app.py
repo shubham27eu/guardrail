@@ -188,7 +188,8 @@ def request_data():
         overall_sensitivity = 'Low'
 
     # --- Call Java ---
-    anonymized_values = []
+    # Default for anonymized_data_with_strategy in case of early exit or error before Java call
+    anonymized_data_with_strategy = [{'value': "Processing error before Java call.", 'strategy': 'N/A'}]
     try:
         java_command = [
             "java", "-jar",
@@ -199,11 +200,22 @@ def request_data():
         print(f"Executing Java command: {' '.join(java_command)}") # Log the command
         subprocess.run(java_command, check=True, capture_output=True, timeout=120)
 
+        # MODIFIED BLOCK 1: Parsing Java Output
+        anonymized_data_with_strategy = []
         if os.path.exists(output_path):
-            df_out = pd.read_csv(output_path, header=None)
-            anonymized_values = df_out[0].astype(str).tolist()
+            with open(output_path, 'r', encoding='utf-8') as f:
+                for line in f:
+                    parts = line.strip().split('::', 1)
+                    if len(parts) == 2:
+                        anonymized_data_with_strategy.append({'value': parts[0], 'strategy': parts[1]})
+                    elif len(parts) == 1: # Fallback if strategy is missing for some reason
+                        anonymized_data_with_strategy.append({'value': parts[0], 'strategy': 'Unknown'})
+                    else: # Should not happen with correct Java output
+                        anonymized_data_with_strategy.append({'value': 'Error parsing Java output', 'strategy': 'Error'})
+            if not anonymized_data_with_strategy: # File was empty
+                 anonymized_data_with_strategy = [{'value': "Java output file was empty.", 'strategy': 'N/A'}]
         else:
-            anonymized_values = ["Java output not found."]
+            anonymized_data_with_strategy = [{'value': "Java output not found.", 'strategy': 'N/A'}]
 
     except subprocess.CalledProcessError as e:
         error_message = f"Error during Java call (CalledProcessError): {e}\n"
@@ -211,22 +223,29 @@ def request_data():
         error_message += f"Command: {' '.join(e.cmd)}\n"
         error_message += f"Stdout: {e.stdout.decode('utf-8', errors='ignore') if e.stdout else 'N/A'}\n"
         error_message += f"Stderr: {e.stderr.decode('utf-8', errors='ignore') if e.stderr else 'N/A'}"
-        anonymized_values = [error_message]
+        # Provide a list of dictionaries to match the expected structure
+        anonymized_data_with_strategy = [{'value': error_message, 'strategy': 'Java Execution Error'}]
     except Exception as e: # General fallback for other errors like TimeoutExpired
         error_message = f"General error during Java call: {type(e).__name__} - {e}"
-        anonymized_values = [error_message]
+        anonymized_data_with_strategy = [{'value': error_message, 'strategy': 'Python Execution Error'}]
 
     finally:
         os.remove(input_path)
         if os.path.exists(output_path):
             os.remove(output_path)
 
-    # Re-pair input and output
+    # MODIFIED BLOCK 2: Updating HTML Output Generation
     output_html = ""
     for i, tag in enumerate(tagged_values):
         attr, val = tag.split("::")
-        anon_val = anonymized_values[i] if i < len(anonymized_values) else "?"
-        output_html += f"<li><strong>{attr}</strong>: {val} → <strong>{anon_val}</strong></li>"
+        if i < len(anonymized_data_with_strategy):
+            anon_entry = anonymized_data_with_strategy[i]
+            anon_val = anon_entry['value']
+            strategy = anon_entry['strategy']
+        else:
+            anon_val = "?"
+            strategy = "N/A" # Should ideally not be reached if lists are same length
+        output_html += f"<li><strong>{attr}</strong>: {val} → <strong>{anon_val}</strong> (Strategy: <em>{strategy}</em>)</li>"
 
     # Compliance metadata
     metadata_html = ''.join(

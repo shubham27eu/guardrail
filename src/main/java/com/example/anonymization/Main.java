@@ -79,7 +79,9 @@ public class Main {
                 // This can be adjusted later if a different format is needed by app.py
                 // String outputLine = originalValue + "::" + anonymizationResult.getAnonymizedValue() +
                 //                     " (Strategy: " + anonymizationResult.getAppliedStrategy() + ")";
-                anonymizedValuesForOutput.add(anonymizationResult.getAnonymizedValue());
+                // MODIFIED LINE BELOW
+                String outputLine = anonymizationResult.getAnonymizedValue() + "::" + anonymizationResult.getAppliedStrategy();
+                anonymizedValuesForOutput.add(outputLine);
 
                 // appliedStrategiesForOutput.add(anonymizationResult.getAppliedStrategy()); // Optional
                 System.out.println("Original: " + originalValue +
