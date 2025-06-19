@@ -180,4 +180,99 @@ public class AnonymizationService {
                 throw new IllegalArgumentException("Unknown strategy for table granularity: " + strategy);
         }
     }
+
+    public static SingleAnonymizationResult anonymizeSingleValue(
+            String originalValue,
+            String attributeName, // For context
+            String kyuScore, // For context
+            String sensitivityForAttribute, // For context
+            List<String> strategies) {
+
+        String currentValue = originalValue;
+        String appliedStrategyName = "no_transformation";
+
+        if (originalValue == null || originalValue.trim().isEmpty()) {
+            return new SingleAnonymizationResult(originalValue, "no_transformation_empty_input");
+        }
+
+        boolean transformationApplied = false;
+        for (String strategy : strategies) {
+            // String tempValue = currentValue; // Use originalValue to check if *this specific strategy* changed it
+            switch (strategy.toLowerCase()) {
+                case "full_masking":
+                    currentValue = AnonymizationTechniques.applyCellFullMasking(currentValue);
+                    appliedStrategyName = strategy;
+                    break;
+                case "partial_masking":
+                    currentValue = AnonymizationTechniques.applyCellPartialMasking(currentValue);
+                    appliedStrategyName = strategy;
+                    break;
+                case "cell_suppression":
+                    currentValue = AnonymizationTechniques.applyCellSuppression(currentValue);
+                    appliedStrategyName = strategy;
+                    break;
+                case "noise_injection":
+                    currentValue = AnonymizationTechniques.applyCellNoiseInjection(currentValue);
+                    appliedStrategyName = strategy;
+                    break;
+                case "generalization":
+                    currentValue = AnonymizationTechniques.applyCellGeneralization(currentValue);
+                    appliedStrategyName = strategy;
+                    break;
+                case "no_transformation":
+                    currentValue = AnonymizationTechniques.applyCellNoTransformation(currentValue);
+                    appliedStrategyName = strategy;
+                    break;
+                // Strategies that are hard to apply to single, contextless values:
+                case "top_bottom_coding":
+                case "microaggregation":
+                case "differential_privacy_column":
+                case "binning":
+                    System.err.println("Warning: Strategy '" + strategy + "' is complex for single value and not fully implemented here. Defaulting to partial_masking for this value.");
+                    if (!transformationApplied) {
+                        currentValue = AnonymizationTechniques.applyCellPartialMasking(currentValue);
+                        appliedStrategyName = strategy + "_defaulted_to_partial_masking";
+                    }
+                    break;
+                default:
+                    System.err.println("Warning: Unknown or unhandled strategy for single value: '" + strategy + "'. No transformation applied for this strategy step.");
+                    if (!transformationApplied && strategies.size() == 1) {
+                        appliedStrategyName = strategy + "_unknown_no_op";
+                    }
+                    break;
+            }
+            if (!originalValue.equals(currentValue) && !transformationApplied) {
+                 transformationApplied = true;
+            }
+
+            if (transformationApplied && !(appliedStrategyName.contains("_defaulted_to_") || appliedStrategyName.contains("_unknown_no_op"))){
+                break;
+            }
+        }
+
+        if (!transformationApplied && strategies.contains("no_transformation")) {
+            appliedStrategyName = "no_transformation";
+            currentValue = originalValue;
+        } else if (!transformationApplied && !currentValue.equals(originalValue) && strategies.isEmpty()){
+             // This case should ideally not be hit if logic is correct: means value changed but not marked as transformed.
+             // Defaulting to reflect the change.
+             appliedStrategyName = "unknown_transformation_occurred";
+        }
+        else if (!transformationApplied && currentValue.equals(originalValue) && !strategies.isEmpty() && !appliedStrategyName.startsWith("no_transformation")) {
+            // If value is original, but no_transformation wasn't the final explicit strategy,
+            // and other strategies were attempted but didn't apply or were unknown.
+            boolean containsNoTransformation = false;
+            for(String s : strategies) {
+                if (s.equals("no_transformation")) {
+                    containsNoTransformation = true;
+                    break;
+                }
+            }
+            if(!containsNoTransformation) appliedStrategyName = "no_applicable_strategy_found";
+            else appliedStrategyName = "no_transformation"; // if no_transformation was an option and nothing else fit
+        }
+
+
+        return new SingleAnonymizationResult(currentValue, appliedStrategyName);
+    }
 }

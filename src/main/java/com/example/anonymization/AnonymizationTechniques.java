@@ -231,4 +231,57 @@ public class AnonymizationTechniques {
         if (df == null || binsOrHierarchyRef <= 0) return;
         for (String colName : df.getColumnHeaders()) if (isColumnNumeric(df, colName)) generalization_column(df, colName, binsOrHierarchyRef);
     }
+
+    // New methods for single string value anonymization:
+
+    public static String applyCellFullMasking(String value) {
+        if (value == null) return null;
+        return String.join("", Collections.nCopies(value.length(), "*"));
+    }
+
+    public static String applyCellPartialMasking(String value) {
+        if (value == null) return null;
+        if (value.length() <= 1) return "*"; // Mask short strings entirely
+        int half = Math.max(1, value.length() / 2); // Ensure at least 1 char is masked
+        return String.join("", Collections.nCopies(half, "*")) + value.substring(half);
+    }
+
+    public static String applyCellSuppression(String value) {
+        // Using a more common representation for suppression
+        return "[S]"; // Or "[REDACTED]", or null, depending on desired output
+    }
+
+    public static String applyCellNoTransformation(String value) {
+        return value;
+    }
+
+    // Placeholder for noise injection - very simplified
+    public static String applyCellNoiseInjection(String value) {
+        if (value == null) return null;
+        try {
+            double numericValue = Double.parseDouble(value);
+            // Simplified: Add up to +/- 5% random noise relative to the value.
+            // This is NOT differentially private or statistically robust.
+            double noiseFactor = (Math.random() - 0.5) * 0.1; // Range: -0.05 to +0.05
+            double noisyValue = numericValue * (1 + noiseFactor);
+            return String.valueOf(noisyValue);
+        } catch (NumberFormatException e) {
+            // If not numeric, return original value or a specific marker
+            return value + "[N_ERR]"; // Indicate noise couldn't be applied
+        }
+    }
+
+    // Placeholder for generalization - very simplified
+    public static String applyCellGeneralization(String value) {
+        if (value == null) return null;
+        try {
+            double numericValue = Double.parseDouble(value);
+            // Example: round to nearest 10 for numbers
+            return String.valueOf(Math.round(numericValue / 10.0) * 10.0);
+        } catch (NumberFormatException e) {
+            // If not numeric, very basic categorical generalization by first letter
+            if (value.length() > 0) return "CAT_" + Character.toUpperCase(value.charAt(0));
+            return "CAT_EMPTY";
+        }
+    }
 }
