@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GUARDRAIL</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f0f4f8;
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            padding-top: 80px;
+        }
+
+        h2, h3 {
+            color: #333;
+            text-align: center;
+        }
+
+        .button-group {
+            margin-bottom: 20px;
+        }
+
+        button {
+            background-color: #007BFF;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            margin-right: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .form-container {
+            background-color: #fff;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 400px;
+            margin-top: 20px;
+            display: none;
+            padding-right: 50px;
+        }
+
+        label {
+            display: block;
+            margin: 12px 0 6px;
+            font-weight: 500;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 12px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+
+        select:invalid {
+            color: gray;
+        }
+
+        .multi-select-container {
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            padding: 10px;
+            background: #fff;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+
+        .multi-select-container input[type="text"] {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 8px;
+            border: 1px solid #aaa;
+            border-radius: 4px;
+        }
+
+        .checkbox-list {
+            padding-left: 4px;
+            display: flex;
+            flex-direction: column;
+            gap: 4px; /* Decreases vertical spacing */
+        }
+
+        .checkbox-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 2px 0;
+            font-size: 14px;
+            font-weight: 400;
+            white-space: nowrap;
+        }
+
+        .checkbox-item input[type="checkbox"] {
+            transform: scale(0.95); /* Slightly smaller checkbox */
+            margin: 0;
+            cursor: pointer;
+        }
+
+        .checkbox-item label {
+            margin: 0;
+            font-weight: 400;
+            color: #333;
+            cursor: pointer;
+            white-space: nowrap;
+        }
+
+        .multi-select-container input[type="text"] {
+            padding: 6px 8px;
+            margin-bottom: 6px;
+            font-size: 14px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="heading"><h2>DPDP GUARDRAIL</h2></div>
+
+    <div class="button-group">
+        <button onclick="showForm('ingest')">Ingest</button>
+        <button onclick="showForm('request')">Request</button>
+    </div>
+
+    <div id="ingestForm" class="form-container">
+        <h3>Ingest Data</h3>
+        <form action="/ingest" method="POST" enctype="multipart/form-data">
+            <label>Name:</label>
+            <input type="text" name="name" required>
+
+            <label>Email:</label>
+            <input type="email" name="email" required>
+
+            <label>About the data[As per DPDP Nomenclature]:</label>
+            <select name="about" required>
+                <option disabled selected value="">-- Select About --</option>
+                <option>Adult Individual</option>
+                <option>Child (&lt;18 years)</option>
+                <option>Person with Disability (via guardian)</option>
+                <option>Family</option>
+                <option>Company/Firm</option>
+                <option>Association or Body of Individuals</option>
+                <option>State</option>
+                <option>Artificial Juristic Person (e.g., Trust, NGO)</option>
+            </select>
+
+            <label>Domain[As per DPDP Nomenclature]:</label>
+            <select id="domain" name="domain" required>
+                <option disabled selected value="">-- Select Domain --</option>
+                <option>Healthcare</option>
+                <option>Finance & Banking</option>
+                <option>E-commerce & Retail</option>
+                <option>Telecommunications</option>
+                <option>Education</option>
+                <option>Employment & HR Tech</option>
+                <option>Travel & Hospitality</option>
+                <option>Social Media & Entertainment</option>
+                <option>Government Services</option>
+                <option>Startups and IT Services</option>
+                <option>Research</option>
+            </select>
+
+            <label>Upload CSV File:</label>
+            <input type="file" name="csv_file" accept=".csv" required>
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <div id="requestForm" class="form-container">
+        <h3>Request Data</h3>
+        <form action="/request" method="POST">
+            <label>Email Id:</label>
+            <input type="text" name="emailID" required>
+
+            <label>Password:</label>
+            <input type="password" name="password" required>
+
+            <label>Domain:</label>
+            <select name="domain" id="requestDomain" required>
+                <option disabled selected value="">-- Select Domain --</option>
+                {% for domain in domains %}
+                <option>{{ domain }}</option>
+                {% endfor %}
+            </select>
+
+            <label>Purpose:</label>
+            <select id="Purpose" name="Purpose" required>
+                <option disabled selected value="">-- Select Purpose --</option>
+                <option>Self Use</option>
+                <option>Organisational Use</option>
+                <option>External Use</option>
+            </select>
+
+            <label>Data Source:</label>
+            <select name="dataSource" id="dataSource" onchange="fetchAttributes(this.value)" required>
+                <option disabled selected value="">-- Select Data Source --</option>
+                {% for ds in data_sources %}
+                <option>{{ ds }}</option>
+                {% endfor %}
+            </select>
+
+            <label>Attributes:</label>
+            <div class="multi-select-container">
+                <input type="text" id="attributeSearch" placeholder="Search Attributes..." onkeyup="filterAttributes()">
+                <div id="attributeList" class="checkbox-list">
+                     <!-- Checkboxes will be populated dynamically -->
+                    </div>
+                </div>
+                <input type="hidden" name="attributes" id="selectedAttributes"><br>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <script>
+        function showForm(type) {
+            document.getElementById("ingestForm").style.display = "none";
+            document.getElementById("requestForm").style.display = "none";
+            if (type === 'ingest') {
+                document.getElementById("ingestForm").style.display = "block";
+            } else {
+                document.getElementById("requestForm").style.display = "block";
+            }
+        }
+    
+        async function fetchAttributes(dataSource) {
+            const response = await fetch(`/get_attributes/${dataSource}`);
+            const attributes = await response.json();
+            const listDiv = document.getElementById("attributeList");
+            listDiv.innerHTML = '';
+            attributes.forEach(attr => {
+                const wrapper = document.createElement("div");
+                wrapper.className = "checkbox-item";
+                wrapper.style.display = "flex";
+                wrapper.style.alignItems = "center";
+                wrapper.style.marginBottom = "2px";
+                wrapper.style.width = "fit-content"; // Prevent stretching
+
+                const checkbox = document.createElement("input");
+                checkbox.type = "checkbox";
+                checkbox.value = attr;
+                checkbox.id = `checkbox-${attr}`;
+                checkbox.onclick = updateSelectedAttributes;
+                checkbox.style.marginRight = "4px"; // Tight, readable spacing
+
+                const label = document.createElement("label");
+                label.htmlFor = `checkbox-${attr}`;
+                label.textContent = attr;
+                label.style.margin = "0";
+                label.style.display = "inline-block"; // Prevent block label
+                label.style.whiteSpace = "nowrap"; // Keep it inline with checkbox
+
+                wrapper.appendChild(checkbox);
+                wrapper.appendChild(label);
+                listDiv.appendChild(wrapper);
+
+            });
+        }
+    
+        function updateSelectedAttributes() {
+            const checkboxes = document.querySelectorAll('#attributeList input[type="checkbox"]');
+            const selected = Array.from(checkboxes)
+                                .filter(cb => cb.checked)
+                                .map(cb => cb.value);
+            document.getElementById("selectedAttributes").value = selected.join(',');
+        }
+    
+        function filterAttributes() {
+            const filter = document.getElementById("attributeSearch").value.toLowerCase();
+            const labels = document.querySelectorAll("#attributeList label");
+            labels.forEach(label => {
+                const text = label.textContent.toLowerCase();
+                label.style.display = text.includes(filter) ? "" : "none";
+            });
+        }
+    </script>    
+</body>
+</html>
