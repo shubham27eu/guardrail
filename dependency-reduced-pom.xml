@@ -33,6 +33,7 @@
           <exclude>**/*.bin</exclude>
           <exclude>**/*.db</exclude>
           <exclude>**/*.joblib</exclude>
+          <exclude>**/venv/**</exclude>
         </excludes>
       </resource>
     </resources>

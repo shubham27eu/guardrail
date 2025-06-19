@@ -246,7 +246,7 @@ def request_data():
         <p><strong>Attributes:</strong> {', '.join(attributes)}</p>
         <p><strong>About (Metadata):</strong> {about_entity}</p>
         <p><strong>Domain (Metadata):</strong> {file_domain}</p>
-        <p><strong>KYU Score:</strong> {kyu_score}</p>
+        <p><strong>KYU Trust Score:</strong> {kyu_score}</p>
         <p><strong>Overall Sensitivity for Java:</strong> {overall_sensitivity}</p>
         <hr>
         <p><strong>Attribute Metadata:</strong></p>

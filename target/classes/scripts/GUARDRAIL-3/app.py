@@ -190,12 +190,14 @@ def request_data():
     # --- Call Java ---
     anonymized_values = []
     try:
-        subprocess.run([
+        java_command = [
             "java", "-jar",
             JAVA_JAR_PATH,
             email, kyu_score, overall_sensitivity,
             input_path, output_path
-        ], check=True, capture_output=True, timeout=120)
+        ]
+        print(f"Executing Java command: {' '.join(java_command)}") # Log the command
+        subprocess.run(java_command, check=True, capture_output=True, timeout=120)
 
         if os.path.exists(output_path):
             df_out = pd.read_csv(output_path, header=None)
@@ -203,8 +205,16 @@ def request_data():
         else:
             anonymized_values = ["Java output not found."]
 
-    except Exception as e:
-        anonymized_values = [f"Error during Java call: {e}"]
+    except subprocess.CalledProcessError as e:
+        error_message = f"Error during Java call (CalledProcessError): {e}\n"
+        error_message += f"Return code: {e.returncode}\n"
+        error_message += f"Command: {' '.join(e.cmd)}\n"
+        error_message += f"Stdout: {e.stdout.decode('utf-8', errors='ignore') if e.stdout else 'N/A'}\n"
+        error_message += f"Stderr: {e.stderr.decode('utf-8', errors='ignore') if e.stderr else 'N/A'}"
+        anonymized_values = [error_message]
+    except Exception as e: # General fallback for other errors like TimeoutExpired
+        error_message = f"General error during Java call: {type(e).__name__} - {e}"
+        anonymized_values = [error_message]
 
     finally:
         os.remove(input_path)
@@ -236,7 +246,7 @@ def request_data():
         <p><strong>Attributes:</strong> {', '.join(attributes)}</p>
         <p><strong>About (Metadata):</strong> {about_entity}</p>
         <p><strong>Domain (Metadata):</strong> {file_domain}</p>
-        <p><strong>KYU Score:</strong> {kyu_score}</p>
+        <p><strong>KYU Trust Score:</strong> {kyu_score}</p>
         <p><strong>Overall Sensitivity for Java:</strong> {overall_sensitivity}</p>
         <hr>
         <p><strong>Attribute Metadata:</strong></p>

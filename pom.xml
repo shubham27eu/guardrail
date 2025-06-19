@@ -79,7 +79,9 @@
                      <exclude>**/*.jar</exclude>
                      <exclude>**/*.bin</exclude>
                      <exclude>**/*.db</exclude>
-                     <exclude>**/*.joblib</exclude> <!-- ✅ This line is also crucial -->
+                     <exclude>**/*.joblib</exclude>
+                     <exclude>**/venv/**</exclude>  <!-- ✅ Add this line -->
+<!-- ✅ This line is also crucial -->
                  </excludes>
              </resource>
          </resources>

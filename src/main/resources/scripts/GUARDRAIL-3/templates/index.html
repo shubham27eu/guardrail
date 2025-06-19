@@ -89,40 +89,47 @@
         }
 
         .checkbox-list {
-            padding-left: 4px;
             display: flex;
             flex-direction: column;
-            gap: 4px; /* Decreases vertical spacing */
+            gap: 0px;/* spacing between checkboxes */
+            padding-left: 0; 
+            margin-right: 350px;
         }
 
         .checkbox-item {
             display: flex;
             align-items: center;
-            gap: 6px;
-            padding: 2px 0;
+            gap: 0px; 
             font-size: 14px;
-            font-weight: 400;
             white-space: nowrap;
+            padding: 2px 0;
         }
 
         .checkbox-item input[type="checkbox"] {
-            transform: scale(0.95); /* Slightly smaller checkbox */
-            margin: 0;
+            margin-right: 0px;
+            transform: scale(0.95);
             cursor: pointer;
         }
 
         .checkbox-item label {
             margin: 0;
+            display: inline;
+            padding-left: 0px;
             font-weight: 400;
             color: #333;
             cursor: pointer;
-            white-space: nowrap;
+            line-height: 1.2;
+            text-align: left; 
         }
 
         .multi-select-container input[type="text"] {
-            padding: 6px 8px;
+            padding: 6px 2px;
             margin-bottom: 6px;
             font-size: 14px;
+        }
+
+        .heading{
+            padding-top: 0px;
         }
 
     </style>
@@ -244,29 +251,20 @@
             attributes.forEach(attr => {
                 const wrapper = document.createElement("div");
                 wrapper.className = "checkbox-item";
-                wrapper.style.display = "flex";
-                wrapper.style.alignItems = "center";
-                wrapper.style.marginBottom = "2px";
-                wrapper.style.width = "fit-content"; // Prevent stretching
 
                 const checkbox = document.createElement("input");
                 checkbox.type = "checkbox";
                 checkbox.value = attr;
                 checkbox.id = `checkbox-${attr}`;
                 checkbox.onclick = updateSelectedAttributes;
-                checkbox.style.marginRight = "4px"; // Tight, readable spacing
 
                 const label = document.createElement("label");
                 label.htmlFor = `checkbox-${attr}`;
                 label.textContent = attr;
-                label.style.margin = "0";
-                label.style.display = "inline-block"; // Prevent block label
-                label.style.whiteSpace = "nowrap"; // Keep it inline with checkbox
 
                 wrapper.appendChild(checkbox);
                 wrapper.appendChild(label);
                 listDiv.appendChild(wrapper);
-
             });
         }
     
