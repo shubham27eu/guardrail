@@ -20,7 +20,7 @@
             <version>1.10.0</version>
         </dependency>
 
-        <!-- Apache POI for .xls and .xlsx -->
+        <!-- Apache POI for Excel -->
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
@@ -32,7 +32,7 @@
             <version>5.2.5</version>
         </dependency>
 
-        <!-- SQLite JDBC Driver -->
+        <!-- SQLite JDBC -->
         <dependency>
             <groupId>org.xerial</groupId>
             <artifactId>sqlite-jdbc</artifactId>
@@ -49,12 +49,43 @@
 
     <build>
         <resources>
-            <resource>
-                <directory>src/main/resources</directory>
-                <filtering>true</filtering>
-            </resource>
-        </resources>
+             <!-- 1. Non-filtered binary resources -->
+             <resource>
+                 <directory>src/main/resources</directory>
+                 <filtering>false</filtering>
+                 <includes>
+                     <include>**/*.pkl</include>
+                     <include>**/*.pyc</include>
+                     <include>**/*.faiss</include>
+                     <include>**/*.csv</include>
+                     <include>**/*.xlsx</include>
+                     <include>**/*.jar</include>
+                     <include>**/*.bin</include>
+                     <include>**/*.db</include>
+                     <include>**/*.joblib</include> <!-- ✅ This line is crucial -->
+                 </includes>
+             </resource>
+
+             <!-- 2. Filtered (text only) resources -->
+             <resource>
+                 <directory>src/main/resources</directory>
+                 <filtering>true</filtering>
+                 <excludes>
+                     <exclude>**/*.pkl</exclude>
+                     <exclude>**/*.pyc</exclude>
+                     <exclude>**/*.faiss</exclude>
+                     <exclude>**/*.csv</exclude>
+                     <exclude>**/*.xlsx</exclude>
+                     <exclude>**/*.jar</exclude>
+                     <exclude>**/*.bin</exclude>
+                     <exclude>**/*.db</exclude>
+                     <exclude>**/*.joblib</exclude> <!-- ✅ This line is also crucial -->
+                 </excludes>
+             </resource>
+         </resources>
+
         <plugins>
+            <!-- Java Compiler Plugin -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -63,6 +94,8 @@
                     <release>17</release>
                 </configuration>
             </plugin>
+
+            <!-- Exec Plugin to run Main class -->
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>exec-maven-plugin</artifactId>
@@ -71,6 +104,8 @@
                     <mainClass>com.example.anonymization.MockDataTestRunner</mainClass>
                 </configuration>
             </plugin>
+
+            <!-- Shade Plugin to package runnable fat JAR -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-shade-plugin</artifactId>
@@ -106,38 +141,6 @@
                             </filters>
                         </configuration>
                     </execution>
-                    <!--
-                    Temporarily removing mock-runner uber-jar creation to focus on fixing main.
-                    If this works, a similar execution can be added for mock-runner,
-                    possibly with a classifier or a different finalName strategy.
-                    <execution>
-                        <id>shade-mock-runner-jar</id>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>shade</goal>
-                        </goals>
-                        <configuration>
-                            <finalName>data-processor-mock-runner</finalName>
-                            <classifier>mock-runner</classifier>
-                            <transformers>
-                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>com.example.anonymization.MockDataTestRunner</mainClass>
-                                </transformer>
-                                <transformer implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
-                            </transformers>
-                            <filters>
-                                <filter>
-                                    <artifact>*:*</artifact>
-                                    <excludes>
-                                        <exclude>META-INF/*.SF</exclude>
-                                        <exclude>META-INF/*.DSA</exclude>
-                                        <exclude>META-INF/*.RSA</exclude>
-                                    </excludes>
-                                </filter>
-                            </filters>
-                        </configuration>
-                    </execution>
-                    -->
                 </executions>
             </plugin>
         </plugins>
