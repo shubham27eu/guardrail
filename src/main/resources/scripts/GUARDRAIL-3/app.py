@@ -2,12 +2,15 @@ from flask import Flask, render_template, request, jsonify
 import sqlite3
 import os
 import pandas as pd
+import numpy as np # Ensure numpy is imported (though calculate_alpha_score is removed, other pandas operations might use it implicitly)
 from werkzeug.utils import secure_filename
 import joblib
 from collections import Counter
 import subprocess
 import tempfile
 from compliance_lookup import get_sensitivity_for_about_domain
+
+# REMOVED: calculate_alpha_score function definition
 
 app = Flask(__name__)
 
@@ -119,8 +122,8 @@ def get_sources():
 def get_attributes(filename):
     filepath = os.path.join(app.config['UPLOAD_FOLDER'], filename)
     if os.path.exists(filepath):
-        df = pd.read_csv(filepath, nrows=1)
-        return jsonify(list(df.columns))
+        df_peek = pd.read_csv(filepath, nrows=1) 
+        return jsonify(list(df_peek.columns))
     return jsonify([])
 
 @app.route('/request', methods=['POST'])
@@ -130,11 +133,10 @@ def request_data():
     purpose = request.form.get('Purpose')
     source = request.form.get('dataSource')
     attributes_raw = request.form.get('attributes', '')
-    attributes = [attr.strip() for attr in attributes_raw.split(',') if attr.strip()]
+    attributes = [attr.strip() for attr in attributes_raw.split(',') if attr.strip()] 
 
     kyu_score = predict_kyu_score(email, domain, purpose)
 
-    # --- Metadata Lookup ---
     about_entity = "Not found"
     file_domain = "Unknown"
     with sqlite3.connect(EXTERNAL_DB) as conn:
@@ -148,19 +150,17 @@ def request_data():
     if not os.path.exists(filepath):
         return '<p>Source file not found.</p>'
 
-    df = pd.read_csv(filepath)
-
-    # Extract values per attribute, tagged for Java
-    tagged_values = []
+    original_df = pd.read_csv(filepath) 
+    
+    tagged_values = [] 
     compliance_results = []
-    for attr in attributes:
-        if attr not in df.columns:
+    for attr in attributes: 
+        if attr not in original_df.columns:
             continue
-        values = df[attr].dropna().unique().astype(str)
-        for val in values:
-            tagged_values.append(f"{attr}::{val}")
+        values = original_df[attr].dropna().unique().astype(str) 
+        for val_str in values: 
+            tagged_values.append(f"{attr}::{val_str}")
 
-        # Same compliance for all values (domain-level)
         compliance = get_sensitivity_for_about_domain(about_entity, file_domain)
         compliance_results.append({
             'attribute': attr,
@@ -170,7 +170,6 @@ def request_data():
             'sharing_entity': compliance['Sharing Entity']
         })
 
-    # Write tagged input to temp file for Java
     with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.txt', encoding='utf-8') as temp_input:
         temp_input.write('\n'.join(tagged_values))
         input_path = temp_input.name
@@ -178,7 +177,6 @@ def request_data():
     with tempfile.NamedTemporaryFile(delete=False, suffix='.csv') as temp_output:
         output_path = temp_output.name
 
-    # Determine overall sensitivity
     sensitivities = {entry['sensitivity'].lower() for entry in compliance_results}
     if 'high' in sensitivities:
         overall_sensitivity = 'High'
@@ -187,9 +185,10 @@ def request_data():
     else:
         overall_sensitivity = 'Low'
 
-    # --- Call Java ---
-    # Default for anonymized_data_with_strategy in case of early exit or error before Java call
     anonymized_data_with_strategy = [{'value': "Processing error before Java call.", 'strategy': 'N/A'}]
+    # MODIFICATION 1a: Initialize java_alpha_score_display
+    java_alpha_score_display = "N/A" 
+
     try:
         java_command = [
             "java", "-jar",
@@ -197,9 +196,23 @@ def request_data():
             email, kyu_score, overall_sensitivity,
             input_path, output_path
         ]
-        print(f"Executing Java command: {' '.join(java_command)}") # Log the command
-        subprocess.run(java_command, check=True, capture_output=True, timeout=120)
-
+        print(f"Executing Java command: {' '.join(java_command)}")
+        # MODIFICATION 1b: Ensure capture_output=True and text=True
+        completed_process = subprocess.run(java_command, check=True, capture_output=True, text=True, timeout=120)
+        java_stdout = completed_process.stdout
+        
+        # MODIFICATION 1c: Parse stdout for AlphaScore
+        for line in java_stdout.splitlines():
+            if line.startswith("AlphaScore:"):
+                try:
+                    score_value_str = line.split(":")[1].strip()
+                    java_alpha_score_display = score_value_str 
+                    break 
+                except IndexError:
+                    print(f"Warning: Could not parse AlphaScore line: {line}")
+                    java_alpha_score_display = "Error parsing score"
+        
+        # Existing logic for reading the output file for anonymized_data_with_strategy
         anonymized_data_with_strategy = []
         if os.path.exists(output_path):
             with open(output_path, 'r', encoding='utf-8') as f:
@@ -207,11 +220,11 @@ def request_data():
                     parts = line.strip().split('::', 1)
                     if len(parts) == 2:
                         anonymized_data_with_strategy.append({'value': parts[0], 'strategy': parts[1]})
-                    elif len(parts) == 1:
+                    elif len(parts) == 1: 
                         anonymized_data_with_strategy.append({'value': parts[0], 'strategy': 'Unknown'})
-                    else:
+                    else: 
                         anonymized_data_with_strategy.append({'value': 'Error parsing Java output', 'strategy': 'Error'})
-            if not anonymized_data_with_strategy:
+            if not anonymized_data_with_strategy: 
                  anonymized_data_with_strategy = [{'value': "Java output file was empty.", 'strategy': 'N/A'}]
         else:
             anonymized_data_with_strategy = [{'value': "Java output not found.", 'strategy': 'N/A'}]
@@ -220,52 +233,54 @@ def request_data():
         error_message = f"Error during Java call (CalledProcessError): {e}\n"
         error_message += f"Return code: {e.returncode}\n"
         error_message += f"Command: {' '.join(e.cmd)}\n"
-        error_message += f"Stdout: {e.stdout.decode('utf-8', errors='ignore') if e.stdout else 'N/A'}\n"
-        error_message += f"Stderr: {e.stderr.decode('utf-8', errors='ignore') if e.stderr else 'N/A'}"
+        # Capture stdout/stderr from the exception object
+        java_stdout_on_error = e.stdout if e.stdout else ""
+        java_stderr_on_error = e.stderr if e.stderr else ""
+        error_message += f"Stdout: {java_stdout_on_error}\n"
+        error_message += f"Stderr: {java_stderr_on_error}"
+        
         anonymized_data_with_strategy = [{'value': error_message, 'strategy': 'Java Execution Error'}]
-    except Exception as e:
+        # MODIFICATION 1d: Set alpha score display on error
+        java_alpha_score_display = "Java error (CPE)"
+        print(f"Java stdout on error: {java_stdout_on_error}") # Already done by adding to error_message
+        print(f"Java stderr on error: {java_stderr_on_error}") # Already done by adding to error_message
+
+    except Exception as e: 
         error_message = f"General error during Java call: {type(e).__name__} - {e}"
         anonymized_data_with_strategy = [{'value': error_message, 'strategy': 'Python Execution Error'}]
-
+        # MODIFICATION 1d: Set alpha score display on error
+        java_alpha_score_display = "Python error during Java call"
+        print(f"General error calling Java: {e}")
     finally:
         os.remove(input_path)
         if os.path.exists(output_path):
             os.remove(output_path)
 
-    # MODIFIED BLOCK 1: Collect Unique Strategies
     unique_strategies = set()
-    if anonymized_data_with_strategy: # Check if the list is not empty
+    if anonymized_data_with_strategy: 
         for item in anonymized_data_with_strategy:
-            # Ensure 'strategy' key exists and is not a placeholder like 'N/A' or 'Error' before adding
             if 'strategy' in item and item['strategy'] not in ['N/A', 'Error', 'Unknown', 'Java Execution Error', 'Python Execution Error']:
                 unique_strategies.add(item['strategy'])
-    if not unique_strategies: # If set is empty (e.g. all were N/A or errors)
-        # Check if there was an error message to display instead of "No specific strategy"
+    if not unique_strategies: 
         if any(item.get('strategy') in ['Java Execution Error', 'Python Execution Error', 'Error'] for item in anonymized_data_with_strategy):
             unique_strategies.add("An error occurred during processing.")
-        elif any(item.get('strategy') == 'N/A' for item in anonymized_data_with_strategy): # Check for N/A specifically
+        elif any(item.get('strategy') == 'N/A' for item in anonymized_data_with_strategy): 
              unique_strategies.add("No specific strategy applicable or output not found.")
         else:
             unique_strategies.add("No specific strategy applied.")
 
-
-    # MODIFIED BLOCK 2: Updating HTML Output Generation
-    # Display unique strategies at the top
     strategies_html = "<ul>" + "".join(f"<li>{s}</li>" for s in unique_strategies) + "</ul>"
-
-    output_html = "" # This will store the individual item lines
-    for i, tag in enumerate(tagged_values):
-        attr, val = tag.split("::")
+    
+    output_html = "" 
+    for i, tag in enumerate(tagged_values): 
+        attr, orig_val_str = tag.split("::", 1)
         if i < len(anonymized_data_with_strategy):
             anon_entry = anonymized_data_with_strategy[i]
-            anon_val = anon_entry['value']
-            # Strategy is no longer displayed per item
+            anon_val_str = anon_entry['value'] 
         else:
-            anon_val = "?"
-            # Strategy is no longer displayed per item
-        output_html += f"<li><strong>{attr}</strong>: {val} → <strong>{anon_val}</strong></li>"
+            anon_val_str = "?"
+        output_html += f"<li><strong>{attr}</strong>: {orig_val_str} → <strong>{anon_val_str}</strong></li>"
 
-    # Compliance metadata
     metadata_html = ''.join(
         f"<li><strong>{entry['attribute']}</strong>: "
         f"<br>Domain: <em>{entry['domain']}</em>, "
@@ -275,7 +290,7 @@ def request_data():
         for entry in compliance_results
     )
 
-    # MODIFIED BLOCK 3: Integrate strategies_html into the final f-string
+    # MODIFICATION 2: Display Java-calculated Alpha Score in HTML
     return f'''
         <h3>Request Processed</h3>
         <p><strong>Domain (Selected):</strong> {domain}</p>
@@ -286,13 +301,14 @@ def request_data():
         <p><strong>Domain (Metadata):</strong> {file_domain}</p>
         <p><strong>KYU Trust Score:</strong> {kyu_score}</p>
         <p><strong>Overall Sensitivity for Java:</strong> {overall_sensitivity}</p>
+        <p><strong>Data Filtering Score (Alpha - from Java):</strong> {java_alpha_score_display}</p>
         <hr>
         <p><strong>Attribute Metadata:</strong></p>
         <ul>{metadata_html}</ul>
         <hr>
         <p><strong>Applied Anonymization Strategies:</strong></p> {strategies_html}
         <hr>
-        <p><strong>Anonymization Results (per item):</strong></p> <ul>{output_html}</ul>
+        <p><strong>Anonymization Results (unique values processed):</strong></p> <ul>{output_html}</ul>
         <a href="/">Back to Home</a>
     '''
 

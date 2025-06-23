@@ -1,0 +1,101 @@
+﻿AssociationID,AssociationType,FoundingYear,NumMembers_Organizations,NumMembers_Individuals,AnnualBudget_USD,PrimaryFocus,EngagementWithStartups,EngagementWithITServices,OnlinePresenceRating,EventsHeld_Annual,Publications_Annual,Partnerships_TechCompanies,IncubationPrograms,GovernmentLiaison,FundingFacilitation,MentorshipPrograms,MemberSatisfaction_Rating,RevenueModel,DigitalToolAdoption,RegionalFocus
+A001,Industry Association,1995,150,5000,500000,Networking,Medium,High,4,5,3,10,No,Yes,No,Yes,4,Membership Fees,High,National
+A002,Investor Group,2010,20,50,200000,Funding,High,Low,3,2,0,5,No,No,Yes,No,4,Membership Fees,Medium,Local
+A003,Developer Community,2005,0,10000,100000,Skill Development,Medium,Medium,5,10,2,3,No,No,No,Yes,5,Sponsorships,High,International
+A004,Startup Incubator/Accelerator,2018,5,100,750000,Mentorship,High,Medium,4,3,1,8,Yes,No,Yes,Yes,4,Grants,High,Local
+A005,Advocacy Group,2000,80,2000,300000,Policy Advocacy,Medium,Medium,4,2,4,5,No,Yes,No,No,3,Grants,Medium,National
+A006,Educational/Training Body,2015,10,1500,150000,Skill Development,High,Low,4,6,2,4,No,No,No,Yes,4,Event Fees,High,National
+A007,Professional Body,1980,200,8000,600000,Networking,Low,High,5,4,5,12,No,Yes,No,Yes,5,Membership Fees,High,International
+A008,Industry Association,1998,120,4000,400000,Market Research,Medium,High,3,3,2,8,No,Yes,No,No,3,Sponsorships,Medium,National
+A009,Investor Group,2012,15,40,180000,Funding,High,Low,4,1,0,4,No,No,Yes,No,4,Membership Fees,Medium,Local
+A010,Developer Community,2008,0,8000,80000,Skill Development,Medium,Medium,4,8,1,2,No,No,No,Yes,4,Sponsorships,High,National
+A011,Startup Incubator/Accelerator,2019,4,80,600000,Mentorship,High,Medium,4,2,1,7,Yes,No,Yes,Yes,4,Grants,High,Local
+A012,Advocacy Group,2002,70,1800,280000,Policy Advocacy,Medium,Medium,3,2,3,4,No,Yes,No,No,3,Grants,Medium,National
+A013,Educational/Training Body,2016,8,1200,130000,Skill Development,High,Low,4,5,1,3,No,No,No,Yes,4,Event Fees,High,National
+A014,Professional Body,1985,180,7000,550000,Networking,Low,High,5,3,4,10,No,Yes,No,Yes,5,Membership Fees,High,International
+A015,Industry Association,1997,140,4500,480000,Networking,Medium,High,4,4,3,9,No,Yes,No,Yes,4,Membership Fees,High,National
+A016,Investor Group,2011,18,45,190000,Funding,High,Low,3,2,0,5,No,No,Yes,No,4,Membership Fees,Medium,Local
+A017,Developer Community,2007,0,9000,90000,Skill Development,Medium,Medium,5,9,2,3,No,No,No,Yes,5,Sponsorships,High,International
+A018,Startup Incubator/Accelerator,2020,6,110,800000,Mentorship,High,Medium,4,3,1,8,Yes,No,Yes,Yes,4,Grants,High,Local
+A019,Advocacy Group,2001,85,2200,320000,Policy Advocacy,Medium,Medium,4,2,4,5,No,Yes,No,No,3,Grants,Medium,National
+A020,Educational/Training Body,2017,12,1600,160000,Skill Development,High,Low,4,7,2,4,No,No,No,Yes,4,Event Fees,High,National
+A021,Professional Body,1982,210,8500,620000,Networking,Low,High,5,4,5,13,No,Yes,No,Yes,5,Membership Fees,High,International
+A022,Industry Association,1996,160,5200,530000,Networking,Medium,High,4,5,3,11,No,Yes,No,Yes,4,Membership Fees,High,National
+A023,Investor Group,2013,22,55,210000,Funding,High,Low,3,2,0,6,No,No,Yes,No,4,Membership Fees,Medium,Local
+A024,Developer Community,2006,0,11000,110000,Skill Development,Medium,Medium,5,11,2,4,No,No,No,Yes,5,Sponsorships,High,International
+A025,Startup Incubator/Accelerator,2021,7,120,850000,Mentorship,High,Medium,4,3,1,9,Yes,No,Yes,Yes,4,Grants,High,Local
+A026,Advocacy Group,2003,90,2500,350000,Policy Advocacy,Medium,Medium,4,2,4,6,No,Yes,No,No,3,Grants,Medium,National
+A027,Educational/Training Body,2018,15,1800,180000,Skill Development,High,Low,4,8,2,5,No,No,No,Yes,4,Event Fees,High,National
+A028,Professional Body,1987,220,9000,650000,Networking,Low,High,5,4,6,14,No,Yes,No,Yes,5,Membership Fees,High,International
+A029,Industry Association,1999,170,5500,560000,Networking,Medium,High,4,5,3,12,No,Yes,No,Yes,4,Membership Fees,High,National
+A030,Investor Group,2014,25,60,220000,Funding,High,Low,3,2,0,7,No,No,Yes,No,4,Membership Fees,Medium,Local
+A031,Developer Community,2009,0,12000,120000,Skill Development,Medium,Medium,5,12,2,5,No,No,No,Yes,5,Sponsorships,High,International
+A032,Startup Incubator/Accelerator,2022,8,130,900000,Mentorship,High,Medium,4,3,1,10,Yes,No,Yes,Yes,4,Grants,High,Local
+A033,Advocacy Group,2004,95,2800,380000,Policy Advocacy,Medium,Medium,4,2,4,7,No,Yes,No,No,3,Grants,Medium,National
+A034,Educational/Training Body,2019,18,2000,200000,Skill Development,High,Low,4,9,2,6,No,No,No,Yes,4,Event Fees,High,National
+A035,Professional Body,1989,230,9500,680000,Networking,Low,High,5,4,7,15,No,Yes,No,Yes,5,Membership Fees,High,International
+A036,Industry Association,2000,180,5800,590000,Networking,Medium,High,4,5,3,13,No,Yes,No,Yes,4,Membership Fees,High,National
+A037,Investor Group,2015,28,65,230000,Funding,High,Low,3,2,0,8,No,No,Yes,No,4,Membership Fees,Medium,Local
+A038,Developer Community,2010,0,13000,130000,Skill Development,Medium,Medium,5,13,2,6,No,No,No,Yes,5,Sponsorships,High,International
+A039,Startup Incubator/Accelerator,2023,9,140,950000,Mentorship,High,Medium,4,3,1,11,Yes,No,Yes,Yes,4,Grants,High,Local
+A040,Advocacy Group,2005,100,3000,400000,Policy Advocacy,Medium,Medium,4,2,4,8,No,Yes,No,No,3,Grants,Medium,National
+A041,Educational/Training Body,2020,20,2200,220000,Skill Development,High,Low,4,10,2,7,No,No,No,Yes,4,Event Fees,High,National
+A042,Professional Body,1991,240,10000,700000,Networking,Low,High,5,4,8,16,No,Yes,No,Yes,5,Membership Fees,High,International
+A043,Industry Association,2001,190,6000,610000,Networking,Medium,High,4,5,3,14,No,Yes,No,Yes,4,Membership Fees,High,National
+A044,Investor Group,2016,30,70,240000,Funding,High,Low,3,2,0,9,No,No,Yes,No,4,Membership Fees,Medium,Local
+A045,Developer Community,2011,0,14000,140000,Skill Development,Medium,Medium,5,14,2,7,No,No,No,Yes,5,Sponsorships,High,International
+A046,Startup Incubator/Accelerator,2024,10,150,1000000,Mentorship,High,Medium,4,3,1,12,Yes,No,Yes,Yes,4,Grants,High,Local
+A047,Advocacy Group,2006,105,3200,420000,Policy Advocacy,Medium,Medium,4,2,4,9,No,Yes,No,No,3,Grants,Medium,National
+A048,Educational/Training Body,2021,22,2400,240000,Skill Development,High,Low,4,11,2,8,No,No,No,Yes,4,Event Fees,High,National
+A049,Professional Body,1993,250,10500,720000,Networking,Low,High,5,4,9,17,No,Yes,No,Yes,5,Membership Fees,High,International
+A050,Industry Association,2002,200,6200,630000,Networking,Medium,High,4,5,3,15,No,Yes,No,Yes,4,Membership Fees,High,National
+A051,Investor Group,2017,32,75,250000,Funding,High,Low,3,2,0,10,No,No,Yes,No,4,Membership Fees,Medium,Local
+A052,Developer Community,2012,0,15000,150000,Skill Development,Medium,Medium,5,15,2,8,No,No,No,Yes,5,Sponsorships,High,International
+A053,Startup Incubator/Accelerator,2025,11,160,1050000,Mentorship,High,Medium,4,3,1,13,Yes,No,Yes,Yes,4,Grants,High,Local
+A054,Advocacy Group,2007,110,3500,440000,Policy Advocacy,Medium,Medium,4,2,4,10,No,Yes,No,No,3,Grants,Medium,National
+A055,Educational/Training Body,2022,25,2600,260000,Skill Development,High,Low,4,12,2,9,No,No,No,Yes,4,Event Fees,High,National
+A056,Professional Body,1995,260,11000,750000,Networking,Low,High,5,4,10,18,No,Yes,No,Yes,5,Membership Fees,High,International
+A057,Industry Association,2003,210,6400,650000,Networking,Medium,High,4,5,3,16,No,Yes,No,Yes,4,Membership Fees,High,National
+A058,Investor Group,2018,35,80,260000,Funding,High,Low,3,2,0,11,No,No,Yes,No,4,Membership Fees,Medium,Local
+A059,Developer Community,2013,0,16000,160000,Skill Development,Medium,Medium,5,16,2,9,No,No,No,Yes,5,Sponsorships,High,International
+A060,Startup Incubator/Accelerator,2016,12,170,1100000,Mentorship,High,Medium,4,3,1,14,Yes,No,Yes,Yes,4,Grants,High,Local
+A061,Advocacy Group,2008,115,3800,460000,Policy Advocacy,Medium,Medium,4,2,4,11,No,Yes,No,No,3,Grants,Medium,National
+A062,Educational/Training Body,2023,28,2800,280000,Skill Development,High,Low,4,13,2,10,No,No,No,Yes,4,Event Fees,High,National
+A063,Professional Body,1997,270,11500,780000,Networking,Low,High,5,4,11,19,No,Yes,No,Yes,5,Membership Fees,High,International
+A064,Industry Association,2004,220,6600,670000,Networking,Medium,High,4,5,3,17,No,Yes,No,Yes,4,Membership Fees,High,National
+A065,Investor Group,2019,38,85,270000,Funding,High,Low,3,2,0,12,No,No,Yes,No,4,Membership Fees,Medium,Local
+A066,Developer Community,2014,0,17000,170000,Skill Development,Medium,Medium,5,17,2,10,No,No,No,Yes,5,Sponsorships,High,International
+A067,Startup Incubator/Accelerator,2017,13,180,1150000,Mentorship,High,Medium,4,3,1,15,Yes,No,Yes,Yes,4,Grants,High,Local
+A068,Advocacy Group,2009,120,4000,480000,Policy Advocacy,Medium,Medium,4,2,4,12,No,Yes,No,No,3,Grants,Medium,National
+A069,Educational/Training Body,2024,30,3000,300000,Skill Development,High,Low,4,14,2,11,No,No,No,Yes,4,Event Fees,High,National
+A070,Professional Body,1999,280,12000,800000,Networking,Low,High,5,4,12,20,No,Yes,No,Yes,5,Membership Fees,High,International
+A071,Industry Association,2005,230,6800,690000,Networking,Medium,High,4,5,3,18,No,Yes,No,Yes,4,Membership Fees,High,National
+A072,Investor Group,2020,40,90,280000,Funding,High,Low,3,2,0,13,No,No,Yes,No,4,Membership Fees,Medium,Local
+A073,Developer Community,2015,0,18000,180000,Skill Development,Medium,Medium,5,18,2,11,No,No,No,Yes,5,Sponsorships,High,International
+A074,Startup Incubator/Accelerator,2018,14,190,1200000,Mentorship,High,Medium,4,3,1,16,Yes,No,Yes,Yes,4,Grants,High,Local
+A075,Advocacy Group,2010,125,4200,500000,Policy Advocacy,Medium,Medium,4,2,4,13,No,Yes,No,No,3,Grants,Medium,National
+A076,Educational/Training Body,2025,32,3200,320000,Skill Development,High,Low,4,15,2,12,No,No,No,Yes,4,Event Fees,High,National
+A077,Professional Body,2001,290,12500,820000,Networking,Low,High,5,4,13,21,No,Yes,No,Yes,5,Membership Fees,High,International
+A078,Industry Association,2006,240,7000,710000,Networking,Medium,High,4,5,3,19,No,Yes,No,Yes,4,Membership Fees,High,National
+A079,Investor Group,2021,42,95,290000,Funding,High,Low,3,2,0,14,No,No,Yes,No,4,Membership Fees,Medium,Local
+A080,Developer Community,2016,0,19000,190000,Skill Development,Medium,Medium,5,19,2,12,No,No,No,Yes,5,Sponsorships,High,International
+A081,Startup Incubator/Accelerator,2019,15,200,1250000,Mentorship,High,Medium,4,3,1,17,Yes,No,Yes,Yes,4,Grants,High,Local
+A082,Advocacy Group,2011,130,4400,520000,Policy Advocacy,Medium,Medium,4,2,4,14,No,Yes,No,No,3,Grants,Medium,National
+A083,Educational/Training Body,2026,35,3400,340000,Skill Development,High,Low,4,16,2,13,No,No,No,Yes,4,Event Fees,High,National
+A084,Professional Body,2003,300,13000,850000,Networking,Low,High,5,4,14,22,No,Yes,No,Yes,5,Membership Fees,High,International
+A085,Industry Association,2007,250,7200,730000,Networking,Medium,High,4,5,3,20,No,Yes,No,Yes,4,Membership Fees,High,National
+A086,Investor Group,2022,45,100,300000,Funding,High,Low,3,2,0,15,No,No,Yes,No,4,Membership Fees,Medium,Local
+A087,Developer Community,2017,0,20000,200000,Skill Development,Medium,Medium,5,20,2,13,No,No,No,Yes,5,Sponsorships,High,International
+A088,Startup Incubator/Accelerator,2020,16,210,1300000,Mentorship,High,Medium,4,3,1,18,Yes,No,Yes,Yes,4,Grants,High,Local
+A089,Advocacy Group,2012,135,4600,540000,Policy Advocacy,Medium,Medium,4,2,4,15,No,Yes,No,No,3,Grants,Medium,National
+A090,Educational/Training Body,2027,38,3600,360000,Skill Development,High,Low,4,17,2,14,No,No,No,Yes,4,Event Fees,High,National
+A091,Professional Body,2005,310,13500,880000,Networking,Low,High,5,4,15,23,No,Yes,No,Yes,5,Membership Fees,High,International
+A092,Industry Association,2008,260,7400,750000,Networking,Medium,High,4,5,3,21,No,Yes,No,Yes,4,Membership Fees,High,National
+A093,Investor Group,2023,48,105,310000,Funding,High,Low,3,2,0,16,No,No,Yes,No,4,Membership Fees,Medium,Local
+A094,Developer Community,2018,0,21000,210000,Skill Development,Medium,Medium,5,21,2,14,No,No,No,Yes,5,Sponsorships,High,International
+A095,Startup Incubator/Accelerator,2021,17,220,1350000,Mentorship,High,Medium,4,3,1,19,Yes,No,Yes,Yes,4,Grants,High,Local
+A096,Advocacy Group,2013,140,4800,560000,Policy Advocacy,Medium,Medium,4,2,4,16,No,Yes,No,No,3,Grants,Medium,National
+A097,Educational/Training Body,2028,40,3800,380000,Skill Development,High,Low,4,18,2,15,No,No,No,Yes,4,Event Fees,High,National
+A098,Professional Body,2007,320,14000,900000,Networking,Low,High,5,4,16,24,No,Yes,No,Yes,5,Membership Fees,High,International
+A099,Industry Association,2009,270,7600,770000,Networking,Medium,High,4,5,3,22,No,Yes,No,Yes,4,Membership Fees,High,National
+A100,Investor Group,2024,50,110,320000,Funding,High,Low,3,2,0,17,No,No,Yes,No,4,Membership Fees,Medium,Local

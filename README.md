@@ -36,7 +36,7 @@ The system comprises two main parts:
     ```bash
     git clone https://github.com/shubham27eu/guardrail.git
     cd guardrail
-    git checkout feat/python-java-integration-revised
+    git checkout feat/display-anonymization-strategy
     ```
 
 2.  **Build the Java Anonymization Engine:**

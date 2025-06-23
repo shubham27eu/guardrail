@@ -188,7 +188,8 @@ def request_data():
         overall_sensitivity = 'Low'
 
     # --- Call Java ---
-    anonymized_values = []
+    # Default for anonymized_data_with_strategy in case of early exit or error before Java call
+    anonymized_data_with_strategy = [{'value': "Processing error before Java call.", 'strategy': 'N/A'}]
     try:
         java_command = [
             "java", "-jar",
@@ -199,11 +200,21 @@ def request_data():
         print(f"Executing Java command: {' '.join(java_command)}") # Log the command
         subprocess.run(java_command, check=True, capture_output=True, timeout=120)
 
+        anonymized_data_with_strategy = []
         if os.path.exists(output_path):
-            df_out = pd.read_csv(output_path, header=None)
-            anonymized_values = df_out[0].astype(str).tolist()
+            with open(output_path, 'r', encoding='utf-8') as f:
+                for line in f:
+                    parts = line.strip().split('::', 1)
+                    if len(parts) == 2:
+                        anonymized_data_with_strategy.append({'value': parts[0], 'strategy': parts[1]})
+                    elif len(parts) == 1:
+                        anonymized_data_with_strategy.append({'value': parts[0], 'strategy': 'Unknown'})
+                    else:
+                        anonymized_data_with_strategy.append({'value': 'Error parsing Java output', 'strategy': 'Error'})
+            if not anonymized_data_with_strategy:
+                 anonymized_data_with_strategy = [{'value': "Java output file was empty.", 'strategy': 'N/A'}]
         else:
-            anonymized_values = ["Java output not found."]
+            anonymized_data_with_strategy = [{'value': "Java output not found.", 'strategy': 'N/A'}]
 
     except subprocess.CalledProcessError as e:
         error_message = f"Error during Java call (CalledProcessError): {e}\n"
@@ -211,21 +222,47 @@ def request_data():
         error_message += f"Command: {' '.join(e.cmd)}\n"
         error_message += f"Stdout: {e.stdout.decode('utf-8', errors='ignore') if e.stdout else 'N/A'}\n"
         error_message += f"Stderr: {e.stderr.decode('utf-8', errors='ignore') if e.stderr else 'N/A'}"
-        anonymized_values = [error_message]
-    except Exception as e: # General fallback for other errors like TimeoutExpired
+        anonymized_data_with_strategy = [{'value': error_message, 'strategy': 'Java Execution Error'}]
+    except Exception as e:
         error_message = f"General error during Java call: {type(e).__name__} - {e}"
-        anonymized_values = [error_message]
+        anonymized_data_with_strategy = [{'value': error_message, 'strategy': 'Python Execution Error'}]
 
     finally:
         os.remove(input_path)
         if os.path.exists(output_path):
             os.remove(output_path)
 
-    # Re-pair input and output
-    output_html = ""
+    # MODIFIED BLOCK 1: Collect Unique Strategies
+    unique_strategies = set()
+    if anonymized_data_with_strategy: # Check if the list is not empty
+        for item in anonymized_data_with_strategy:
+            # Ensure 'strategy' key exists and is not a placeholder like 'N/A' or 'Error' before adding
+            if 'strategy' in item and item['strategy'] not in ['N/A', 'Error', 'Unknown', 'Java Execution Error', 'Python Execution Error']:
+                unique_strategies.add(item['strategy'])
+    if not unique_strategies: # If set is empty (e.g. all were N/A or errors)
+        # Check if there was an error message to display instead of "No specific strategy"
+        if any(item.get('strategy') in ['Java Execution Error', 'Python Execution Error', 'Error'] for item in anonymized_data_with_strategy):
+            unique_strategies.add("An error occurred during processing.")
+        elif any(item.get('strategy') == 'N/A' for item in anonymized_data_with_strategy): # Check for N/A specifically
+             unique_strategies.add("No specific strategy applicable or output not found.")
+        else:
+            unique_strategies.add("No specific strategy applied.")
+
+
+    # MODIFIED BLOCK 2: Updating HTML Output Generation
+    # Display unique strategies at the top
+    strategies_html = "<ul>" + "".join(f"<li>{s}</li>" for s in unique_strategies) + "</ul>"
+
+    output_html = "" # This will store the individual item lines
     for i, tag in enumerate(tagged_values):
         attr, val = tag.split("::")
-        anon_val = anonymized_values[i] if i < len(anonymized_values) else "?"
+        if i < len(anonymized_data_with_strategy):
+            anon_entry = anonymized_data_with_strategy[i]
+            anon_val = anon_entry['value']
+            # Strategy is no longer displayed per item
+        else:
+            anon_val = "?"
+            # Strategy is no longer displayed per item
         output_html += f"<li><strong>{attr}</strong>: {val} → <strong>{anon_val}</strong></li>"
 
     # Compliance metadata
@@ -238,6 +275,7 @@ def request_data():
         for entry in compliance_results
     )
 
+    # MODIFIED BLOCK 3: Integrate strategies_html into the final f-string
     return f'''
         <h3>Request Processed</h3>
         <p><strong>Domain (Selected):</strong> {domain}</p>
@@ -252,8 +290,9 @@ def request_data():
         <p><strong>Attribute Metadata:</strong></p>
         <ul>{metadata_html}</ul>
         <hr>
-        <p><strong>Anonymization Results:</strong></p>
-        <ul>{output_html}</ul>
+        <p><strong>Applied Anonymization Strategies:</strong></p> {strategies_html}
+        <hr>
+        <p><strong>Anonymization Results (per item):</strong></p> <ul>{output_html}</ul>
         <a href="/">Back to Home</a>
     '''
 

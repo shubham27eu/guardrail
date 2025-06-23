@@ -1,0 +1,101 @@
+id,age,gender,employment_status,annual_income,credit_score,loan_status,num_of_accounts,account_type,has_credit_card,investment,monthly_expenditure,savings
+1,39,Male,Retired,2170516.25,Good,Approved,2,Fixed Deposit,No,None,65334.92,519143.64
+2,37,Male,Self-Employed,1023041.77,Good,Approved,5,Current,No,Gold,64191.05,102640.47
+3,72,Female,Self-Employed,366984.18,Good,Rejected,3,Current,No,Bonds,77877.74,671057.77
+4,64,Male,Self-Employed,283606.08,Excellent,Approved,4,Recurring Deposit,No,Gold,94861.29,929170.38
+5,33,Male,Unemployed,1591822.16,Very Good,Rejected,2,Savings,Yes,Real Estate,99705.31,487702.89
+6,62,Male,Self-Employed,381163.58,Excellent,Rejected,3,Savings,Yes,Real Estate,99830.52,419453.57
+7,50,Female,Employed,2011124.19,Good,Rejected,1,Recurring Deposit,Yes,None,18880.7,264962.87
+8,23,Male,Employed,316829.48,Very Good,Pending,4,Recurring Deposit,Yes,Real Estate,36338.53,709817.01
+9,31,Female,Retired,2357258.87,Good,Pending,4,Savings,No,Real Estate,98359.28,241326.93
+10,66,Female,Retired,1426096.14,Excellent,Rejected,5,Fixed Deposit,Yes,Real Estate,26340.32,806219.08
+11,71,Female,Retired,1591712.15,Very Good,Rejected,3,Recurring Deposit,No,Gold,85811.03,736890.8
+12,51,Female,Employed,257079.63,Poor,Pending,2,Savings,Yes,Stocks,62720.48,648229.0
+13,34,Male,Retired,2009850.95,Very Good,Pending,2,Savings,Yes,Stocks,75444.85,521176.14
+14,73,Female,Unemployed,2167898.76,Good,Rejected,2,Fixed Deposit,Yes,Mutual Funds,15224.31,110322.77
+15,84,Female,Employed,795968.31,Fair,Approved,4,Current,No,Bonds,43772.09,991310.41
+16,84,Female,Employed,181535.19,Good,Approved,3,Current,Yes,Real Estate,19770.92,488880.18
+17,79,Female,Retired,1077687.97,Excellent,Rejected,2,Fixed Deposit,No,Bonds,75617.69,217374.39
+18,62,Male,Unemployed,656117.4,Fair,Rejected,3,Savings,Yes,Real Estate,11224.29,397073.36
+19,80,Female,Employed,742163.76,Poor,Rejected,5,Savings,No,Bonds,43375.1,537851.58
+20,18,Female,Self-Employed,857246.77,Good,Approved,5,Savings,No,Stocks,13853.28,836320.83
+21,76,Female,Retired,608272.76,Very Good,Approved,4,Recurring Deposit,No,Stocks,77213.83,592156.74
+22,66,Female,Employed,1918675.77,Poor,Approved,3,Recurring Deposit,Yes,Real Estate,69050.59,829696.92
+23,42,Male,Retired,2168917.63,Fair,Rejected,4,Current,Yes,Gold,94474.03,248387.0
+24,34,Female,Self-Employed,1583943.99,Poor,Pending,3,Recurring Deposit,Yes,Bonds,50672.4,474191.75
+25,74,Female,Retired,300938.68,Poor,Rejected,1,Savings,No,Mutual Funds,10038.34,756156.42
+26,24,Female,Unemployed,1551803.28,Fair,Approved,4,Savings,No,None,13357.12,199481.13
+27,46,Male,Employed,1182523.57,Poor,Rejected,1,Current,No,Mutual Funds,66345.47,833567.05
+28,55,Female,Self-Employed,854581.4,Excellent,Pending,2,Recurring Deposit,Yes,Gold,11882.6,453496.45
+29,43,Male,Employed,768765.86,Poor,Approved,3,Recurring Deposit,Yes,Stocks,56046.72,236472.83
+30,70,Male,Self-Employed,2464847.97,Very Good,Rejected,4,Current,Yes,None,17767.06,790873.98
+31,64,Male,Self-Employed,1743049.52,Excellent,Pending,1,Current,No,Stocks,67700.41,823574.89
+32,31,Female,Employed,2281831.49,Fair,Pending,5,Fixed Deposit,No,Gold,69389.02,304356.43
+33,47,Male,Employed,1807969.99,Good,Approved,1,Recurring Deposit,No,Gold,53750.84,374824.51
+34,67,Male,Unemployed,813304.27,Very Good,Approved,3,Recurring Deposit,Yes,Stocks,64325.21,348547.73
+35,39,Female,Retired,2089198.91,Excellent,Approved,4,Recurring Deposit,No,Stocks,50060.24,489957.87
+36,85,Female,Self-Employed,1847803.31,Fair,Pending,2,Fixed Deposit,Yes,Stocks,70415.68,823958.42
+37,43,Male,Retired,2165222.67,Good,Rejected,5,Current,Yes,None,51146.26,485462.61
+38,84,Female,Retired,885496.73,Fair,Pending,1,Fixed Deposit,Yes,None,20584.01,524590.98
+39,77,Female,Self-Employed,134538.5,Good,Approved,2,Fixed Deposit,Yes,None,67631.95,954662.0
+40,57,Female,Self-Employed,248970.06,Fair,Rejected,1,Savings,No,None,13040.91,322554.84
+41,73,Female,Retired,2278401.13,Very Good,Pending,5,Recurring Deposit,Yes,Bonds,98504.66,411913.01
+42,49,Female,Self-Employed,891212.71,Fair,Pending,1,Current,No,Bonds,31643.07,822467.77
+43,27,Male,Employed,1088320.78,Fair,Rejected,3,Fixed Deposit,Yes,Mutual Funds,40598.37,652030.22
+44,55,Female,Retired,2351717.57,Fair,Approved,1,Recurring Deposit,No,Mutual Funds,33686.92,932496.19
+45,61,Female,Self-Employed,126246.89,Poor,Approved,1,Savings,No,None,11264.18,865420.47
+46,37,Male,Employed,164143.86,Good,Approved,5,Fixed Deposit,No,None,90719.2,708384.27
+47,41,Male,Employed,857995.07,Good,Pending,2,Savings,No,Mutual Funds,83819.02,666023.46
+48,58,Male,Self-Employed,1265880.04,Poor,Approved,1,Fixed Deposit,Yes,Stocks,78749.25,476096.0
+49,46,Male,Unemployed,1829911.86,Excellent,Pending,1,Savings,Yes,Real Estate,83004.46,939440.02
+50,40,Female,Self-Employed,913691.52,Excellent,Pending,2,Savings,No,Gold,90939.39,859697.92
+51,20,Male,Retired,1122690.39,Very Good,Rejected,3,Recurring Deposit,No,None,44704.7,460736.16
+52,38,Female,Employed,383951.16,Poor,Approved,4,Fixed Deposit,No,Mutual Funds,79763.01,177780.41
+53,21,Male,Unemployed,1040766.39,Excellent,Pending,2,Fixed Deposit,Yes,Gold,80000.12,658982.65
+54,34,Male,Self-Employed,1276494.3,Excellent,Pending,4,Fixed Deposit,No,Bonds,94506.0,587928.08
+55,85,Male,Unemployed,310669.86,Fair,Rejected,2,Current,Yes,Gold,51556.92,395452.66
+56,53,Female,Unemployed,939459.66,Poor,Pending,1,Current,No,Real Estate,34408.31,446645.24
+57,36,Male,Self-Employed,286374.72,Good,Rejected,1,Savings,No,Mutual Funds,82325.8,286675.81
+58,42,Female,Unemployed,2384579.89,Excellent,Approved,4,Current,No,Mutual Funds,98589.65,415222.15
+59,48,Male,Retired,1604497.88,Good,Rejected,5,Recurring Deposit,Yes,Stocks,59765.19,636780.1
+60,62,Female,Self-Employed,1004126.57,Fair,Rejected,5,Recurring Deposit,Yes,Mutual Funds,30799.2,716284.39
+61,83,Female,Self-Employed,1961389.91,Good,Pending,1,Fixed Deposit,No,Gold,64042.7,167740.08
+62,62,Female,Employed,1927685.24,Fair,Rejected,1,Fixed Deposit,No,None,73359.65,140315.7
+63,29,Female,Unemployed,2329820.92,Very Good,Rejected,5,Recurring Deposit,Yes,Real Estate,97900.51,442770.55
+64,22,Female,Retired,1217104.93,Poor,Approved,2,Savings,No,Stocks,53891.37,722640.25
+65,84,Female,Self-Employed,195931.96,Poor,Pending,5,Recurring Deposit,No,Mutual Funds,22273.3,39073.33
+66,71,Female,Retired,223551.92,Very Good,Approved,3,Recurring Deposit,Yes,Mutual Funds,51844.05,516195.05
+67,25,Male,Employed,2292637.74,Fair,Approved,1,Current,No,None,64357.78,567152.91
+68,32,Female,Employed,351126.33,Very Good,Pending,3,Savings,Yes,Mutual Funds,89985.4,976957.69
+69,32,Female,Employed,1461530.77,Fair,Pending,4,Fixed Deposit,Yes,Mutual Funds,61954.04,72856.45
+70,55,Male,Unemployed,990688.52,Excellent,Rejected,2,Savings,Yes,Mutual Funds,98402.7,115881.37
+71,26,Female,Employed,658480.8,Excellent,Rejected,4,Savings,Yes,Stocks,67541.51,654448.37
+72,65,Male,Employed,1989131.75,Fair,Approved,2,Recurring Deposit,No,Gold,76498.76,982123.84
+73,59,Female,Retired,645583.44,Good,Rejected,5,Current,Yes,None,64992.91,918804.09
+74,39,Male,Employed,220742.92,Very Good,Approved,5,Savings,No,Bonds,56898.76,781334.19
+75,20,Male,Unemployed,1059603.92,Good,Approved,4,Current,Yes,Mutual Funds,20929.84,718213.16
+76,63,Male,Employed,486782.47,Good,Approved,5,Current,No,Gold,11162.13,594285.92
+77,60,Female,Unemployed,1069990.51,Excellent,Rejected,4,Savings,Yes,Mutual Funds,80179.75,157966.6
+78,66,Male,Retired,1031545.91,Very Good,Pending,3,Fixed Deposit,Yes,Stocks,16475.81,150306.55
+79,37,Male,Unemployed,207425.97,Good,Pending,2,Current,Yes,Gold,61514.16,315012.91
+80,26,Female,Unemployed,1359826.92,Fair,Approved,4,Recurring Deposit,No,Gold,46929.25,538716.12
+81,20,Female,Retired,1044520.37,Very Good,Approved,1,Recurring Deposit,No,Mutual Funds,67915.46,395599.92
+82,69,Female,Employed,1160000.15,Fair,Rejected,1,Fixed Deposit,No,Mutual Funds,96780.93,26620.09
+83,84,Male,Employed,552531.84,Good,Rejected,4,Current,No,Gold,47531.63,187844.17
+84,29,Female,Employed,1842763.81,Fair,Approved,3,Savings,Yes,Bonds,21198.32,594013.42
+85,76,Female,Self-Employed,670007.9,Fair,Approved,3,Savings,No,Real Estate,38914.9,626952.66
+86,58,Female,Unemployed,1726117.31,Very Good,Rejected,5,Current,No,Mutual Funds,28371.47,362584.42
+87,46,Male,Retired,648906.07,Fair,Rejected,5,Fixed Deposit,Yes,None,36710.99,507184.39
+88,32,Female,Unemployed,2426593.79,Good,Rejected,1,Recurring Deposit,Yes,Bonds,28730.89,537437.93
+89,20,Male,Retired,413486.71,Good,Approved,4,Savings,Yes,Gold,44768.41,443134.55
+90,43,Female,Employed,1854824.27,Excellent,Approved,4,Current,No,Bonds,46742.38,652214.77
+91,23,Male,Unemployed,525901.08,Poor,Rejected,4,Recurring Deposit,Yes,None,62763.13,84963.91
+92,45,Male,Employed,1915442.35,Fair,Pending,3,Fixed Deposit,No,Gold,23677.03,60774.75
+93,57,Female,Retired,1096565.98,Fair,Rejected,2,Savings,Yes,Gold,69117.5,803898.28
+94,29,Female,Employed,2217195.17,Poor,Rejected,5,Recurring Deposit,Yes,Bonds,56682.47,189015.73
+95,27,Female,Unemployed,1305374.71,Poor,Pending,3,Fixed Deposit,Yes,Mutual Funds,95729.37,5597.44
+96,69,Female,Employed,2251277.9,Fair,Approved,5,Current,Yes,Bonds,73066.02,299370.78
+97,47,Female,Retired,2091936.43,Good,Rejected,2,Current,Yes,Real Estate,42322.97,194232.55
+98,36,Female,Unemployed,1171575.07,Poor,Approved,3,Recurring Deposit,Yes,Stocks,36610.26,813857.23
+99,43,Male,Self-Employed,2044466.9,Very Good,Rejected,1,Savings,Yes,Gold,57539.47,496929.07
+100,74,Female,Unemployed,667188.4,Poor,Approved,4,Fixed Deposit,No,Stocks,75137.48,208907.49

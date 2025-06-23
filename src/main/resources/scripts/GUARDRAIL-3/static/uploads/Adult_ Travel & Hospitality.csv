@@ -1,0 +1,101 @@
+﻿TravellerID,Age,Gender,LocationType,HouseholdIncome_USD,MaritalStatus,EmploymentStatus,TravelFrequency_Last12Months,PrimaryTravelPurpose,AvgTripDuration_Days,PreferredAccommodation,PreferredTransportation,AvgSpendPerTrip_USD,LoyaltyProgramMember,BookedVia,LastBookingDate,SoloTraveler,InternationalTravel_Last2Years,ReviewsLeft_Last12Months,SpecialRequestsMade_Last12Months,OverallTravelSatisfaction
+T001,35,Female,Urban,75000,Married,Employed,4,Leisure,7,Hotel,Flight,1200,Both,Online Travel Agent,2025-05-10,No,Yes,3,No,4
+T002,42,Male,Suburban,90000,Married,Employed,6,Business,3,Hotel,Flight,800,Airline,Direct Website,2025-06-01,No,Yes,1,No,5
+T003,28,Female,Urban,60000,Single,Employed,2,Leisure,5,Airbnb/Rental,Train,700,None,Mobile App,2025-04-20,Yes,No,2,Yes,4
+T004,65,Male,Rural,40000,Widowed,Retired,1,Family Visit,10,Friend/Family,Personal Car,300,None,Travel Agent,2025-03-15,No,No,0,No,3
+T005,30,Other,Urban,80000,Single,Employed,3,Leisure,6,Hotel,Flight,1000,Hotel,Online Travel Agent,2025-05-25,Yes,Yes,1,No,4
+T006,55,Female,Suburban,110000,Married,Employed,5,Leisure,8,Resort,Flight,2500,Both,Direct Website,2025-06-18,No,Yes,4,No,5
+T007,24,Male,Urban,45000,Single,Student,1,Education,4,Hostel,Bus,400,None,Online Travel Agent,2025-03-01,Yes,No,0,Yes,3
+T008,72,Female,Rural,35000,Widowed,Retired,1,Medical,5,Friend/Family,Personal Car,200,None,Travel Agent,2025-02-05,No,No,0,Yes,3
+T009,42,Male,Urban,95000,Married,Employed,7,Business,2,Hotel,Flight,950,Airline,Direct Website,2025-06-10,No,Yes,2,No,5
+T010,33,Female,Suburban,70000,Married,Employed,3,Leisure,6,Airbnb/Rental,Train,800,None,Mobile App,2025-04-01,No,No,1,No,4
+T011,29,Male,Urban,55000,Single,Employed,2,Leisure,4,Hotel,Flight,600,None,Online Travel Agent,2025-05-01,Yes,No,1,No,4
+T012,60,Female,Rural,85000,Married,Employed,2,Family Visit,9,Hotel,Personal Car,500,Hotel,Travel Agent,2025-03-20,No,Yes,0,No,4
+T013,27,Other,Urban,62000,Single,Employed,3,Leisure,5,Hostel,Bus,450,None,Mobile App,2025-05-15,Yes,No,1,Yes,3
+T014,78,Male,Suburban,58000,Widowed,Retired,1,Medical,6,Friend/Family,Personal Car,250,None,Travel Agent,2025-02-10,No,No,0,No,3
+T015,44,Female,Urban,120000,Married,Employed,8,Business,3,Resort,Flight,1500,Both,Direct Website,2025-06-20,No,Yes,5,No,5
+T016,36,Male,Suburban,82000,Married,Employed,4,Leisure,7,Hotel,Flight,1100,Hotel,Online Travel Agent,2025-05-05,No,Yes,2,Yes,4
+T017,23,Female,Urban,40000,Single,Student,1,Education,3,Hostel,Train,350,None,Mobile App,2025-03-10,Yes,No,0,No,3
+T018,70,Male,Rural,50000,Married,Retired,2,Family Visit,8,Friend/Family,Personal Car,400,None,Travel Agent,2025-04-01,No,No,0,No,4
+T019,31,Other,Urban,78000,Single,Employed,2,Leisure,5,Airbnb/Rental,Flight,900,None,Online Travel Agent,2025-05-18,Yes,Yes,1,No,4
+T020,49,Female,Suburban,100000,Married,Employed,6,Business,4,Hotel,Flight,1200,Airline,Direct Website,2025-06-15,No,Yes,3,No,5
+T021,26,Male,Urban,50000,Single,Employed,2,Leisure,4,Hotel,Train,550,None,Mobile App,2025-04-10,Yes,No,1,Yes,4
+T022,64,Female,Suburban,68000,Widowed,Retired,1,Family Visit,7,Friend/Family,Personal Car,280,None,Travel Agent,2025-03-05,No,No,0,No,3
+T023,34,Male,Urban,88000,Married,Employed,5,Leisure,8,Resort,Flight,1800,Both,Online Travel Agent,2025-05-30,No,Yes,2,No,4
+T024,47,Female,Rural,92000,Married,Employed,3,Business,3,Hotel,Flight,750,Airline,Direct Website,2025-06-05,No,No,1,No,4
+T025,29,Other,Urban,60000,Single,Employed,2,Leisure,5,Airbnb/Rental,Train,650,None,Mobile App,2025-04-25,Yes,No,1,Yes,4
+T026,75,Male,Suburban,72000,Widowed,Retired,1,Medical,6,Friend/Family,Personal Car,220,None,Travel Agent,2025-02-20,No,No,0,No,3
+T027,41,Female,Urban,115000,Married,Employed,7,Leisure,9,Resort,Flight,2800,Both,Direct Website,2025-06-22,No,Yes,4,No,5
+T028,32,Male,Suburban,78000,Married,Employed,3,Business,4,Hotel,Flight,850,Airline,Online Travel Agent,2025-05-12,No,No,1,No,4
+T029,25,Female,Urban,48000,Single,Student,1,Education,3,Hostel,Bus,300,None,Mobile App,2025-03-08,Yes,No,0,Yes,3
+T030,58,Male,Rural,63000,Married,Homemaker,2,Family Visit,7,Friend/Family,Personal Car,350,None,Travel Agent,2025-04-15,No,No,0,No,4
+T031,37,Other,Urban,85000,Single,Employed,3,Leisure,6,Hotel,Flight,1100,Hotel,Online Travel Agent,2025-05-20,Yes,Yes,2,No,4
+T032,46,Female,Suburban,98000,Married,Employed,5,Business,4,Hotel,Flight,1000,Airline,Direct Website,2025-06-08,No,Yes,2,No,5
+T033,28,Male,Urban,53000,Single,Employed,2,Leisure,5,Airbnb/Rental,Train,680,None,Mobile App,2025-04-18,Yes,No,1,Yes,4
+T034,65,Female,Suburban,68000,Widowed,Retired,1,Family Visit,9,Friend/Family,Personal Car,320,None,Travel Agent,2025-03-25,No,No,0,No,3
+T035,40,Male,Urban,105000,Married,Employed,6,Leisure,8,Resort,Flight,2200,Both,Direct Website,2025-06-01,No,Yes,3,No,5
+T036,30,Female,Suburban,75000,Married,Employed,3,Business,3,Hotel,Flight,700,Airline,Online Travel Agent,2025-05-10,No,No,1,No,4
+T037,24,Other,Urban,47000,Single,Student,1,Education,4,Hostel,Bus,380,None,Mobile App,2025-03-02,Yes,No,0,Yes,3
+T038,78,Male,Rural,60000,Widowed,Retired,1,Medical,5,Friend/Family,Personal Car,200,None,Travel Agent,2025-02-15,No,No,0,No,3
+T039,45,Female,Urban,118000,Married,Employed,8,Leisure,10,Resort,Flight,3000,Both,Direct Website,2025-06-21,No,Yes,5,No,5
+T040,33,Male,Suburban,80000,Married,Employed,4,Business,4,Hotel,Flight,900,Airline,Online Travel Agent,2025-05-11,No,No,1,No,4
+T041,27,Female,Urban,52000,Single,Employed,2,Leisure,6,Airbnb/Rental,Train,620,None,Mobile App,2025-04-22,Yes,No,1,Yes,4
+T042,62,Male,Suburban,70000,Widowed,Retired,1,Family Visit,8,Friend/Family,Personal Car,300,None,Travel Agent,2025-03-18,No,No,0,No,3
+T043,38,Female,Urban,90000,Married,Employed,5,Leisure,7,Hotel,Flight,1300,Hotel,Online Travel Agent,2025-05-08,No,Yes,2,No,4
+T044,49,Male,Rural,95000,Married,Employed,3,Business,3,Hotel,Flight,800,Airline,Direct Website,2025-06-03,No,No,1,No,4
+T045,29,Other,Urban,65000,Single,Employed,2,Leisure,5,Hostel,Bus,480,None,Mobile App,2025-04-28,Yes,No,1,Yes,4
+T046,70,Other,Suburban,75000,Widowed,Retired,1,Medical,6,Friend/Family,Personal Car,240,None,Travel Agent,2025-02-25,No,No,0,No,3
+T047,43,Male,Urban,110000,Married,Employed,7,Leisure,9,Resort,Flight,2600,Both,Direct Website,2025-06-23,No,Yes,4,No,5
+T048,31,Female,Suburban,77000,Married,Employed,3,Business,4,Hotel,Flight,880,Airline,Online Travel Agent,2025-05-13,No,No,1,No,4
+T049,26,Male,Urban,50000,Single,Student,1,Education,3,Hostel,Train,320,None,Mobile App,2025-03-12,Yes,No,0,Yes,3
+T050,57,Female,Rural,68000,Married,Homemaker,2,Family Visit,7,Friend/Family,Personal Car,360,None,Travel Agent,2025-04-10,No,No,0,No,4
+T051,34,Other,Urban,82000,Single,Employed,3,Leisure,6,Hotel,Flight,1150,Hotel,Online Travel Agent,2025-05-22,Yes,Yes,2,No,4
+T052,48,Male,Suburban,99000,Married,Employed,5,Business,4,Hotel,Flight,1050,Airline,Direct Website,2025-06-09,No,Yes,2,No,5
+T053,28,Female,Urban,55000,Single,Employed,2,Leisure,5,Airbnb/Rental,Train,720,None,Mobile App,2025-04-19,Yes,No,1,Yes,4
+T054,66,Male,Suburban,70000,Widowed,Retired,1,Family Visit,9,Friend/Family,Personal Car,310,None,Travel Agent,2025-03-26,No,No,0,No,3
+T055,41,Female,Urban,108000,Married,Employed,6,Leisure,8,Resort,Flight,2300,Both,Direct Website,2025-06-02,No,Yes,3,No,5
+T056,32,Male,Suburban,76000,Married,Employed,3,Business,3,Hotel,Flight,720,Airline,Online Travel Agent,2025-05-14,No,No,1,No,4
+T057,25,Other,Urban,49000,Single,Student,1,Education,4,Hostel,Bus,390,None,Mobile App,2025-03-03,Yes,No,0,Yes,3
+T058,79,Female,Rural,62000,Widowed,Retired,1,Medical,5,Friend/Family,Personal Car,210,None,Travel Agent,2025-02-16,No,No,0,No,3
+T059,44,Male,Urban,112000,Married,Employed,8,Leisure,10,Resort,Flight,3100,Both,Direct Website,2025-06-22,No,Yes,5,No,5
+T060,33,Female,Suburban,81000,Married,Employed,4,Business,4,Hotel,Flight,920,Airline,Online Travel Agent,2025-05-16,No,No,1,No,4
+T061,27,Male,Urban,54000,Single,Employed,2,Leisure,6,Airbnb/Rental,Train,650,None,Mobile App,2025-04-24,Yes,No,1,Yes,4
+T062,63,Female,Suburban,69000,Widowed,Retired,1,Family Visit,8,Friend/Family,Personal Car,330,None,Travel Agent,2025-03-20,No,No,0,No,3
+T063,39,Male,Urban,92000,Married,Employed,5,Leisure,7,Hotel,Flight,1350,Hotel,Online Travel Agent,2025-05-09,No,Yes,2,No,4
+T064,50,Female,Rural,97000,Married,Employed,3,Business,3,Hotel,Flight,820,Airline,Direct Website,2025-06-04,No,No,1,No,4
+T065,30,Other,Urban,67000,Single,Employed,2,Leisure,5,Hostel,Bus,500,None,Mobile App,2025-04-29,Yes,No,1,Yes,4
+T066,71,Male,Suburban,73000,Widowed,Retired,1,Medical,6,Friend/Family,Personal Car,260,None,Travel Agent,2025-02-28,No,No,0,No,3
+T067,42,Female,Urban,115000,Married,Employed,7,Leisure,9,Resort,Flight,2900,Both,Direct Website,2025-06-23,No,Yes,4,No,5
+T068,31,Male,Suburban,79000,Married,Employed,3,Business,4,Hotel,Flight,910,Airline,Online Travel Agent,2025-05-17,No,No,1,No,4
+T069,26,Female,Urban,51000,Single,Student,1,Education,3,Hostel,Train,340,None,Mobile App,2025-03-14,Yes,No,0,Yes,3
+T070,59,Male,Rural,64000,Married,Homemaker,2,Family Visit,7,Friend/Family,Personal Car,370,None,Travel Agent,2025-04-12,No,No,0,No,4
+T071,35,Other,Urban,86000,Single,Employed,3,Leisure,6,Hotel,Flight,1180,Hotel,Online Travel Agent,2025-05-23,Yes,Yes,2,No,4
+T072,47,Male,Suburban,100000,Married,Employed,5,Business,4,Hotel,Flight,1100,Airline,Direct Website,2025-06-10,No,Yes,2,No,5
+T073,29,Female,Urban,56000,Single,Employed,2,Leisure,5,Airbnb/Rental,Train,750,None,Mobile App,2025-04-21,Yes,No,1,Yes,4
+T074,67,Male,Suburban,70000,Widowed,Retired,1,Family Visit,9,Friend/Family,Personal Car,340,None,Travel Agent,2025-03-27,No,No,0,No,3
+T075,40,Female,Urban,109000,Married,Employed,6,Leisure,8,Resort,Flight,2400,Both,Direct Website,2025-06-05,No,Yes,3,No,5
+T076,30,Male,Suburban,76000,Married,Employed,3,Business,3,Hotel,Flight,780,Airline,Online Travel Agent,2025-05-15,No,No,1,No,4
+T077,24,Other,Urban,48000,Single,Student,1,Education,4,Hostel,Bus,410,None,Mobile App,2025-03-04,Yes,No,0,Yes,3
+T078,80,Female,Rural,63000,Widowed,Retired,1,Medical,5,Friend/Family,Personal Car,230,None,Travel Agent,2025-02-18,No,No,0,No,3
+T079,45,Male,Urban,113000,Married,Employed,8,Leisure,10,Resort,Flight,3200,Both,Direct Website,2025-06-20,No,Yes,5,No,5
+T080,33,Female,Suburban,82000,Married,Employed,4,Business,4,Hotel,Flight,950,Airline,Online Travel Agent,2025-05-19,No,No,1,No,4
+T081,27,Male,Urban,55000,Single,Employed,2,Leisure,6,Airbnb/Rental,Train,680,None,Mobile App,2025-04-26,Yes,No,1,Yes,4
+T082,64,Female,Suburban,71000,Widowed,Retired,1,Family Visit,8,Friend/Family,Personal Car,350,None,Travel Agent,2025-03-22,No,No,0,No,3
+T083,39,Male,Urban,93000,Married,Employed,5,Leisure,7,Hotel,Flight,1400,Hotel,Online Travel Agent,2025-05-10,No,Yes,2,No,4
+T084,51,Female,Rural,98000,Married,Employed,3,Business,3,Hotel,Flight,850,Airline,Direct Website,2025-06-06,No,No,1,No,4
+T085,30,Other,Urban,68000,Single,Employed,2,Leisure,5,Hostel,Bus,520,None,Mobile App,2025-04-30,Yes,No,1,Yes,4
+T086,72,Male,Suburban,74000,Widowed,Retired,1,Medical,6,Friend/Family,Personal Car,270,None,Travel Agent,2025-02-27,No,No,0,No,3
+T087,43,Female,Urban,116000,Married,Employed,7,Leisure,9,Resort,Flight,3000,Both,Direct Website,2025-06-23,No,Yes,4,No,5
+T088,31,Male,Suburban,80000,Married,Employed,3,Business,4,Hotel,Flight,920,Airline,Online Travel Agent,2025-05-18,No,No,1,No,4
+T089,26,Female,Urban,52000,Single,Student,1,Education,3,Hostel,Train,360,None,Mobile App,2025-03-16,Yes,No,0,Yes,3
+T090,58,Male,Rural,65000,Married,Homemaker,2,Family Visit,7,Friend/Family,Personal Car,380,None,Travel Agent,2025-04-14,No,No,0,No,4
+T091,35,Other,Urban,87000,Single,Employed,3,Leisure,6,Hotel,Flight,1220,Hotel,Online Travel Agent,2025-05-24,Yes,Yes,2,No,4
+T092,48,Male,Suburban,101000,Married,Employed,5,Business,4,Hotel,Flight,1120,Airline,Direct Website,2025-06-11,No,Yes,2,No,5
+T093,29,Female,Urban,57000,Single,Employed,2,Leisure,5,Airbnb/Rental,Train,780,None,Mobile App,2025-04-20,Yes,No,1,Yes,4
+T094,65,Male,Suburban,72000,Widowed,Retired,1,Family Visit,9,Friend/Family,Personal Car,360,None,Travel Agent,2025-03-28,No,No,0,No,3
+T095,40,Female,Urban,110000,Married,Employed,6,Leisure,8,Resort,Flight,2500,Both,Direct Website,2025-06-07,No,Yes,3,No,5
+T096,30,Male,Suburban,77000,Married,Employed,3,Business,3,Hotel,Flight,800,Airline,Online Travel Agent,2025-05-16,No,No,1,No,4
+T097,24,Other,Urban,49000,Single,Student,1,Education,4,Hostel,Bus,430,None,Mobile App,2025-03-05,Yes,No,0,Yes,3
+T098,81,Female,Rural,64000,Widowed,Retired,1,Medical,5,Friend/Family,Personal Car,250,None,Travel Agent,2025-02-19,No,No,0,No,3
+T099,45,Male,Urban,114000,Married,Employed,8,Leisure,10,Resort,Flight,3300,Both,Direct Website,2025-06-22,No,Yes,5,No,5
+T100,33,Female,Suburban,83000,Married,Employed,4,Business,4,Hotel,Flight,980,Airline,Online Travel Agent,2025-05-20,No,No,1,No,4

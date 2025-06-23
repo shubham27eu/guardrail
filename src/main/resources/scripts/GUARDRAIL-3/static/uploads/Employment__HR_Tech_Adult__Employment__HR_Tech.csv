@@ -1,0 +1,101 @@
+﻿EmployeeID,Age,Gender,LocationType,HouseholdIncome_USD,EducationLevel,EmploymentStatus,Industry,JobLevel,YearsOfExperience,JobSearchStatus,PreferredJobSearchPlatform,UsedHRTech_Last12Months,ResumeOptimizedForATS,SkillsGapsIdentified,InterestInUpskilling,RemoteWorkPreference,CareerGoalsDefined,SatisfactionWithCurrentJob,UsedAI_RecruitmentTools
+E001,35,Female,Urban,75000,Bachelor's,Employed - Full-time,IT,Mid-level,10,No,LinkedIn,Yes,Yes,No,Yes,Hybrid,Yes,4,Yes
+E002,42,Male,Suburban,90000,Master's,Employed - Full-time,Finance,Senior,18,No,Referrals,Yes,Yes,No,No,In-office,Yes,5,No
+E003,28,Female,Urban,60000,Bachelor's,Employed - Full-time,Retail,Entry-level,4,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E004,65,Male,Rural,40000,High School,Retired,N/A,N/A,40,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E005,30,Other,Urban,80000,Bachelor's,Employed - Full-time,Healthcare,Mid-level,6,No,Company Websites,Yes,Yes,No,Yes,Remote,Yes,4,Yes
+E006,55,Female,Suburban,110000,Master's,Employed - Full-time,Education,Executive,25,No,Referrals,Yes,Yes,No,No,Hybrid,Yes,5,No
+E007,24,Male,Urban,45000,High School,Unemployed - Actively Seeking,Hospitality,Entry-level,2,Yes,Indeed,Yes,No,Yes,Yes,No Preference,Yes,N/A,Yes
+E008,72,Female,Rural,35000,High School,Retired,N/A,N/A,35,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E009,42,Male,Urban,95000,Master's,Employed - Full-time,IT,Senior,20,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,Yes
+E010,33,Female,Suburban,70000,Bachelor's,Employed - Full-time,Manufacturing,Mid-level,8,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No
+E011,29,Male,Urban,55000,Bachelor's,Employed - Part-time,Retail,Entry-level,5,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E012,60,Female,Rural,85000,Master's,Employed - Full-time,Finance,Senior,30,No,Referrals,Yes,Yes,No,No,In-office,Yes,5,No
+E013,27,Other,Urban,62000,Bachelor's,Employed - Full-time,Healthcare,Mid-level,3,No,Company Websites,Yes,Yes,No,Yes,Hybrid,Yes,4,Yes
+E014,78,Male,Suburban,58000,PhD,Retired,N/A,N/A,45,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E015,44,Female,Urban,120000,Master's,Employed - Full-time,IT,Executive,22,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,Yes
+E016,36,Male,Suburban,82000,Bachelor's,Employed - Full-time,Education,Mid-level,12,No,LinkedIn,Yes,Yes,No,Yes,Hybrid,Yes,4,No
+E017,23,Female,Urban,40000,High School,Unemployed - Actively Seeking,Hospitality,Entry-level,1,Yes,Indeed,Yes,No,Yes,Yes,No Preference,Yes,N/A,Yes
+E018,70,Male,Rural,50000,Bachelor's,Retired,N/A,N/A,38,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E019,31,Other,Urban,78000,Master's,Employed - Full-time,Manufacturing,Mid-level,7,No,Company Websites,Yes,Yes,No,Yes,In-office,Yes,4,Yes
+E020,49,Female,Suburban,100000,Master's,Employed - Full-time,Finance,Senior,24,No,Referrals,Yes,Yes,No,No,Hybrid,Yes,5,No
+E021,26,Male,Urban,50000,Bachelor's,Employed - Full-time,Retail,Entry-level,3,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E022,64,Female,Suburban,68000,High School,Retired,N/A,N/A,30,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E023,34,Male,Urban,88000,Bachelor's,Employed - Full-time,IT,Mid-level,9,No,LinkedIn,Yes,Yes,No,Yes,Remote,Yes,4,Yes
+E024,47,Female,Rural,92000,Master's,Employed - Full-time,Healthcare,Senior,20,No,Referrals,Yes,Yes,No,No,Hybrid,Yes,5,No
+E025,29,Other,Urban,60000,Bachelor's,Employed - Full-time,Education,Entry-level,4,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E026,75,Male,Suburban,72000,PhD,Retired,N/A,N/A,42,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E027,41,Female,Urban,115000,Master's,Employed - Full-time,Finance,Executive,20,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,No
+E028,32,Male,Suburban,78000,Bachelor's,Employed - Full-time,Manufacturing,Mid-level,7,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No
+E029,25,Female,Urban,48000,High School,Unemployed - Actively Seeking,Hospitality,Entry-level,2,Yes,Indeed,Yes,No,Yes,Yes,No Preference,Yes,N/A,Yes
+E030,58,Male,Rural,63000,Bachelor's,Homemaker,N/A,N/A,15,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E031,37,Other,Urban,85000,Master's,Employed - Full-time,IT,Mid-level,11,No,Company Websites,Yes,Yes,No,Yes,Remote,Yes,4,Yes
+E032,46,Female,Suburban,98000,Master's,Employed - Full-time,Healthcare,Senior,21,No,Referrals,Yes,Yes,No,No,Hybrid,Yes,5,No
+E033,28,Male,Urban,53000,Bachelor's,Employed - Part-time,Retail,Entry-level,4,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E034,65,Female,Suburban,68000,High School,Retired,N/A,N/A,32,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E035,40,Male,Urban,105000,Master's,Employed - Full-time,Finance,Executive,18,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,No
+E036,30,Female,Suburban,75000,Bachelor's,Employed - Full-time,Manufacturing,Mid-level,6,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No
+E037,24,Other,Urban,47000,Bachelor's,Unemployed - Actively Seeking,Hospitality,Entry-level,1,Yes,Indeed,Yes,No,Yes,Yes,No Preference,Yes,N/A,Yes
+E038,78,Male,Rural,60000,PhD,Retired,N/A,N/A,48,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E039,45,Female,Urban,118000,Master's,Employed - Full-time,IT,Executive,23,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,Yes
+E040,33,Male,Suburban,80000,Bachelor's,Employed - Full-time,Education,Mid-level,9,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No
+E041,27,Female,Urban,52000,Bachelor's,Employed - Part-time,Retail,Entry-level,3,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E042,62,Male,Suburban,70000,High School,Retired,N/A,N/A,34,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E043,38,Female,Urban,90000,Master's,Employed - Full-time,Healthcare,Mid-level,13,No,Company Websites,Yes,Yes,No,Yes,Hybrid,Yes,4,Yes
+E044,49,Male,Rural,95000,Master's,Employed - Full-time,Finance,Senior,25,No,Referrals,Yes,Yes,No,No,In-office,Yes,5,No
+E045,29,Other,Urban,65000,Bachelor's,Employed - Full-time,Education,Entry-level,4,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E046,70,Other,Suburban,75000,PhD,Retired,N/A,N/A,40,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E047,43,Male,Urban,110000,Master's,Employed - Full-time,IT,Executive,21,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,Yes
+E048,31,Female,Suburban,77000,Bachelor's,Employed - Full-time,Manufacturing,Mid-level,7,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No
+E049,26,Male,Urban,50000,High School,Unemployed - Actively Seeking,Hospitality,Entry-level,2,Yes,Indeed,Yes,No,Yes,Yes,No Preference,Yes,N/A,Yes
+E050,57,Female,Rural,68000,Bachelor's,Homemaker,N/A,N/A,12,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E051,34,Other,Urban,82000,Master's,Employed - Full-time,Healthcare,Mid-level,9,No,Company Websites,Yes,Yes,No,Yes,Hybrid,Yes,4,Yes
+E052,48,Male,Suburban,99000,Master's,Employed - Full-time,Finance,Senior,22,No,Referrals,Yes,Yes,No,No,In-office,Yes,5,No
+E053,28,Female,Urban,55000,Bachelor's,Employed - Full-time,Retail,Entry-level,4,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E054,66,Male,Suburban,70000,High School,Retired,N/A,N/A,31,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E055,41,Female,Urban,108000,Master's,Employed - Full-time,IT,Executive,19,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,Yes
+E056,32,Male,Suburban,76000,Bachelor's,Employed - Full-time,Education,Mid-level,8,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No
+E057,25,Other,Urban,49000,Bachelor's,Unemployed - Actively Seeking,Hospitality,Entry-level,1,Yes,Indeed,Yes,No,Yes,Yes,No Preference,Yes,N/A,Yes
+E058,79,Female,Rural,62000,PhD,Retired,N/A,N/A,46,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E059,44,Male,Urban,112000,Master's,Employed - Full-time,Finance,Executive,23,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,No
+E060,33,Female,Suburban,81000,Bachelor's,Employed - Full-time,Manufacturing,Mid-level,9,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No
+E061,27,Male,Urban,54000,Bachelor's,Employed - Part-time,Retail,Entry-level,3,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E062,63,Female,Suburban,69000,High School,Retired,N/A,N/A,33,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E063,39,Male,Urban,92000,Master's,Employed - Full-time,Healthcare,Mid-level,14,No,Company Websites,Yes,Yes,No,Yes,Hybrid,Yes,4,Yes
+E064,50,Female,Rural,97000,Master's,Employed - Full-time,Finance,Senior,26,No,Referrals,Yes,Yes,No,No,In-office,Yes,5,No
+E065,30,Other,Urban,67000,Bachelor's,Employed - Full-time,Education,Entry-level,5,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E066,71,Male,Suburban,73000,PhD,Retired,N/A,N/A,41,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E067,42,Female,Urban,115000,Master's,Employed - Full-time,IT,Executive,22,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,Yes
+E068,31,Male,Suburban,79000,Bachelor's,Employed - Full-time,Manufacturing,Mid-level,7,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No
+E069,26,Female,Urban,51000,High School,Unemployed - Actively Seeking,Hospitality,Entry-level,2,Yes,Indeed,Yes,No,Yes,Yes,No Preference,Yes,N/A,Yes
+E070,59,Male,Rural,64000,Bachelor's,Homemaker,N/A,N/A,16,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E071,35,Other,Urban,86000,Master's,Employed - Full-time,Healthcare,Mid-level,10,No,Company Websites,Yes,Yes,No,Yes,Hybrid,Yes,4,Yes
+E072,47,Male,Suburban,100000,Master's,Employed - Full-time,Finance,Senior,23,No,Referrals,Yes,Yes,No,No,In-office,Yes,5,No
+E073,29,Female,Urban,56000,Bachelor's,Employed - Full-time,Retail,Entry-level,4,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E074,67,Male,Suburban,70000,High School,Retired,N/A,N/A,35,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E075,40,Female,Urban,109000,Master's,Employed - Full-time,IT,Executive,20,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,Yes
+E076,30,Male,Suburban,76000,Bachelor's,Employed - Full-time,Education,Mid-level,6,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No
+E077,24,Other,Urban,48000,Bachelor's,Unemployed - Actively Seeking,Hospitality,Entry-level,1,Yes,Indeed,Yes,No,Yes,Yes,No Preference,Yes,N/A,Yes
+E078,80,Female,Rural,63000,PhD,Retired,N/A,N/A,47,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E079,45,Male,Urban,113000,Master's,Employed - Full-time,Finance,Executive,24,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,No
+E080,33,Female,Suburban,82000,Bachelor's,Employed - Full-time,Manufacturing,Mid-level,9,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No
+E081,27,Male,Urban,55000,Bachelor's,Employed - Part-time,Retail,Entry-level,3,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E082,64,Female,Suburban,71000,High School,Retired,N/A,N/A,32,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E083,39,Male,Urban,93000,Master's,Employed - Full-time,Healthcare,Mid-level,15,No,Company Websites,Yes,Yes,No,Yes,Hybrid,Yes,4,Yes
+E084,51,Female,Rural,98000,Master's,Employed - Full-time,Finance,Senior,27,No,Referrals,Yes,Yes,No,No,In-office,Yes,5,No
+E085,30,Other,Urban,68000,Bachelor's,Employed - Full-time,Education,Entry-level,5,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E086,72,Male,Suburban,74000,PhD,Retired,N/A,N/A,43,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E087,43,Female,Urban,116000,Master's,Employed - Full-time,IT,Executive,23,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,Yes
+E088,31,Male,Suburban,80000,Bachelor's,Employed - Full-time,Manufacturing,Mid-level,8,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No
+E089,26,Female,Urban,52000,High School,Unemployed - Actively Seeking,Hospitality,Entry-level,2,Yes,Indeed,Yes,No,Yes,Yes,No Preference,Yes,N/A,Yes
+E090,58,Male,Rural,65000,Bachelor's,Homemaker,N/A,N/A,17,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E091,35,Other,Urban,87000,Master's,Employed - Full-time,Healthcare,Mid-level,11,No,Company Websites,Yes,Yes,No,Yes,Hybrid,Yes,4,Yes
+E092,48,Male,Suburban,101000,Master's,Employed - Full-time,Finance,Senior,24,No,Referrals,Yes,Yes,No,No,In-office,Yes,5,No
+E093,29,Female,Urban,57000,Bachelor's,Employed - Full-time,Retail,Entry-level,5,Yes,Indeed,Yes,Yes,Yes,Yes,In-office,Yes,3,Yes
+E094,65,Male,Suburban,72000,High School,Retired,N/A,N/A,36,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E095,40,Female,Urban,110000,Master's,Employed - Full-time,IT,Executive,21,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,Yes
+E096,30,Male,Suburban,77000,Bachelor's,Employed - Full-time,Education,Mid-level,7,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No
+E097,24,Other,Urban,49000,Bachelor's,Unemployed - Actively Seeking,Hospitality,Entry-level,2,Yes,Indeed,Yes,No,Yes,Yes,No Preference,Yes,N/A,Yes
+E098,81,Female,Rural,64000,PhD,Retired,N/A,N/A,48,No,N/A,No,No,No,No,No Preference,No,N/A,No
+E099,45,Male,Urban,114000,Master's,Employed - Full-time,Finance,Executive,25,No,Referrals,Yes,Yes,No,No,Remote,Yes,5,No
+E100,33,Female,Suburban,83000,Bachelor's,Employed - Full-time,Manufacturing,Mid-level,10,No,LinkedIn,Yes,Yes,Yes,Yes,Hybrid,Yes,4,No

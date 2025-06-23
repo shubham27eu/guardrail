@@ -1,0 +1,101 @@
+﻿CompanyID,CompanyType,FoundingYear,CompanySize_Employees,AnnualRevenue_USD,PrimaryServiceOffering,TargetMarket,FundingStage,R_D_Investment_Percentage,CloudAdoptionLevel,AgileMethodology,DevOpsAdoption,OpenSourceContribution,EmployeeSkillLevel_Average,GlobalPresence,CybersecurityIncidents_Last12Months,CustomerRetentionRate_Percentage,InnovationRating,Partnerships_Active,TechDebtLevel,GrowthRate_Annual_Percentage
+T001,Startup,2022,50,2000000,Fintech,B2C,Seed,25,High,Yes,Yes,No,Advanced,No,0,85,5,2,Medium,150
+T002,IT Services Firm,2005,300,30000000,Software Development,B2B,Self-funded,10,Medium,Yes,Yes,No,Intermediate,Yes,1,90,4,5,Medium,20
+T003,Startup,2023,20,500000,EdTech,B2C,Seed,30,Fully Cloud-Native,Yes,Yes,No,Intermediate,No,0,75,4,0,Low,200
+T004,IT Services Firm,1998,1000,100000000,IT Consulting,B2B,Publicly Traded,5,High,Yes,Yes,Yes,Advanced,Yes,2,95,4,10,Low,10
+T005,Startup,2021,70,5000000,AI/ML,B2B,Series A,35,Fully Cloud-Native,Yes,Yes,Yes,Advanced,No,0,88,5,3,Low,180
+T006,IT Services Firm,2010,150,15000000,Cloud Solutions,B2B,Self-funded,8,High,Yes,Yes,No,Intermediate,Yes,1,88,3,4,Medium,25
+T007,Startup,2024,10,100000,Digital Marketing,B2C,Seed,20,Medium,Yes,No,No,Basic,No,0,60,3,0,Medium,100
+T008,IT Services Firm,2000,500,50000000,Cybersecurity,B2B,Publicly Traded,12,High,Yes,Yes,Yes,Advanced,Yes,3,92,4,8,Medium,15
+T009,Startup,2022,40,1500000,Mobile App Dev,B2C,Seed,28,High,Yes,Yes,No,Intermediate,No,0,80,4,1,Medium,130
+T010,IT Services Firm,2008,200,20000000,Software Development,B2B,Self-funded,7,Medium,Yes,Yes,No,Intermediate,Yes,1,89,3,6,Medium,22
+T011,Startup,2023,25,800000,Fintech,B2B,Seed,32,Fully Cloud-Native,Yes,Yes,No,Advanced,No,0,78,4,1,Low,170
+T012,IT Services Firm,1995,800,80000000,IT Consulting,B2B,Publicly Traded,4,High,Yes,Yes,Yes,Advanced,Yes,2,94,4,9,Low,12
+T013,Startup,2021,60,4000000,AI/ML,B2C,Series A,38,Fully Cloud-Native,Yes,Yes,Yes,Advanced,No,0,90,5,2,Low,190
+T014,IT Services Firm,2012,120,12000000,Cloud Solutions,B2B,Self-funded,9,High,Yes,Yes,No,Intermediate,Yes,1,87,3,5,Medium,28
+T015,Startup,2024,15,200000,EdTech,B2C,Seed,22,Medium,Yes,No,No,Basic,No,0,65,3,0,Medium,110
+T016,IT Services Firm,2003,400,40000000,Cybersecurity,B2B,Publicly Traded,11,High,Yes,Yes,Yes,Advanced,Yes,3,91,4,7,Medium,18
+T017,Startup,2022,35,1000000,Digital Marketing,B2C,Seed,27,High,Yes,Yes,No,Intermediate,No,0,83,4,1,Medium,140
+T018,IT Services Firm,2007,250,25000000,Software Development,B2B,Self-funded,6,Medium,Yes,Yes,No,Intermediate,Yes,1,89,3,7,Medium,23
+T019,Startup,2023,22,600000,Mobile App Dev,B2C,Seed,30,Fully Cloud-Native,Yes,Yes,No,Advanced,No,0,77,4,0,Low,160
+T020,IT Services Firm,1999,900,90000000,IT Consulting,B2B,Publicly Traded,5,High,Yes,Yes,Yes,Advanced,Yes,2,93,4,10,Low,11
+T021,Startup,2021,55,2500000,Fintech,B2C,Series A,28,High,Yes,Yes,No,Advanced,No,0,86,5,2,Medium,160
+T022,IT Services Firm,2006,320,32000000,Software Development,B2B,Self-funded,9,Medium,Yes,Yes,No,Intermediate,Yes,1,91,4,5,Medium,22
+T023,Startup,2023,18,400000,EdTech,B2C,Seed,32,Fully Cloud-Native,Yes,Yes,No,Intermediate,No,0,70,4,0,Low,220
+T024,IT Services Firm,1997,1100,110000000,IT Consulting,B2B,Publicly Traded,6,High,Yes,Yes,Yes,Advanced,Yes,2,96,5,11,Low,13
+T025,Startup,2020,80,6000000,AI/ML,B2B,Series B+,40,Fully Cloud-Native,Yes,Yes,Yes,Advanced,Yes,0,92,5,4,Low,200
+T026,IT Services Firm,2009,180,18000000,Cloud Solutions,B2B,Self-funded,7,High,Yes,Yes,No,Intermediate,Yes,1,87,3,6,Medium,26
+T027,Startup,2024,12,150000,Digital Marketing,B2C,Seed,25,Medium,Yes,No,No,Basic,No,0,62,3,0,Medium,120
+T028,IT Services Firm,2001,600,60000000,Cybersecurity,B2B,Publicly Traded,10,High,Yes,Yes,Yes,Advanced,Yes,3,93,4,9,Medium,17
+T029,Startup,2022,45,1800000,Mobile App Dev,B2C,Seed,30,High,Yes,Yes,No,Intermediate,No,0,82,4,1,Medium,145
+T030,IT Services Firm,2007,280,28000000,Software Development,B2B,Self-funded,8,Medium,Yes,Yes,No,Intermediate,Yes,1,90,4,7,Medium,24
+T031,Startup,2023,28,900000,Fintech,B2B,Seed,35,Fully Cloud-Native,Yes,Yes,No,Advanced,No,0,80,4,1,Low,180
+T032,IT Services Firm,1996,850,85000000,IT Consulting,B2B,Publicly Traded,4,High,Yes,Yes,Yes,Advanced,Yes,2,95,4,10,Low,12
+T033,Startup,2021,65,4500000,AI/ML,B2C,Series A,38,Fully Cloud-Native,Yes,Yes,Yes,Advanced,No,0,91,5,3,Low,195
+T034,IT Services Firm,2011,130,13000000,Cloud Solutions,B2B,Self-funded,9,High,Yes,Yes,No,Intermediate,Yes,1,88,3,5,Medium,27
+T035,Startup,2024,18,250000,EdTech,B2C,Seed,24,Medium,Yes,No,No,Basic,No,0,68,3,0,Medium,115
+T036,IT Services Firm,2004,450,45000000,Cybersecurity,B2B,Publicly Traded,11,High,Yes,Yes,Yes,Advanced,Yes,3,92,4,8,Medium,19
+T037,Startup,2022,38,1200000,Digital Marketing,B2C,Seed,29,High,Yes,Yes,No,Intermediate,No,0,84,4,1,Medium,150
+T038,IT Services Firm,2008,260,26000000,Software Development,B2B,Self-funded,7,Medium,Yes,Yes,No,Intermediate,Yes,1,90,4,8,Medium,25
+T039,Startup,2023,20,700000,Mobile App Dev,B2C,Seed,32,Fully Cloud-Native,Yes,Yes,No,Advanced,No,0,79,4,0,Low,165
+T040,IT Services Firm,2000,950,95000000,IT Consulting,B2B,Publicly Traded,5,High,Yes,Yes,Yes,Advanced,Yes,2,94,5,11,Low,13
+T041,Startup,2021,58,2800000,Fintech,B2C,Series A,29,High,Yes,Yes,No,Advanced,No,0,87,5,2,Medium,170
+T042,IT Services Firm,2006,350,35000000,Software Development,B2B,Self-funded,10,Medium,Yes,Yes,No,Intermediate,Yes,1,92,4,6,Medium,23
+T043,Startup,2023,17,450000,EdTech,B2C,Seed,34,Fully Cloud-Native,Yes,Yes,No,Intermediate,No,0,72,4,0,Low,230
+T044,IT Services Firm,1997,1200,120000000,IT Consulting,B2B,Publicly Traded,6,High,Yes,Yes,Yes,Advanced,Yes,2,97,5,12,Low,14
+T045,Startup,2020,85,6500000,AI/ML,B2B,Series B+,42,Fully Cloud-Native,Yes,Yes,Yes,Advanced,Yes,0,93,5,4,Low,210
+T046,IT Services Firm,2009,200,20000000,Cloud Solutions,B2B,Self-funded,7,High,Yes,Yes,No,Intermediate,Yes,1,88,3,7,Medium,28
+T047,Startup,2024,14,180000,Digital Marketing,B2C,Seed,26,Medium,Yes,No,No,Basic,No,0,64,3,0,Medium,130
+T048,IT Services Firm,2001,650,65000000,Cybersecurity,B2B,Publicly Traded,10,High,Yes,Yes,Yes,Advanced,Yes,3,94,4,10,Medium,18
+T049,Startup,2022,40,2000000,Mobile App Dev,B2C,Seed,31,High,Yes,Yes,No,Intermediate,No,0,85,4,1,Medium,155
+T050,IT Services Firm,2007,300,30000000,Software Development,B2B,Self-funded,8,Medium,Yes,Yes,No,Intermediate,Yes,1,91,4,8,Medium,26
+T051,Startup,2023,30,1000000,Fintech,B2B,Seed,36,Fully Cloud-Native,Yes,Yes,No,Advanced,No,0,82,4,1,Low,190
+T052,IT Services Firm,1996,900,90000000,IT Consulting,B2B,Publicly Traded,4,High,Yes,Yes,Yes,Advanced,Yes,2,96,4,11,Low,13
+T053,Startup,2021,70,4800000,AI/ML,B2C,Series A,39,Fully Cloud-Native,Yes,Yes,Yes,Advanced,No,0,92,5,3,Low,200
+T054,IT Services Firm,2011,140,14000000,Cloud Solutions,B2B,Self-funded,9,High,Yes,Yes,No,Intermediate,Yes,1,89,3,6,Medium,29
+T055,Startup,2024,16,280000,EdTech,B2C,Seed,25,Medium,Yes,No,No,Basic,No,0,70,3,0,Medium,125
+T056,IT Services Firm,2004,500,50000000,Cybersecurity,B2B,Publicly Traded,12,High,Yes,Yes,Yes,Advanced,Yes,3,93,4,9,Medium,20
+T057,Startup,2022,40,1500000,Digital Marketing,B2C,Seed,30,High,Yes,Yes,No,Intermediate,No,0,85,4,1,Medium,160
+T058,IT Services Firm,2008,280,28000000,Software Development,B2B,Self-funded,7,Medium,Yes,Yes,No,Intermediate,Yes,1,91,4,8,Medium,26
+T059,Startup,2023,25,750000,Mobile App Dev,B2C,Seed,33,Fully Cloud-Native,Yes,Yes,No,Advanced,No,0,80,4,0,Low,170
+T060,IT Services Firm,2000,1000,100000000,IT Consulting,B2B,Publicly Traded,5,High,Yes,Yes,Yes,Advanced,Yes,2,95,5,12,Low,14
+T061,Startup,2021,60,3000000,Fintech,B2C,Series A,30,High,Yes,Yes,No,Advanced,No,0,88,5,2,Medium,180
+T062,IT Services Firm,2006,380,38000000,Software Development,B2B,Self-funded,11,Medium,Yes,Yes,No,Intermediate,Yes,1,93,4,6,Medium,24
+T063,Startup,2023,19,500000,EdTech,B2C,Seed,35,Fully Cloud-Native,Yes,Yes,No,Intermediate,No,0,75,4,0,Low,240
+T064,IT Services Firm,1997,1300,130000000,IT Consulting,B2B,Publicly Traded,7,High,Yes,Yes,Yes,Advanced,Yes,2,98,5,13,Low,15
+T065,Startup,2020,90,7000000,AI/ML,B2B,Series B+,45,Fully Cloud-Native,Yes,Yes,Yes,Advanced,Yes,0,94,5,5,Low,220
+T066,IT Services Firm,2009,220,22000000,Cloud Solutions,B2B,Self-funded,8,High,Yes,Yes,No,Intermediate,Yes,1,90,3,7,Medium,30
+T067,Startup,2024,15,200000,Digital Marketing,B2C,Seed,28,Medium,Yes,No,No,Basic,No,0,65,3,0,Medium,140
+T068,IT Services Firm,2001,700,70000000,Cybersecurity,B2B,Publicly Traded,11,High,Yes,Yes,Yes,Advanced,Yes,3,95,4,11,Medium,19
+T069,Startup,2022,42,2200000,Mobile App Dev,B2C,Seed,33,High,Yes,Yes,No,Intermediate,No,0,88,4,1,Medium,165
+T070,IT Services Firm,2007,320,32000000,Software Development,B2B,Self-funded,9,Medium,Yes,Yes,No,Intermediate,Yes,1,92,4,9,Medium,27
+T071,Startup,2023,32,1100000,Fintech,B2B,Seed,38,Fully Cloud-Native,Yes,Yes,No,Advanced,No,0,85,4,1,Low,200
+T072,IT Services Firm,1996,950,95000000,IT Consulting,B2B,Publicly Traded,5,High,Yes,Yes,Yes,Advanced,Yes,2,97,4,12,Low,14
+T073,Startup,2021,75,5000000,AI/ML,B2C,Series A,40,Fully Cloud-Native,Yes,Yes,Yes,Advanced,No,0,93,5,3,Low,210
+T074,IT Services Firm,2011,150,15000000,Cloud Solutions,B2B,Self-funded,10,High,Yes,Yes,No,Intermediate,Yes,1,90,3,7,Medium,30
+T075,Startup,2024,20,300000,EdTech,B2C,Seed,27,Medium,Yes,No,No,Basic,No,0,72,3,0,Medium,130
+T076,IT Services Firm,2004,550,55000000,Cybersecurity,B2B,Publicly Traded,12,High,Yes,Yes,Yes,Advanced,Yes,3,94,4,10,Medium,21
+T077,Startup,2022,45,1800000,Digital Marketing,B2C,Seed,32,High,Yes,Yes,No,Intermediate,No,0,88,4,1,Medium,170
+T078,IT Services Firm,2008,300,30000000,Software Development,B2B,Self-funded,8,Medium,Yes,Yes,No,Intermediate,Yes,1,92,4,9,Medium,28
+T079,Startup,2023,28,800000,Mobile App Dev,B2C,Seed,35,Fully Cloud-Native,Yes,Yes,No,Advanced,No,0,82,4,0,Low,180
+T080,IT Services Firm,2000,1050,105000000,IT Consulting,B2B,Publicly Traded,6,High,Yes,Yes,Yes,Advanced,Yes,2,96,5,13,Low,15
+T081,Startup,2021,62,3200000,Fintech,B2C,Series A,31,High,Yes,Yes,No,Advanced,No,0,89,5,2,Medium,190
+T082,IT Services Firm,2006,400,40000000,Software Development,B2B,Self-funded,12,Medium,Yes,Yes,No,Intermediate,Yes,1,94,4,7,Medium,25
+T083,Startup,2023,20,550000,EdTech,B2C,Seed,37,Fully Cloud-Native,Yes,Yes,No,Intermediate,No,0,78,4,0,Low,250
+T084,IT Services Firm,1997,1400,140000000,IT Consulting,B2B,Publicly Traded,8,High,Yes,Yes,Yes,Advanced,Yes,2,99,5,14,Low,16
+T085,Startup,2020,95,7500000,AI/ML,B2B,Series B+,48,Fully Cloud-Native,Yes,Yes,Yes,Advanced,Yes,0,95,5,6,Low,230
+T086,IT Services Firm,2009,250,25000000,Cloud Solutions,B2B,Self-funded,9,High,Yes,Yes,No,Intermediate,Yes,1,92,3,8,Medium,32
+T087,Startup,2024,16,220000,Digital Marketing,B2C,Seed,29,Medium,Yes,No,No,Basic,No,0,68,3,0,Medium,150
+T088,IT Services Firm,2001,750,75000000,Cybersecurity,B2B,Publicly Traded,13,High,Yes,Yes,Yes,Advanced,Yes,3,96,4,12,Medium,20
+T089,Startup,2022,48,2500000,Mobile App Dev,B2C,Seed,35,High,Yes,Yes,No,Intermediate,No,0,90,4,1,Medium,175
+T090,IT Services Firm,2007,350,35000000,Software Development,B2B,Self-funded,10,Medium,Yes,Yes,No,Intermediate,Yes,1,93,4,10,Medium,29
+T091,Startup,2023,35,1200000,Fintech,B2B,Seed,40,Fully Cloud-Native,Yes,Yes,No,Advanced,No,0,88,4,1,Low,210
+T092,IT Services Firm,1996,1000,100000000,IT Consulting,B2B,Publicly Traded,6,High,Yes,Yes,Yes,Advanced,Yes,2,98,4,13,Low,15
+T093,Startup,2021,80,5500000,AI/ML,B2C,Series A,42,Fully Cloud-Native,Yes,Yes,Yes,Advanced,No,0,94,5,4,Low,220
+T094,IT Services Firm,2011,160,16000000,Cloud Solutions,B2B,Self-funded,11,High,Yes,Yes,No,Intermediate,Yes,1,91,3,9,Medium,31
+T095,Startup,2024,22,350000,EdTech,B2C,Seed,28,Medium,Yes,No,No,Basic,No,0,75,3,0,Medium,140
+T096,IT Services Firm,2004,600,60000000,Cybersecurity,B2B,Publicly Traded,13,High,Yes,Yes,Yes,Advanced,Yes,3,97,4,11,Medium,22
+T097,Startup,2022,50,2000000,Digital Marketing,B2C,Seed,30,High,Yes,Yes,No,Intermediate,No,0,90,4,1,Medium,180
+T098,IT Services Firm,2008,320,32000000,Software Development,B2B,Self-funded,9,Medium,Yes,Yes,No,Intermediate,Yes,1,94,4,10,Medium,30
+T099,Startup,2023,30,900000,Mobile App Dev,B2C,Seed,38,Fully Cloud-Native,Yes,Yes,No,Advanced,No,0,85,4,0,Low,190
+T100,IT Services Firm,2000,1100,110000000,IT Consulting,B2B,Publicly Traded,7,High,Yes,Yes,Yes,Advanced,Yes,2,97,5,14,Low,16

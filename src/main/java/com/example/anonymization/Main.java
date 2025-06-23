@@ -51,11 +51,13 @@ public class Main {
             }
 
             List<String> anonymizedValuesForOutput = new ArrayList<>();
-            // List<String> appliedStrategiesForOutput = new ArrayList<>(); // Optional
+            // MODIFICATION 1: Initialize Score Variables
+            double totalDistance = 0.0;
+            int processedValueCount = 0;
 
             for (AttributeValueEntry entry : entries) {
                 String attributeName = entry.getAttributeName();
-                String originalValue = entry.getAttributeValue();
+                String originalValue = entry.getAttributeValue(); // This is currentOriginalValue
 
                 // Using overallSensitivityCli for all attributes as per current CLI args
                 // resultType is assumed "cell" for individual values
@@ -75,28 +77,52 @@ public class Main {
                     selectedStrategies
                 );
 
-                // Output format: original_value::anonymized_value (strategy_applied)
-                // This can be adjusted later if a different format is needed by app.py
-                // String outputLine = originalValue + "::" + anonymizationResult.getAnonymizedValue() +
-                //                     " (Strategy: " + anonymizationResult.getAppliedStrategy() + ")";
-                // MODIFIED LINE BELOW
                 String outputLine = anonymizationResult.getAnonymizedValue() + "::" + anonymizationResult.getAppliedStrategy();
                 anonymizedValuesForOutput.add(outputLine);
 
-                // appliedStrategiesForOutput.add(anonymizationResult.getAppliedStrategy()); // Optional
                 System.out.println("Original: " + originalValue +
                                    " -> Anonymized: " + anonymizationResult.getAnonymizedValue() +
                                    " (Strategy: " + anonymizationResult.getAppliedStrategy() + ")");
+
+                // MODIFICATION 2: Calculate Distance per Value and Update Score Variables
+                String currentOriginalValue = entry.getAttributeValue(); // Same as originalValue above
+                String currentAnonymizedValue = anonymizationResult.getAnonymizedValue();
+                double distance = 0.0;
+
+                if (currentOriginalValue == null && currentAnonymizedValue == null) {
+                    distance = 0.0;
+                } else if (currentOriginalValue == null || currentAnonymizedValue == null) {
+                    distance = 1.0; // One is null, the other isn't
+                } else if (!currentOriginalValue.equals(currentAnonymizedValue)) {
+                    distance = 1.0; // They are different
+                }
+                // No numeric comparison for now, just string equality.
+                // Can be enhanced later if needed, but Java received strings.
+
+                totalDistance += distance;
+                processedValueCount++;
+                // End of new score calculation code for this item
             }
 
-            // Write only the anonymized values to the output file, one per line.
-            // If entries list was empty, anonymizedValuesForOutput will be empty, resulting in an empty file.
             Files.write(Paths.get(outputPath), anonymizedValuesForOutput, StandardCharsets.UTF_8);
             System.out.println(anonymizedValuesForOutput.size() + " anonymized values written to: " + outputPath);
+
+            // MODIFICATION 3: Calculate and Print Final Score
+            if (processedValueCount > 0) {
+                double alphaScore = totalDistance / processedValueCount;
+                System.out.println(String.format("AlphaScore:%.4f", alphaScore));
+            } else {
+                System.out.println("AlphaScore:0.0000"); // Or handle as N/A, or don't print
+            }
+            // End of new alpha score printing code
 
         } catch (Exception e) {
             System.err.println("Error during anonymization process: " + e.getMessage());
             e.printStackTrace();
+            // It might be good to also print a default AlphaScore in case of exception
+            // after loading entries but before finishing processing all of them.
+            // For now, only printing if loop completes or doesn't run.
+             System.out.println("AlphaScore:Error"); 
         }
 
         System.out.println("\nAnonymization Process Completed (New Flow).");
