@@ -1,0 +1,101 @@
+﻿LearnerID,Age,Gender,LocationType,HouseholdIncome_USD,HighestEducationCompleted,EmploymentStatus,CurrentLearningStatus,TypeOfCurrentLearning,LearningPlatform,HoursStudied_Weekly,MotivationForLearning,ChallengesToLearning,PreferredLearningFormat,FutureLearningInterest,AccessToBroadband,DigitalLiteracyLevel,MentorshipAvailability,LastCertificationYear,StudentLoanDebt_USD,LearningSatisfactionRating
+E001,35,Female,Urban,75000,Bachelor's,Employed,Yes,Certification,Professional Institute,8,Career Advancement,Time Constraints,Online Self-Paced,Yes,Yes,Intermediate,Yes,2023,15000,4
+E002,42,Male,Suburban,90000,Master's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Online Live,Yes,Yes,Advanced,Yes,2010,0,5
+E003,28,Female,Urban,60000,Bachelor's,Employed,Yes,Skill-Based Course,MOOC Platform,5,Skill Development,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,5000,4
+E004,65,Male,Rural,40000,High School,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,3
+E005,30,Other,Urban,80000,Bachelor's,Employed,Yes,Degree Program,Online University,10,Career Advancement,Family Commitments,Online Live,Yes,Yes,Advanced,Yes,2022,25000,4
+E006,55,Female,Suburban,110000,Master's,Employed,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,Yes,Yes,Advanced,Yes,2005,0,5
+E007,24,Male,Urban,45000,High School,Student,Yes,Degree Program,Local College,15,Qualification,Cost,In-Person Classes,Yes,Yes,Intermediate,No,0,10000,3
+E008,72,Female,Rural,35000,High School,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E009,42,Male,Urban,95000,Master's,Employed,Yes,Certification,Professional Institute,7,Skill Development,Time Constraints,Blended,Yes,Yes,Advanced,Yes,2023,8000,4
+E010,33,Female,Suburban,70000,Bachelor's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Online Self-Paced,Yes,Yes,Intermediate,No,2015,0,4
+E011,29,Male,Urban,55000,Bachelor's,Employed,Yes,Skill-Based Course,MOOC Platform,6,Skill Development,Time Constraints,Online Live,Yes,Yes,Intermediate,No,2024,3000,4
+E012,60,Female,Rural,85000,Master's,Employed,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,Yes,Yes,Advanced,Yes,2008,0,5
+E013,27,Other,Urban,62000,Bachelor's,Employed,Yes,Degree Program,Online University,12,Qualification,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2023,18000,4
+E014,78,Male,Suburban,58000,PhD,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E015,44,Female,Urban,120000,Master's,Employed,Yes,Certification,Professional Institute,9,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2022,0,5
+E016,36,Male,Suburban,82000,Bachelor's,Employed,Yes,Skill-Based Course,MOOC Platform,7,Skill Development,Time Constraints,Online Live,Yes,Yes,Intermediate,Yes,2024,6000,4
+E017,23,Female,Urban,40000,High School,Student,Yes,Degree Program,Local College,14,Qualification,Cost,In-Person Classes,Yes,Yes,Basic,No,0,8000,3
+E018,70,Male,Rural,50000,Bachelor's,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E019,31,Other,Urban,78000,Master's,Employed,Yes,Certification,Professional Institute,6,Career Advancement,Time Constraints,Online Self-Paced,Yes,Yes,Advanced,Yes,2023,12000,4
+E020,49,Female,Suburban,100000,Master's,Employed,No,None,N/A,0,Personal Interest,No Challenges,Online Live,Yes,Yes,Advanced,Yes,2012,0,5
+E021,26,Male,Urban,50000,Bachelor's,Employed,Yes,Skill-Based Course,MOOC Platform,5,Skill Development,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,4000,4
+E022,64,Female,Suburban,68000,High School,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,3
+E023,34,Male,Urban,88000,Bachelor's,Employed,Yes,Degree Program,Online University,11,Qualification,Time Constraints,Online Live,Yes,Yes,Advanced,Yes,2022,20000,4
+E024,47,Female,Rural,92000,Master's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2010,0,5
+E025,29,Other,Urban,60000,Bachelor's,Employed,Yes,Skill-Based Course,MOOC Platform,7,Skill Development,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,5500,4
+E026,75,Male,Suburban,72000,PhD,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E027,41,Female,Urban,115000,Master's,Employed,Yes,Certification,Professional Institute,8,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2023,10000,5
+E028,32,Male,Suburban,78000,Bachelor's,Employed,No,None,N/A,0,Personal Interest,No Challenges,Online Live,Yes,Yes,Intermediate,No,2018,0,4
+E029,25,Female,Urban,48000,High School,Student,Yes,Degree Program,Local College,13,Qualification,Family Commitments,In-Person Classes,Yes,Yes,Basic,No,0,9000,3
+E030,58,Male,Rural,63000,Bachelor's,Homemaker,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E031,37,Other,Urban,85000,Master's,Employed,Yes,Skill-Based Course,MOOC Platform,6,Skill Development,Time Constraints,Online Self-Paced,Yes,Yes,Intermediate,Yes,2024,7000,4
+E032,46,Female,Suburban,98000,Master's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Online Live,Yes,Yes,Advanced,Yes,2011,0,5
+E033,28,Male,Urban,53000,Bachelor's,Employed,Yes,Certification,Professional Institute,5,Career Advancement,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,4500,4
+E034,65,Female,Suburban,68000,High School,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,3
+E035,40,Male,Urban,105000,Master's,Employed,Yes,Degree Program,Online University,9,Qualification,Time Constraints,Blended,Yes,Yes,Advanced,Yes,2022,22000,4
+E036,30,Female,Suburban,75000,Bachelor's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Online Self-Paced,Yes,Yes,Intermediate,Yes,2016,0,4
+E037,24,Other,Urban,47000,Bachelor's,Student,Yes,Skill-Based Course,MOOC Platform,7,Skill Development,Lack of Resources,Online Live,Yes,Yes,Basic,No,2024,3500,3
+E038,78,Male,Rural,60000,PhD,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E039,45,Female,Urban,118000,Master's,Employed,Yes,Certification,Professional Institute,8,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2023,11000,5
+E040,33,Male,Suburban,80000,Bachelor's,Employed,No,None,N/A,0,Personal Interest,No Challenges,Online Self-Paced,Yes,Yes,Intermediate,No,2017,0,4
+E041,27,Female,Urban,52000,Bachelor's,Employed,Yes,Skill-Based Course,MOOC Platform,6,Skill Development,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,4000,4
+E042,62,Male,Suburban,70000,High School,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,3
+E043,38,Female,Urban,90000,Master's,Employed,Yes,Degree Program,Online University,10,Qualification,Time Constraints,Online Live,Yes,Yes,Advanced,Yes,2022,20000,4
+E044,49,Male,Rural,95000,Master's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2012,0,5
+E045,29,Female,Urban,65000,Bachelor's,Employed,Yes,Skill-Based Course,MOOC Platform,7,Skill Development,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,5000,4
+E046,70,Other,Suburban,75000,PhD,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E047,43,Male,Urban,110000,Master's,Employed,Yes,Certification,Professional Institute,9,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2023,13000,5
+E048,31,Female,Suburban,77000,Bachelor's,Employed,No,None,N/A,0,Personal Interest,No Challenges,Online Live,Yes,Yes,Intermediate,No,2019,0,4
+E049,26,Male,Urban,50000,High School,Student,Yes,Degree Program,Local College,12,Qualification,Family Commitments,In-Person Classes,Yes,Yes,Basic,No,0,8000,3
+E050,57,Female,Rural,68000,Bachelor's,Homemaker,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E051,34,Other,Urban,82000,Master's,Employed,Yes,Skill-Based Course,MOOC Platform,8,Skill Development,Time Constraints,Online Self-Paced,Yes,Yes,Intermediate,Yes,2024,6500,4
+E052,48,Male,Suburban,99000,Master's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Online Live,Yes,Yes,Advanced,Yes,2013,0,5
+E053,28,Female,Urban,55000,Bachelor's,Employed,Yes,Certification,Professional Institute,5,Career Advancement,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,4200,4
+E054,66,Male,Suburban,70000,High School,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,3
+E055,41,Female,Urban,108000,Master's,Employed,Yes,Degree Program,Online University,10,Qualification,Time Constraints,Blended,Yes,Yes,Advanced,Yes,2022,21000,4
+E056,32,Male,Suburban,76000,Bachelor's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Online Self-Paced,Yes,Yes,Intermediate,Yes,2018,0,4
+E057,25,Other,Urban,49000,Bachelor's,Student,Yes,Skill-Based Course,MOOC Platform,7,Skill Development,Lack of Resources,Online Live,Yes,Yes,Basic,No,2024,3800,3
+E058,79,Female,Rural,62000,PhD,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E059,44,Male,Urban,112000,Master's,Employed,Yes,Certification,Professional Institute,9,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2023,12500,5
+E060,33,Female,Suburban,81000,Bachelor's,Employed,No,None,N/A,0,Personal Interest,No Challenges,Online Self-Paced,Yes,Yes,Intermediate,No,2017,0,4
+E061,27,Male,Urban,54000,Bachelor's,Employed,Yes,Skill-Based Course,MOOC Platform,6,Skill Development,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,4300,4
+E062,63,Female,Suburban,69000,High School,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,3
+E063,39,Male,Urban,92000,Master's,Employed,Yes,Degree Program,Online University,11,Qualification,Time Constraints,Online Live,Yes,Yes,Advanced,Yes,2022,23000,4
+E064,50,Female,Rural,97000,Master's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2012,0,5
+E065,30,Other,Urban,67000,Bachelor's,Employed,Yes,Skill-Based Course,MOOC Platform,7,Skill Development,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,5200,4
+E066,71,Male,Suburban,73000,PhD,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E067,42,Female,Urban,115000,Master's,Employed,Yes,Certification,Professional Institute,8,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2023,10500,5
+E068,31,Male,Suburban,79000,Bachelor's,Employed,No,None,N/A,0,Personal Interest,No Challenges,Online Live,Yes,Yes,Intermediate,No,2019,0,4
+E069,26,Female,Urban,51000,High School,Student,Yes,Degree Program,Local College,13,Qualification,Family Commitments,In-Person Classes,Yes,Yes,Basic,No,0,8500,3
+E070,59,Male,Rural,64000,Bachelor's,Homemaker,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E071,35,Other,Urban,86000,Master's,Employed,Yes,Skill-Based Course,MOOC Platform,8,Skill Development,Time Constraints,Online Self-Paced,Yes,Yes,Intermediate,Yes,2024,6800,4
+E072,47,Male,Suburban,100000,Master's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Online Live,Yes,Yes,Advanced,Yes,2013,0,5
+E073,29,Female,Urban,56000,Bachelor's,Employed,Yes,Certification,Professional Institute,5,Career Advancement,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,4400,4
+E074,67,Male,Suburban,70000,High School,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,3
+E075,40,Female,Urban,109000,Master's,Employed,Yes,Degree Program,Online University,10,Qualification,Time Constraints,Blended,Yes,Yes,Advanced,Yes,2022,21500,4
+E076,30,Male,Suburban,76000,Bachelor's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Online Self-Paced,Yes,Yes,Intermediate,Yes,2018,0,4
+E077,24,Other,Urban,48000,Bachelor's,Student,Yes,Skill-Based Course,MOOC Platform,7,Skill Development,Lack of Resources,Online Live,Yes,Yes,Basic,No,2024,3900,3
+E078,80,Female,Rural,63000,PhD,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E079,45,Male,Urban,113000,Master's,Employed,Yes,Certification,Professional Institute,9,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2023,12800,5
+E080,33,Female,Suburban,82000,Bachelor's,Employed,No,None,N/A,0,Personal Interest,No Challenges,Online Self-Paced,Yes,Yes,Intermediate,No,2017,0,4
+E081,27,Male,Urban,55000,Bachelor's,Employed,Yes,Skill-Based Course,MOOC Platform,6,Skill Development,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,4500,4
+E082,64,Female,Suburban,71000,High School,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,3
+E083,39,Male,Urban,93000,Master's,Employed,Yes,Degree Program,Online University,11,Qualification,Time Constraints,Online Live,Yes,Yes,Advanced,Yes,2022,24000,4
+E084,51,Female,Rural,98000,Master's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2012,0,5
+E085,30,Other,Urban,68000,Bachelor's,Employed,Yes,Skill-Based Course,MOOC Platform,7,Skill Development,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,5300,4
+E086,72,Male,Suburban,74000,PhD,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E087,43,Female,Urban,116000,Master's,Employed,Yes,Certification,Professional Institute,8,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2023,11500,5
+E088,31,Male,Suburban,80000,Bachelor's,Employed,No,None,N/A,0,Personal Interest,No Challenges,Online Live,Yes,Yes,Intermediate,No,2019,0,4
+E089,26,Female,Urban,52000,High School,Student,Yes,Degree Program,Local College,12,Qualification,Family Commitments,In-Person Classes,Yes,Yes,Basic,No,0,8800,3
+E090,58,Male,Rural,65000,Bachelor's,Homemaker,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E091,35,Other,Urban,87000,Master's,Employed,Yes,Skill-Based Course,MOOC Platform,8,Skill Development,Time Constraints,Online Self-Paced,Yes,Yes,Intermediate,Yes,2024,7000,4
+E092,48,Male,Suburban,101000,Master's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Online Live,Yes,Yes,Advanced,Yes,2013,0,5
+E093,29,Female,Urban,57000,Bachelor's,Employed,Yes,Certification,Professional Institute,5,Career Advancement,Cost,Online Self-Paced,Yes,Yes,Intermediate,No,2024,4600,4
+E094,65,Male,Suburban,72000,High School,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,3
+E095,40,Female,Urban,110000,Master's,Employed,Yes,Degree Program,Online University,10,Qualification,Time Constraints,Blended,Yes,Yes,Advanced,Yes,2022,22500,4
+E096,30,Male,Suburban,77000,Bachelor's,Employed,No,None,N/A,0,Career Advancement,No Challenges,Online Self-Paced,Yes,Yes,Intermediate,Yes,2018,0,4
+E097,24,Other,Urban,49000,Bachelor's,Student,Yes,Skill-Based Course,MOOC Platform,7,Skill Development,Lack of Resources,Online Live,Yes,Yes,Basic,No,2024,4000,3
+E098,81,Female,Rural,64000,PhD,Retired,No,None,N/A,0,Personal Interest,No Challenges,In-Person Classes,No,No,Basic,No,0,0,4
+E099,45,Male,Urban,114000,Master's,Employed,Yes,Certification,Professional Institute,9,Career Advancement,No Challenges,Blended,Yes,Yes,Advanced,Yes,2023,13000,5
+E100,33,Female,Suburban,83000,Bachelor's,Employed,No,None,N/A,0,Personal Interest,No Challenges,Online Self-Paced,Yes,Yes,Intermediate,No,2017,0,4

@@ -1,0 +1,101 @@
+﻿HUF_ID,KartaAge,KartaGender,HUF_LocationType,HUF_AnnualIncome_INR,NumMembers,PrimaryBank,AccountType,InvestmentPortfolioValue_INR,LoanTaken_Last12Months,LoanType_Primary,DigitalBankingUsage,FinancialAdvisorUsed,TaxFilingMethod,HUF_PropertyOwned,BusinessOperations,OnlineInvestmentPlatformsUsed,FinancialGoals_Primary,SatisfactionWithBank,SuccessionPlanningInPlace,DisputesOverAssets_Last5Years
+H001,55,Male,Urban,1500000,5,Private Sector Bank,Current,5000000,No,None,Daily,Yes,Chartered Accountant,2,Yes,Yes,Wealth Growth,4,Yes,No
+H002,62,Male,Suburban,1200000,4,Public Sector Bank,Savings,3000000,Yes,Property Loan,Weekly,No,Chartered Accountant,1,No,No,Retirement Planning,3,Yes,No
+H003,48,Male,Urban,2000000,6,Private Sector Bank,Combination,8000000,No,None,Daily,Yes,Chartered Accountant,3,Yes,Yes,Wealth Growth,5,Yes,No
+H004,70,Male,Rural,800000,3,Co-operative Bank,Savings,1000000,No,None,Rarely,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H005,50,Female,Urban,1800000,5,Private Sector Bank,Current,7000000,Yes,Business Loan,Daily,Yes,Chartered Accountant,2,Yes,Yes,Wealth Growth,4,Yes,No
+H006,58,Male,Suburban,1100000,4,Public Sector Bank,Savings,2500000,No,None,Monthly,No,Tax Consultant,1,No,No,Education Funding,3,No,No
+H007,65,Male,Urban,1600000,6,Private Sector Bank,Combination,6000000,No,None,Weekly,Yes,Chartered Accountant,2,Yes,Yes,Tax Savings,4,Yes,No
+H008,75,Male,Rural,700000,3,Co-operative Bank,Savings,900000,No,None,Never,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H009,45,Male,Urban,2200000,7,Foreign Bank,Current,9000000,Yes,Property Loan,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H010,52,Male,Suburban,1300000,4,Private Sector Bank,Savings,3500000,No,None,Weekly,No,Tax Consultant,1,No,No,Retirement Planning,4,Yes,No
+H011,68,Male,Urban,1700000,5,Public Sector Bank,Current,6500000,No,None,Monthly,Yes,Chartered Accountant,2,Yes,Yes,Education Funding,4,Yes,No
+H012,72,Male,Rural,950000,3,Co-operative Bank,Savings,1200000,No,None,Rarely,No,Online Self-Filed,1,No,No,Asset Protection,3,No,No
+H013,59,Male,Urban,1900000,6,Private Sector Bank,Combination,7500000,Yes,Business Loan,Daily,Yes,Chartered Accountant,3,Yes,Yes,Wealth Growth,5,Yes,No
+H014,63,Male,Suburban,1000000,4,Public Sector Bank,Savings,2000000,No,None,Weekly,No,Tax Consultant,1,No,No,Tax Savings,3,No,No
+H015,57,Male,Urban,2100000,7,Foreign Bank,Current,10000000,No,None,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H016,60,Male,Suburban,1400000,5,Private Sector Bank,Savings,4000000,Yes,Property Loan,Weekly,No,Tax Consultant,2,No,No,Retirement Planning,4,Yes,No
+H017,49,Male,Urban,1750000,6,Public Sector Bank,Combination,7000000,No,None,Monthly,Yes,Chartered Accountant,3,Yes,Yes,Education Funding,4,Yes,No
+H018,74,Male,Rural,850000,3,Co-operative Bank,Savings,1100000,No,None,Never,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H019,53,Male,Urban,2300000,7,Foreign Bank,Current,9500000,Yes,Business Loan,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H020,66,Male,Suburban,1250000,4,Private Sector Bank,Savings,3200000,No,None,Weekly,No,Tax Consultant,1,No,No,Tax Savings,3,Yes,No
+H021,55,Male,Urban,1550000,5,Private Sector Bank,Current,5200000,No,None,Daily,Yes,Chartered Accountant,2,Yes,Yes,Wealth Growth,4,Yes,No
+H022,62,Male,Suburban,1150000,4,Public Sector Bank,Savings,2800000,Yes,Property Loan,Weekly,No,Chartered Accountant,1,No,No,Retirement Planning,3,Yes,No
+H023,48,Male,Urban,2100000,6,Private Sector Bank,Combination,8200000,No,None,Daily,Yes,Chartered Accountant,3,Yes,Yes,Wealth Growth,5,Yes,No
+H024,70,Male,Rural,820000,3,Co-operative Bank,Savings,1050000,No,None,Rarely,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H025,50,Female,Urban,1850000,5,Private Sector Bank,Current,7200000,Yes,Business Loan,Daily,Yes,Chartered Accountant,2,Yes,Yes,Wealth Growth,4,Yes,No
+H026,58,Male,Suburban,1050000,4,Public Sector Bank,Savings,2400000,No,None,Monthly,No,Tax Consultant,1,No,No,Education Funding,3,No,No
+H027,65,Male,Urban,1650000,6,Private Sector Bank,Combination,6200000,No,None,Weekly,Yes,Chartered Accountant,2,Yes,Yes,Tax Savings,4,Yes,No
+H028,75,Male,Rural,720000,3,Co-operative Bank,Savings,920000,No,None,Never,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H029,45,Male,Urban,2250000,7,Foreign Bank,Current,9200000,Yes,Property Loan,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H030,52,Male,Suburban,1350000,4,Private Sector Bank,Savings,3700000,No,None,Weekly,No,Tax Consultant,1,No,No,Retirement Planning,4,Yes,No
+H031,68,Male,Urban,1750000,5,Public Sector Bank,Current,6700000,No,None,Monthly,Yes,Chartered Accountant,2,Yes,Yes,Education Funding,4,Yes,No
+H032,72,Male,Rural,980000,3,Co-operative Bank,Savings,1250000,No,None,Rarely,No,Online Self-Filed,1,No,No,Asset Protection,3,No,No
+H033,59,Male,Urban,1950000,6,Private Sector Bank,Combination,7800000,Yes,Business Loan,Daily,Yes,Chartered Accountant,3,Yes,Yes,Wealth Growth,5,Yes,No
+H034,63,Male,Suburban,1050000,4,Public Sector Bank,Savings,2100000,No,None,Weekly,No,Tax Consultant,1,No,No,Tax Savings,3,No,No
+H035,57,Male,Urban,2150000,7,Foreign Bank,Current,10200000,No,None,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H036,60,Male,Suburban,1450000,5,Private Sector Bank,Savings,4200000,Yes,Property Loan,Weekly,No,Tax Consultant,2,No,No,Retirement Planning,4,Yes,No
+H037,49,Male,Urban,1800000,6,Public Sector Bank,Combination,7200000,No,None,Monthly,Yes,Chartered Accountant,3,Yes,Yes,Education Funding,4,Yes,No
+H038,74,Male,Rural,880000,3,Co-operative Bank,Savings,1150000,No,None,Never,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H039,53,Male,Urban,2350000,7,Foreign Bank,Current,9700000,Yes,Business Loan,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H040,66,Male,Suburban,1300000,4,Private Sector Bank,Savings,3400000,No,None,Weekly,No,Tax Consultant,1,No,No,Tax Savings,3,Yes,No
+H041,55,Male,Urban,1600000,5,Private Sector Bank,Current,5400000,No,None,Daily,Yes,Chartered Accountant,2,Yes,Yes,Wealth Growth,4,Yes,No
+H042,62,Male,Suburban,1180000,4,Public Sector Bank,Savings,2900000,Yes,Property Loan,Weekly,No,Chartered Accountant,1,No,No,Retirement Planning,3,Yes,No
+H043,48,Male,Urban,2150000,6,Private Sector Bank,Combination,8400000,No,None,Daily,Yes,Chartered Accountant,3,Yes,Yes,Wealth Growth,5,Yes,No
+H044,70,Male,Rural,840000,3,Co-operative Bank,Savings,1080000,No,None,Rarely,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H045,50,Female,Urban,1900000,5,Private Sector Bank,Current,7400000,Yes,Business Loan,Daily,Yes,Chartered Accountant,2,Yes,Yes,Wealth Growth,4,Yes,No
+H046,58,Male,Suburban,1080000,4,Public Sector Bank,Savings,2500000,No,None,Monthly,No,Tax Consultant,1,No,No,Education Funding,3,No,No
+H047,65,Male,Urban,1700000,6,Private Sector Bank,Combination,6400000,No,None,Weekly,Yes,Chartered Accountant,2,Yes,Yes,Tax Savings,4,Yes,No
+H048,75,Male,Rural,740000,3,Co-operative Bank,Savings,940000,No,None,Never,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H049,45,Male,Urban,2300000,7,Foreign Bank,Current,9400000,Yes,Property Loan,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H050,52,Male,Suburban,1380000,4,Private Sector Bank,Savings,3900000,No,None,Weekly,No,Tax Consultant,1,No,No,Retirement Planning,4,Yes,No
+H051,68,Male,Urban,1800000,5,Public Sector Bank,Current,6900000,No,None,Monthly,Yes,Chartered Accountant,2,Yes,Yes,Education Funding,4,Yes,No
+H052,72,Male,Rural,1000000,3,Co-operative Bank,Savings,1280000,No,None,Rarely,No,Online Self-Filed,1,No,No,Asset Protection,3,No,No
+H053,59,Male,Urban,2000000,6,Private Sector Bank,Combination,8000000,Yes,Business Loan,Daily,Yes,Chartered Accountant,3,Yes,Yes,Wealth Growth,5,Yes,No
+H054,63,Male,Suburban,1080000,4,Public Sector Bank,Savings,2200000,No,None,Weekly,No,Tax Consultant,1,No,No,Tax Savings,3,No,No
+H055,57,Male,Urban,2200000,7,Foreign Bank,Current,10400000,No,None,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H056,60,Male,Suburban,1480000,5,Private Sector Bank,Savings,4400000,Yes,Property Loan,Weekly,No,Tax Consultant,2,No,No,Retirement Planning,4,Yes,No
+H057,49,Male,Urban,1850000,6,Public Sector Bank,Combination,7400000,No,None,Monthly,Yes,Chartered Accountant,3,Yes,Yes,Education Funding,4,Yes,No
+H058,74,Male,Rural,900000,3,Co-operative Bank,Savings,1180000,No,None,Never,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H059,53,Male,Urban,2400000,7,Foreign Bank,Current,9900000,Yes,Business Loan,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H060,66,Male,Suburban,1350000,4,Private Sector Bank,Savings,3600000,No,None,Weekly,No,Tax Consultant,1,No,No,Tax Savings,3,Yes,No
+H061,55,Male,Urban,1650000,5,Private Sector Bank,Current,5600000,No,None,Daily,Yes,Chartered Accountant,2,Yes,Yes,Wealth Growth,4,Yes,No
+H062,62,Male,Suburban,1200000,4,Public Sector Bank,Savings,3000000,Yes,Property Loan,Weekly,No,Chartered Accountant,1,No,No,Retirement Planning,3,Yes,No
+H063,48,Male,Urban,2200000,6,Private Sector Bank,Combination,8600000,No,None,Daily,Yes,Chartered Accountant,3,Yes,Yes,Wealth Growth,5,Yes,No
+H064,70,Male,Rural,860000,3,Co-operative Bank,Savings,1100000,No,None,Rarely,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H065,50,Female,Urban,1950000,5,Private Sector Bank,Current,7600000,Yes,Business Loan,Daily,Yes,Chartered Accountant,2,Yes,Yes,Wealth Growth,4,Yes,No
+H066,58,Male,Suburban,1100000,4,Public Sector Bank,Savings,2600000,No,None,Monthly,No,Tax Consultant,1,No,No,Education Funding,3,No,No
+H067,65,Male,Urban,1750000,6,Private Sector Bank,Combination,6600000,No,None,Weekly,Yes,Chartered Accountant,2,Yes,Yes,Tax Savings,4,Yes,No
+H068,75,Male,Rural,760000,3,Co-operative Bank,Savings,960000,No,None,Never,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H069,45,Male,Urban,2350000,7,Foreign Bank,Current,9600000,Yes,Property Loan,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H070,52,Male,Suburban,1400000,4,Private Sector Bank,Savings,4100000,No,None,Weekly,No,Tax Consultant,1,No,No,Retirement Planning,4,Yes,No
+H071,68,Male,Urban,1850000,5,Public Sector Bank,Current,7100000,No,None,Monthly,Yes,Chartered Accountant,2,Yes,Yes,Education Funding,4,Yes,No
+H072,72,Male,Rural,1020000,3,Co-operative Bank,Savings,1300000,No,None,Rarely,No,Online Self-Filed,1,No,No,Asset Protection,3,No,No
+H073,59,Male,Urban,2050000,6,Private Sector Bank,Combination,8200000,Yes,Business Loan,Daily,Yes,Chartered Accountant,3,Yes,Yes,Wealth Growth,5,Yes,No
+H074,63,Male,Suburban,1100000,4,Public Sector Bank,Savings,2300000,No,None,Weekly,No,Tax Consultant,1,No,No,Tax Savings,3,No,No
+H075,57,Male,Urban,2250000,7,Foreign Bank,Current,10600000,No,None,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H076,60,Male,Suburban,1500000,5,Private Sector Bank,Savings,4600000,Yes,Property Loan,Weekly,No,Tax Consultant,2,No,No,Retirement Planning,4,Yes,No
+H077,49,Male,Urban,1900000,6,Public Sector Bank,Combination,7600000,No,None,Monthly,Yes,Chartered Accountant,3,Yes,Yes,Education Funding,4,Yes,No
+H078,74,Male,Rural,920000,3,Co-operative Bank,Savings,1200000,No,None,Never,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H079,53,Male,Urban,2450000,7,Foreign Bank,Current,10100000,Yes,Business Loan,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H080,66,Male,Suburban,1400000,4,Private Sector Bank,Savings,3800000,No,None,Weekly,No,Tax Consultant,1,No,No,Tax Savings,3,Yes,No
+H081,55,Male,Urban,1700000,5,Private Sector Bank,Current,5800000,No,None,Daily,Yes,Chartered Accountant,2,Yes,Yes,Wealth Growth,4,Yes,No
+H082,62,Male,Suburban,1220000,4,Public Sector Bank,Savings,3100000,Yes,Property Loan,Weekly,No,Chartered Accountant,1,No,No,Retirement Planning,3,Yes,No
+H083,48,Male,Urban,2250000,6,Private Sector Bank,Combination,8800000,No,None,Daily,Yes,Chartered Accountant,3,Yes,Yes,Wealth Growth,5,Yes,No
+H084,70,Male,Rural,880000,3,Co-operative Bank,Savings,1120000,No,None,Rarely,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H085,50,Female,Urban,2000000,5,Private Sector Bank,Current,7800000,Yes,Business Loan,Daily,Yes,Chartered Accountant,2,Yes,Yes,Wealth Growth,4,Yes,No
+H086,58,Male,Suburban,1120000,4,Public Sector Bank,Savings,2700000,No,None,Monthly,No,Tax Consultant,1,No,No,Education Funding,3,No,No
+H087,65,Male,Urban,1800000,6,Private Sector Bank,Combination,6800000,No,None,Weekly,Yes,Chartered Accountant,2,Yes,Yes,Tax Savings,4,Yes,No
+H088,75,Male,Rural,780000,3,Co-operative Bank,Savings,980000,No,None,Never,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H089,45,Male,Urban,2400000,7,Foreign Bank,Current,9800000,Yes,Property Loan,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H090,52,Male,Suburban,1420000,4,Private Sector Bank,Savings,4300000,No,None,Weekly,No,Tax Consultant,1,No,No,Retirement Planning,4,Yes,No
+H091,68,Male,Urban,1900000,5,Public Sector Bank,Current,7300000,No,None,Monthly,Yes,Chartered Accountant,2,Yes,Yes,Education Funding,4,Yes,No
+H092,72,Male,Rural,1040000,3,Co-operative Bank,Savings,1320000,No,None,Rarely,No,Online Self-Filed,1,No,No,Asset Protection,3,No,No
+H093,59,Male,Urban,2100000,6,Private Sector Bank,Combination,8400000,Yes,Business Loan,Daily,Yes,Chartered Accountant,3,Yes,Yes,Wealth Growth,5,Yes,No
+H094,63,Male,Suburban,1120000,4,Public Sector Bank,Savings,2400000,No,None,Weekly,No,Tax Consultant,1,No,No,Tax Savings,3,No,No
+H095,57,Male,Urban,2300000,7,Foreign Bank,Current,10800000,No,None,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H096,60,Male,Suburban,1520000,5,Private Sector Bank,Savings,4800000,Yes,Property Loan,Weekly,No,Tax Consultant,2,No,No,Retirement Planning,4,Yes,No
+H097,49,Male,Urban,1950000,6,Public Sector Bank,Combination,7800000,No,None,Monthly,Yes,Chartered Accountant,3,Yes,Yes,Education Funding,4,Yes,No
+H098,74,Male,Rural,940000,3,Co-operative Bank,Savings,1220000,No,None,Never,No,Online Self-Filed,1,No,No,Asset Protection,2,No,No
+H099,53,Male,Urban,2500000,7,Foreign Bank,Current,10300000,Yes,Business Loan,Daily,Yes,Chartered Accountant,4,Yes,Yes,Wealth Growth,5,Yes,No
+H100,66,Male,Suburban,1450000,4,Private Sector Bank,Savings,4000000,No,None,Weekly,No,Tax Consultant,1,No,No,Tax Savings,3,Yes,No

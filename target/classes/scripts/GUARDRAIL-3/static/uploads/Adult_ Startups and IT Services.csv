@@ -1,0 +1,101 @@
+﻿IndividualID,Age,Gender,LocationType,HouseholdIncome_USD,EducationLevel,EmploymentStatus,RoleInIT/Startup,YearsExperience_IT/Startup,UsesStartupProducts,UsesITServices_Personal,ComfortWithNewTech,InterestInStartupCulture,AttendsTechEvents,InvestsInStartups,PerceivedJobSecurity_IT/Startup,PreferenceForCompanySize,FamiliarWithCloudComputing,CybersecurityAwareness,ParticipatesInBetaPrograms
+IT001,35,Female,Urban,85000,Bachelor's,Employed - IT Services,Software Engineer,7,Yes,Yes,High,Yes,Yes,No,4,Medium,Yes,High,Yes
+IT002,42,Male,Suburban,120000,Master's,Employed - Startup,Founder/CxO,15,Yes,Yes,High,Yes,Yes,Yes,5,Startup (<50),Yes,High,Yes
+IT003,28,Female,Urban,65000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Large (>1000),No,Medium,No
+IT004,65,Male,Rural,40000,High School,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT005,30,Other,Urban,90000,Bachelor's,Employed - IT Services,Sales/Marketing,5,Yes,Yes,High,Yes,Yes,No,4,Small (50-250),Yes,Medium,No
+IT006,55,Female,Suburban,150000,Master's,Employed - Startup,Project Manager,20,Yes,Yes,High,Yes,Yes,Yes,5,Startup (<50),Yes,High,No
+IT007,24,Male,Urban,45000,High School,Student,N/A,0,Yes,No,Medium,Yes,Yes,No,N/A,No Preference,No,Medium,Yes
+IT008,72,Female,Rural,35000,High School,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT009,42,Male,Urban,130000,Master's,Employed - IT Services,Software Engineer,18,Yes,Yes,High,Yes,Yes,Yes,5,Large (>1000),Yes,High,Yes
+IT010,33,Female,Suburban,70000,Bachelor's,Employed - Other Industry,N/A,0,Yes,Yes,Medium,No,No,No,N/A,Medium (250-1000),Yes,Medium,No
+IT011,29,Male,Urban,60000,Bachelor's,Employed - Startup,Other Tech,4,Yes,Yes,High,Yes,Yes,No,4,Startup (<50),Yes,Medium,Yes
+IT012,60,Female,Rural,85000,Master's,Employed - IT Services,Project Manager,25,Yes,Yes,Medium,No,No,No,4,Large (>1000),Yes,High,No
+IT013,27,Other,Urban,68000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Small (50-250),No,Medium,No
+IT014,78,Male,Suburban,58000,PhD,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT015,44,Female,Urban,160000,Master's,Employed - Startup,Founder/CxO,22,Yes,Yes,High,Yes,Yes,Yes,5,Startup (<50),Yes,High,Yes
+IT016,36,Male,Suburban,95000,Bachelor's,Employed - IT Services,Software Engineer,10,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes
+IT017,23,Female,Urban,40000,High School,Student,N/A,0,Yes,No,Low,Yes,No,No,N/A,No Preference,No,Basic,No
+IT018,70,Male,Rural,50000,Bachelor's,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT019,31,Other,Urban,80000,Master's,Employed - Other Industry,N/A,0,Yes,Yes,Medium,No,No,No,N/A,Large (>1000),Yes,Medium,No
+IT020,49,Female,Suburban,140000,Master's,Employed - IT Services,Project Manager,20,Yes,Yes,High,Yes,Yes,Yes,5,Medium (250-1000),Yes,High,No
+IT021,26,Male,Urban,50000,Bachelor's,Employed - Startup,Software Engineer,3,Yes,Yes,High,Yes,Yes,No,4,Startup (<50),Yes,Medium,Yes
+IT022,64,Female,Suburban,68000,High School,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT023,34,Male,Urban,100000,Bachelor's,Employed - IT Services,Software Engineer,8,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes
+IT024,47,Female,Rural,110000,Master's,Employed - Startup,Sales/Marketing,18,Yes,Yes,High,Yes,Yes,Yes,5,Small (50-250),Yes,High,No
+IT025,29,Other,Urban,60000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Large (>1000),No,Medium,No
+IT026,75,Male,Suburban,72000,PhD,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT027,41,Female,Urban,155000,Master's,Employed - IT Services,Executive,20,Yes,Yes,High,Yes,Yes,Yes,5,Large (>1000),Yes,High,Yes
+IT028,32,Male,Suburban,80000,Bachelor's,Employed - Startup,Other Tech,6,Yes,Yes,High,Yes,Yes,No,4,Startup (<50),Yes,Medium,Yes
+IT029,25,Female,Urban,48000,High School,Student,N/A,0,Yes,No,Medium,Yes,No,No,N/A,No Preference,No,Basic,No
+IT030,58,Male,Rural,63000,Bachelor's,Homemaker,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT031,37,Other,Urban,90000,Master's,Employed - IT Services,Software Engineer,11,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes
+IT032,46,Female,Suburban,125000,Master's,Employed - Startup,Project Manager,19,Yes,Yes,High,Yes,Yes,Yes,5,Small (50-250),Yes,High,No
+IT033,28,Male,Urban,53000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Large (>1000),No,Medium,No
+IT034,65,Female,Suburban,68000,High School,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT035,40,Male,Urban,145000,Master's,Employed - IT Services,Executive,18,Yes,Yes,High,Yes,Yes,Yes,5,Large (>1000),Yes,High,Yes
+IT036,30,Female,Suburban,75000,Bachelor's,Employed - Startup,Sales/Marketing,5,Yes,Yes,High,Yes,Yes,No,4,Startup (<50),Yes,Medium,No
+IT037,24,Other,Urban,47000,Bachelor's,Student,N/A,0,Yes,No,Low,Yes,No,No,N/A,No Preference,No,Basic,No
+IT038,78,Male,Rural,60000,PhD,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT039,45,Female,Urban,165000,Master's,Employed - Startup,Founder/CxO,23,Yes,Yes,High,Yes,Yes,Yes,5,Startup (<50),Yes,High,Yes
+IT040,33,Male,Suburban,83000,Bachelor's,Employed - IT Services,Software Engineer,8,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes
+IT041,27,Female,Urban,52000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Small (50-250),No,Medium,No
+IT042,62,Male,Suburban,70000,High School,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT043,38,Female,Urban,100000,Master's,Employed - IT Services,Project Manager,13,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes
+IT044,49,Male,Rural,115000,Master's,Employed - Startup,Other Tech,20,Yes,Yes,High,Yes,Yes,Yes,5,Small (50-250),Yes,High,No
+IT045,29,Other,Urban,65000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Large (>1000),No,Medium,No
+IT046,70,Other,Suburban,75000,PhD,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT047,43,Male,Urban,150000,Master's,Employed - IT Services,Executive,21,Yes,Yes,High,Yes,Yes,Yes,5,Large (>1000),Yes,High,Yes
+IT048,31,Female,Suburban,77000,Bachelor's,Employed - Startup,Software Engineer,6,Yes,Yes,High,Yes,Yes,No,4,Startup (<50),Yes,Medium,Yes
+IT049,26,Male,Urban,50000,High School,Student,N/A,0,Yes,No,Low,Yes,No,No,N/A,No Preference,No,Basic,No
+IT050,57,Female,Rural,68000,Bachelor's,Homemaker,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT051,34,Other,Urban,88000,Master's,Employed - IT Services,Software Engineer,9,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes
+IT052,48,Male,Suburban,120000,Master's,Employed - Startup,Project Manager,22,Yes,Yes,High,Yes,Yes,Yes,5,Small (50-250),Yes,High,No
+IT053,28,Female,Urban,55000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Large (>1000),No,Medium,No
+IT054,66,Male,Suburban,70000,High School,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT055,41,Female,Urban,150000,Master's,Employed - IT Services,Executive,19,Yes,Yes,High,Yes,Yes,Yes,5,Large (>1000),Yes,High,Yes
+IT056,32,Male,Suburban,76000,Bachelor's,Employed - Startup,Sales/Marketing,7,Yes,Yes,High,Yes,Yes,No,4,Startup (<50),Yes,Medium,No
+IT057,25,Other,Urban,49000,Bachelor's,Student,N/A,0,Yes,No,Low,Yes,No,No,N/A,No Preference,No,Basic,No
+IT058,79,Female,Rural,62000,PhD,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT059,44,Male,Urban,160000,Master's,Employed - Startup,Founder/CxO,24,Yes,Yes,High,Yes,Yes,Yes,5,Startup (<50),Yes,High,Yes
+IT060,33,Female,Suburban,81000,Bachelor's,Employed - IT Services,Software Engineer,9,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes
+IT061,27,Male,Urban,54000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Small (50-250),No,Medium,No
+IT062,63,Female,Suburban,69000,High School,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT063,39,Male,Urban,92000,Master's,Employed - IT Services,Project Manager,14,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes
+IT064,50,Female,Rural,97000,Master's,Employed - Startup,Other Tech,20,Yes,Yes,High,Yes,Yes,Yes,5,Small (50-250),Yes,High,No
+IT065,30,Other,Urban,67000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Large (>1000),No,Medium,No
+IT066,71,Male,Suburban,73000,PhD,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT067,42,Female,Urban,155000,Master's,Employed - IT Services,Executive,22,Yes,Yes,High,Yes,Yes,Yes,5,Large (>1000),Yes,High,Yes
+IT068,31,Male,Suburban,79000,Bachelor's,Employed - Startup,Software Engineer,7,Yes,Yes,High,Yes,Yes,No,4,Startup (<50),Yes,Medium,Yes
+IT069,26,Female,Urban,51000,High School,Student,N/A,0,Yes,No,Low,Yes,No,No,N/A,No Preference,No,Basic,No
+IT070,59,Male,Rural,64000,Bachelor's,Homemaker,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT071,35,Other,Urban,88000,Master's,Employed - IT Services,Software Engineer,10,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes
+IT072,47,Male,Suburban,120000,Master's,Employed - Startup,Project Manager,23,Yes,Yes,High,Yes,Yes,Yes,5,Small (50-250),Yes,High,No
+IT073,29,Female,Urban,56000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Large (>1000),No,Medium,No
+IT074,67,Male,Suburban,70000,High School,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT075,40,Female,Urban,145000,Master's,Employed - IT Services,Executive,20,Yes,Yes,High,Yes,Yes,Yes,5,Large (>1000),Yes,High,Yes
+IT076,30,Male,Suburban,76000,Bachelor's,Employed - Startup,Sales/Marketing,6,Yes,Yes,High,Yes,Yes,No,4,Startup (<50),Yes,Medium,No
+IT077,24,Other,Urban,48000,Bachelor's,Student,N/A,0,Yes,No,Low,Yes,No,No,N/A,No Preference,No,Basic,No
+IT078,80,Female,Rural,63000,PhD,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT079,45,Male,Urban,165000,Master's,Employed - Startup,Founder/CxO,25,Yes,Yes,High,Yes,Yes,Yes,5,Startup (<50),Yes,High,Yes
+IT080,33,Female,Suburban,83000,Bachelor's,Employed - IT Services,Software Engineer,9,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes
+IT081,27,Male,Urban,55000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Small (50-250),No,Medium,No
+IT082,64,Female,Suburban,71000,High School,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT083,39,Male,Urban,93000,Master's,Employed - IT Services,Project Manager,15,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes
+IT084,51,Female,Rural,98000,Master's,Employed - Startup,Other Tech,21,Yes,Yes,High,Yes,Yes,Yes,5,Small (50-250),Yes,High,No
+IT085,30,Other,Urban,68000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Large (>1000),No,Medium,No
+IT086,72,Male,Suburban,74000,PhD,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT087,43,Female,Urban,150000,Master's,Employed - IT Services,Executive,23,Yes,Yes,High,Yes,Yes,Yes,5,Large (>1000),Yes,High,Yes
+IT088,31,Male,Suburban,80000,Bachelor's,Employed - Startup,Software Engineer,8,Yes,Yes,High,Yes,Yes,No,4,Startup (<50),Yes,Medium,Yes
+IT089,26,Female,Urban,52000,High School,Student,N/A,0,Yes,No,Low,Yes,No,No,N/A,No Preference,No,Basic,No
+IT090,58,Male,Rural,65000,Bachelor's,Homemaker,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT091,35,Other,Urban,87000,Master's,Employed - IT Services,Software Engineer,11,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes
+IT092,48,Male,Suburban,121000,Master's,Employed - Startup,Project Manager,24,Yes,Yes,High,Yes,Yes,Yes,5,Small (50-250),Yes,High,No
+IT093,29,Female,Urban,57000,Bachelor's,Employed - Other Industry,N/A,0,Yes,No,Medium,Yes,No,No,N/A,Large (>1000),No,Medium,No
+IT094,65,Male,Suburban,72000,High School,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT095,40,Female,Urban,148000,Master's,Employed - IT Services,Executive,21,Yes,Yes,High,Yes,Yes,Yes,5,Large (>1000),Yes,High,Yes
+IT096,30,Male,Suburban,77000,Bachelor's,Employed - Startup,Sales/Marketing,7,Yes,Yes,High,Yes,Yes,No,4,Startup (<50),Yes,Medium,No
+IT097,24,Other,Urban,49000,Bachelor's,Student,N/A,0,Yes,No,Low,Yes,No,No,N/A,No Preference,No,Basic,No
+IT098,81,Female,Rural,64000,PhD,Retired,N/A,0,No,No,Low,No,No,No,N/A,No Preference,No,Low,No
+IT099,45,Male,Urban,167000,Master's,Employed - Startup,Founder/CxO,26,Yes,Yes,High,Yes,Yes,Yes,5,Startup (<50),Yes,High,Yes
+IT100,33,Female,Suburban,84000,Bachelor's,Employed - IT Services,Software Engineer,10,Yes,Yes,High,Yes,Yes,No,4,Medium (250-1000),Yes,High,Yes

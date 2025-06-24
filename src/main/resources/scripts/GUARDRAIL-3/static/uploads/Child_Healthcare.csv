@@ -1,0 +1,101 @@
+﻿PatientID,Age_Years,Gender,LocationType,HouseholdIncome_USD,InsuranceType,PrimaryCareVisits_Last12Months,SpecialistVisits_Last12Months,VaccinationStatus,ChronicCondition,Allergies,EmergencyVisits_Last12Months,HospitalAdmissions_Last12Months,MedicationPrescribed_Currently,AccessToHealthcare,PreventiveCareReceived,GuardianHealthLiteracy,TelehealthUsed_Last12Months,OverallHealthRating,DentalCheckups_Last12Months,VisionScreening_Last12Months
+C001,8,Male,Urban,75000,Private,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C002,5,Female,Suburban,60000,Employer-Sponsored,3,1,Up-to-Date,No,Yes,0,0,Yes,Easy,Yes,High,No,4,1,Yes
+C003,12,Other,Urban,45000,Public/Government,1,0,Partially Vaccinated,No,No,0,0,No,Moderate,Yes,Medium,No,4,1,Yes
+C004,3,Male,Rural,30000,Public/Government,4,0,Up-to-Date,Yes,No,1,0,Yes,Difficult,No,Low,No,3,0,No
+C005,15,Female,Urban,90000,Private,1,1,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C006,7,Male,Suburban,80000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C007,10,Female,Urban,55000,Private,2,1,Up-to-Date,Yes,Yes,0,0,Yes,Moderate,Yes,Medium,Yes,4,1,Yes
+C008,1,Other,Rural,25000,Public/Government,5,0,Not Vaccinated,No,No,1,0,No,Difficult,No,Low,No,2,0,No
+C009,16,Male,Urban,100000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C010,4,Female,Suburban,70000,Employer-Sponsored,3,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C011,9,Male,Urban,65000,Public/Government,2,1,Partially Vaccinated,No,Yes,0,0,Yes,Moderate,Yes,Medium,No,4,1,Yes
+C012,6,Female,Rural,38000,Public/Government,3,0,Up-to-Date,No,No,0,0,No,Difficult,No,Low,No,3,0,No
+C013,13,Other,Urban,85000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C014,2,Male,Suburban,50000,Employer-Sponsored,4,0,Up-to-Date,Yes,No,1,0,Yes,Moderate,No,Medium,No,3,0,No
+C015,17,Female,Urban,110000,Private,1,1,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C016,11,Male,Suburban,78000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,4,1,Yes
+C017,4,Female,Urban,52000,Public/Government,3,0,Partially Vaccinated,No,Yes,0,0,No,Moderate,Yes,Medium,No,4,1,Yes
+C018,1,Other,Rural,28000,Public/Government,5,0,Not Vaccinated,No,No,1,0,No,Difficult,No,Low,No,2,0,No
+C019,14,Male,Urban,95000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C020,7,Female,Suburban,72000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C021,9,Male,Urban,60000,Public/Government,2,1,Up-to-Date,Yes,Yes,0,0,Yes,Moderate,Yes,Medium,Yes,4,1,Yes
+C022,3,Female,Rural,32000,Public/Government,4,0,Up-to-Date,No,No,0,0,No,Difficult,No,Low,No,3,0,No
+C023,16,Other,Urban,105000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C024,5,Male,Suburban,68000,Employer-Sponsored,3,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C025,12,Female,Urban,48000,Private,1,0,Partially Vaccinated,No,No,0,0,No,Moderate,Yes,Medium,No,4,1,Yes
+C026,1,Other,Rural,29000,Public/Government,5,0,Not Vaccinated,No,No,1,0,No,Difficult,No,Low,No,2,0,No
+C027,15,Male,Urban,92000,Private,1,1,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C028,8,Female,Suburban,70000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,4,1,Yes
+C029,10,Male,Urban,58000,Public/Government,2,1,Up-to-Date,Yes,Yes,0,0,Yes,Moderate,Yes,Medium,Yes,4,1,Yes
+C030,2,Female,Rural,35000,Public/Government,4,0,Up-to-Date,No,No,0,0,No,Difficult,No,Low,No,3,0,No
+C031,17,Other,Urban,115000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C032,6,Male,Suburban,76000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C033,9,Female,Urban,62000,Private,2,1,Partially Vaccinated,No,Yes,0,0,No,Moderate,Yes,Medium,No,4,1,Yes
+C034,4,Male,Rural,37000,Public/Government,3,0,Up-to-Date,No,No,0,0,No,Difficult,No,Low,No,3,0,No
+C035,13,Female,Urban,88000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C036,2,Other,Suburban,53000,Employer-Sponsored,4,0,Up-to-Date,Yes,No,1,0,Yes,Moderate,No,Medium,No,3,0,No
+C037,16,Male,Urban,102000,Private,1,1,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C038,7,Female,Suburban,74000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C039,11,Male,Urban,59000,Public/Government,2,1,Up-to-Date,Yes,Yes,0,0,Yes,Moderate,Yes,Medium,Yes,4,1,Yes
+C040,1,Female,Rural,30000,Public/Government,5,0,Not Vaccinated,No,No,1,0,No,Difficult,No,Low,No,2,0,No
+C041,14,Other,Urban,97000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C042,5,Male,Suburban,66000,Employer-Sponsored,3,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C043,12,Female,Urban,47000,Private,1,0,Partially Vaccinated,No,No,0,0,No,Moderate,Yes,Medium,No,4,1,Yes
+C044,3,Other,Rural,31000,Public/Government,4,0,Up-to-Date,Yes,No,1,0,Yes,Difficult,No,Low,No,3,0,No
+C045,15,Male,Urban,90000,Private,1,1,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C046,8,Female,Suburban,73000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,4,1,Yes
+C047,10,Male,Urban,57000,Public/Government,2,1,Up-to-Date,Yes,Yes,0,0,Yes,Moderate,Yes,Medium,Yes,4,1,Yes
+C048,2,Female,Rural,34000,Public/Government,4,0,Up-to-Date,No,No,0,0,No,Difficult,No,Low,No,3,0,No
+C049,17,Other,Urban,112000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C050,6,Male,Suburban,75000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C051,9,Female,Urban,63000,Private,2,1,Partially Vaccinated,No,Yes,0,0,No,Moderate,Yes,Medium,No,4,1,Yes
+C052,4,Male,Rural,36000,Public/Government,3,0,Up-to-Date,No,No,0,0,No,Difficult,No,Low,No,3,0,No
+C053,13,Female,Urban,89000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C054,2,Other,Suburban,54000,Employer-Sponsored,4,0,Up-to-Date,Yes,No,1,0,Yes,Moderate,No,Medium,No,3,0,No
+C055,16,Male,Urban,103000,Private,1,1,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C056,7,Female,Suburban,75000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C057,11,Male,Urban,60000,Public/Government,2,1,Up-to-Date,Yes,Yes,0,0,Yes,Moderate,Yes,Medium,Yes,4,1,Yes
+C058,1,Female,Rural,30000,Public/Government,5,0,Not Vaccinated,No,No,1,0,No,Difficult,No,Low,No,2,0,No
+C059,14,Other,Urban,98000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C060,5,Male,Suburban,67000,Employer-Sponsored,3,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C061,12,Female,Urban,48000,Private,1,0,Partially Vaccinated,No,No,0,0,No,Moderate,Yes,Medium,No,4,1,Yes
+C062,3,Other,Rural,32000,Public/Government,4,0,Up-to-Date,Yes,No,1,0,Yes,Difficult,No,Low,No,3,0,No
+C063,15,Male,Urban,91000,Private,1,1,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C064,8,Female,Suburban,74000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,4,1,Yes
+C065,10,Male,Urban,58000,Public/Government,2,1,Up-to-Date,Yes,Yes,0,0,Yes,Moderate,Yes,Medium,Yes,4,1,Yes
+C066,2,Female,Rural,35000,Public/Government,4,0,Up-to-Date,No,No,0,0,No,Difficult,No,Low,No,3,0,No
+C067,17,Other,Urban,113000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C068,6,Male,Suburban,76000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C069,9,Female,Urban,62000,Private,2,1,Partially Vaccinated,No,Yes,0,0,No,Moderate,Yes,Medium,No,4,1,Yes
+C070,4,Male,Rural,37000,Public/Government,3,0,Up-to-Date,No,No,0,0,No,Difficult,No,Low,No,3,0,No
+C071,13,Female,Urban,88000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C072,2,Other,Suburban,53000,Employer-Sponsored,4,0,Up-to-Date,Yes,No,1,0,Yes,Moderate,No,Medium,No,3,0,No
+C073,16,Male,Urban,102000,Private,1,1,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C074,7,Female,Suburban,74000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C075,11,Male,Urban,59000,Public/Government,2,1,Up-to-Date,Yes,Yes,0,0,Yes,Moderate,Yes,Medium,Yes,4,1,Yes
+C076,1,Female,Rural,30000,Public/Government,5,0,Not Vaccinated,No,No,1,0,No,Difficult,No,Low,No,2,0,No
+C077,14,Other,Urban,97000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C078,5,Male,Suburban,66000,Employer-Sponsored,3,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C079,12,Female,Urban,47000,Private,1,0,Partially Vaccinated,No,No,0,0,No,Moderate,Yes,Medium,No,4,1,Yes
+C080,3,Other,Rural,31000,Public/Government,4,0,Up-to-Date,Yes,No,1,0,Yes,Difficult,No,Low,No,3,0,No
+C081,15,Male,Urban,90000,Private,1,1,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C082,8,Female,Suburban,73000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,4,1,Yes
+C083,10,Male,Urban,57000,Public/Government,2,1,Up-to-Date,Yes,Yes,0,0,Yes,Moderate,Yes,Medium,Yes,4,1,Yes
+C084,2,Female,Rural,34000,Public/Government,4,0,Up-to-Date,No,No,0,0,No,Difficult,No,Low,No,3,0,No
+C085,17,Other,Urban,112000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C086,6,Male,Suburban,75000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C087,9,Female,Urban,63000,Private,2,1,Partially Vaccinated,No,Yes,0,0,No,Moderate,Yes,Medium,No,4,1,Yes
+C088,4,Male,Rural,36000,Public/Government,3,0,Up-to-Date,No,No,0,0,No,Difficult,No,Low,No,3,0,No
+C089,13,Female,Urban,89000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C090,2,Other,Suburban,54000,Employer-Sponsored,4,0,Up-to-Date,Yes,No,1,0,Yes,Moderate,No,Medium,No,3,0,No
+C091,16,Male,Urban,103000,Private,1,1,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C092,7,Female,Suburban,75000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C093,11,Male,Urban,60000,Public/Government,2,1,Up-to-Date,Yes,Yes,0,0,Yes,Moderate,Yes,Medium,Yes,4,1,Yes
+C094,1,Female,Rural,30000,Public/Government,5,0,Not Vaccinated,No,No,1,0,No,Difficult,No,Low,No,2,0,No
+C095,14,Other,Urban,98000,Private,1,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C096,5,Male,Suburban,67000,Employer-Sponsored,3,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,5,1,Yes
+C097,12,Female,Urban,48000,Private,1,0,Partially Vaccinated,No,No,0,0,No,Moderate,Yes,Medium,No,4,1,Yes
+C098,3,Other,Rural,32000,Public/Government,4,0,Up-to-Date,Yes,No,1,0,Yes,Difficult,No,Low,No,3,0,No
+C099,15,Male,Urban,91000,Private,1,1,Up-to-Date,No,No,0,0,No,Easy,Yes,High,Yes,5,1,Yes
+C100,8,Female,Suburban,74000,Employer-Sponsored,2,0,Up-to-Date,No,No,0,0,No,Easy,Yes,High,No,4,1,Yes

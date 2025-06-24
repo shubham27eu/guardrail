@@ -1,0 +1,101 @@
+﻿CompanyID,Industry,CompanySize_Employees,Location_Type,AnnualRevenue_USD,HR_SoftwareUsed,HR_TechAdoptionLevel,RemoteWorkPolicy,RecruitmentMethod_Primary,EmployeeTurnoverRate_Annual,TrainingBudget_PerEmployee_USD,PerformanceReviewFrequency,EmployeeEngagementPlatform,EmployeeBenefitsRating,DedicatedHRTeam,AI_InHR_Used,CandidateExperienceRating,EmployeeWellnessPrograms,DiversityInclusionPrograms,UseOfGigWorkers,HR_TechSatisfaction
+CO01,IT Services,500,Urban,50000000,Integrated HRIS,High,Hybrid,Online Job Boards,15,1000,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO02,Manufacturing,200,Suburban,20000000,Standalone HRMS,Medium,Fully On-site,Referrals,20,500,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO03,Healthcare,1000,Urban,100000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,12,1200,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO04,Retail,50,Urban,5000000,Payroll Software,Low,Fully On-site,Online Job Boards,25,200,Annually,No,2,No,No,2,No,No,Yes,2
+CO05,Finance,300,Suburban,30000000,Integrated HRIS,High,Hybrid,Referrals,10,1500,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO06,Education,150,Urban,15000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,18,600,Annually,No,3,Yes,No,3,No,No,No,3
+CO07,Consulting,800,Urban,80000000,Integrated HRIS,High,Fully Remote,Recruiters/Agencies,8,2000,Continuous,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO08,Hospitality,70,Suburban,7000000,Payroll Software,Low,Fully On-site,Online Job Boards,30,150,Annually,No,2,No,No,2,No,No,Yes,2
+CO09,IT Services,400,Urban,40000000,Integrated HRIS,High,Hybrid,Referrals,13,1100,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO10,Manufacturing,180,Suburban,18000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,22,450,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO11,Healthcare,900,Urban,90000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,11,1300,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO12,Retail,60,Urban,6000000,Payroll Software,Low,Fully On-site,Online Job Boards,28,250,Annually,No,2,No,No,2,No,No,Yes,2
+CO13,Finance,250,Suburban,25000000,Integrated HRIS,High,Hybrid,Referrals,9,1600,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO14,Education,120,Urban,12000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,16,550,Annually,No,3,Yes,No,3,No,No,No,3
+CO15,Consulting,700,Urban,70000000,Integrated HRIS,High,Fully Remote,Recruiters/Agencies,7,2100,Continuous,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO16,Hospitality,80,Suburban,8000000,Payroll Software,Low,Fully On-site,Online Job Boards,32,180,Annually,No,2,No,No,2,No,No,Yes,2
+CO17,IT Services,450,Urban,45000000,Integrated HRIS,High,Hybrid,Referrals,14,1200,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO18,Manufacturing,220,Suburban,22000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,21,520,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO19,Healthcare,950,Urban,95000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,10,1400,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO20,Retail,45,Urban,4500000,Payroll Software,Low,Fully On-site,Online Job Boards,26,210,Annually,No,2,No,No,2,No,No,Yes,2
+CO21,Finance,350,Suburban,35000000,Integrated HRIS,High,Hybrid,Referrals,11,1700,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO22,Education,170,Urban,17000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,19,650,Annually,No,3,Yes,No,3,No,No,No,3
+CO23,Consulting,750,Urban,75000000,Integrated HRIS,High,Fully Remote,Recruiters/Agencies,9,2200,Continuous,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO24,Hospitality,65,Suburban,6500000,Payroll Software,Low,Fully On-site,Online Job Boards,31,160,Annually,No,2,No,No,2,No,No,Yes,2
+CO25,IT Services,520,Urban,52000000,Integrated HRIS,High,Hybrid,Referrals,16,1150,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO26,Manufacturing,210,Suburban,21000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,23,480,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO27,Healthcare,980,Urban,98000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,12,1350,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO28,Retail,55,Urban,5500000,Payroll Software,Low,Fully On-site,Online Job Boards,27,230,Annually,No,2,No,No,2,No,No,Yes,2
+CO29,Finance,280,Suburban,28000000,Integrated HRIS,High,Hybrid,Referrals,10,1650,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO30,Education,140,Urban,14000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,17,620,Annually,No,3,Yes,No,3,No,No,No,3
+CO31,Consulting,850,Urban,85000000,Integrated HRIS,High,Fully Remote,Recruiters/Agencies,8,2300,Continuous,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO32,Hospitality,75,Suburban,7500000,Payroll Software,Low,Fully On-site,Online Job Boards,29,190,Annually,No,2,No,No,2,No,No,Yes,2
+CO33,IT Services,480,Urban,48000000,Integrated HRIS,High,Hybrid,Referrals,15,1250,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO34,Manufacturing,230,Suburban,23000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,20,500,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO35,Healthcare,920,Urban,92000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,11,1450,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO36,Retail,52,Urban,5200000,Payroll Software,Low,Fully On-site,Online Job Boards,24,200,Annually,No,2,No,No,2,No,No,Yes,2
+CO37,Finance,320,Suburban,32000000,Integrated HRIS,High,Hybrid,Referrals,12,1750,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO38,Education,160,Urban,16000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,18,680,Annually,No,3,Yes,No,3,No,No,No,3
+CO39,Consulting,780,Urban,78000000,Integrated HRIS,High,Fully Remote,Recruiters/Agencies,9,2400,Continuous,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO40,Hospitality,68,Suburban,6800000,Payroll Software,Low,Fully On-site,Online Job Boards,30,170,Annually,No,2,No,No,2,No,No,Yes,2
+CO41,IT Services,550,Urban,55000000,Integrated HRIS,High,Hybrid,Referrals,17,1300,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO42,Manufacturing,240,Suburban,24000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,21,550,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO43,Healthcare,900,Urban,90000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,10,1500,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO44,Retail,48,Urban,4800000,Payroll Software,Low,Fully On-site,Online Job Boards,25,220,Annually,No,2,No,No,2,No,No,Yes,2
+CO45,Finance,300,Suburban,30000000,Integrated HRIS,High,Hybrid,Referrals,11,1800,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO46,Education,150,Urban,15000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,18,700,Annually,No,3,Yes,No,3,No,No,No,3
+CO47,Consulting,800,Urban,80000000,Integrated HRIS,High,Fully Remote,Recruiters/Agencies,8,2500,Continuous,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO48,Hospitality,70,Suburban,7000000,Payroll Software,Low,Fully On-site,Online Job Boards,29,180,Annually,No,2,No,No,2,No,No,Yes,2
+CO49,IT Services,500,Urban,50000000,Integrated HRIS,High,Hybrid,Referrals,16,1350,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO50,Manufacturing,200,Suburban,20000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,22,580,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO51,Healthcare,1000,Urban,100000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,12,1550,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO52,Retail,50,Urban,5000000,Payroll Software,Low,Fully On-site,Online Job Boards,27,240,Annually,No,2,No,No,2,No,No,Yes,2
+CO53,Finance,300,Suburban,30000000,Integrated HRIS,High,Hybrid,Referrals,10,1850,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO54,Education,150,Urban,15000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,18,720,Annually,No,3,Yes,No,3,No,No,No,3
+CO55,Consulting,800,Urban,80000000,Integrated HRIS,High,Fully Remote,Recruiters/Agencies,8,2600,Continuous,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO56,Hospitality,70,Suburban,7000000,Payroll Software,Low,Fully On-site,Online Job Boards,31,190,Annually,No,2,No,No,2,No,No,Yes,2
+CO57,IT Services,400,Urban,40000000,Integrated HRIS,High,Hybrid,Referrals,13,1400,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO58,Manufacturing,180,Suburban,18000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,23,600,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO59,Healthcare,900,Urban,90000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,11,1600,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO60,Retail,60,Urban,6000000,Payroll Software,Low,Fully On-site,Online Job Boards,28,250,Annually,No,2,No,No,2,No,No,Yes,2
+CO61,Finance,250,Suburban,25000000,Integrated HRIS,High,Hybrid,Referrals,9,1900,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO62,Education,120,Urban,12000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,16,750,Annually,No,3,Yes,No,3,No,No,No,3
+CO63,Consulting,700,Urban,70000000,Integrated HRIS,High,Fully Remote,Recruiters/Agencies,7,2700,Continuous,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO64,Hospitality,80,Suburban,8000000,Payroll Software,Low,Fully On-site,Online Job Boards,32,200,Annually,No,2,No,No,2,No,No,Yes,2
+CO65,IT Services,450,Urban,45000000,Integrated HRIS,High,Hybrid,Referrals,14,1450,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO66,Manufacturing,220,Suburban,22000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,24,620,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO67,Healthcare,950,Urban,95000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,10,1650,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO68,Retail,45,Urban,4500000,Payroll Software,Low,Fully On-site,Online Job Boards,29,260,Annually,No,2,No,No,2,No,No,Yes,2
+CO69,Finance,350,Suburban,35000000,Integrated HRIS,High,Hybrid,Referrals,11,2000,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO70,Education,170,Urban,17000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,19,780,Annually,No,3,Yes,No,3,No,No,No,3
+CO71,Consulting,750,Urban,75000000,Integrated HRIS,High,Fully Remote,Recruiters/Agencies,9,2800,Continuous,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO72,Hospitality,65,Suburban,6500000,Payroll Software,Low,Fully On-site,Online Job Boards,33,210,Annually,No,2,No,No,2,No,No,Yes,2
+CO73,IT Services,520,Urban,52000000,Integrated HRIS,High,Hybrid,Referrals,17,1500,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO74,Manufacturing,210,Suburban,21000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,25,650,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO75,Healthcare,980,Urban,98000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,12,1700,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO76,Retail,55,Urban,5500000,Payroll Software,Low,Fully On-site,Online Job Boards,30,270,Annually,No,2,No,No,2,No,No,Yes,2
+CO77,Finance,280,Suburban,28000000,Integrated HRIS,High,Hybrid,Referrals,10,2100,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO78,Education,140,Urban,14000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,17,800,Annually,No,3,Yes,No,3,No,No,No,3
+CO79,Consulting,850,Urban,85000000,Integrated HRIS,High,Fully Remote,Recruiters/Agencies,8,2900,Continuous,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO80,Hospitality,75,Suburban,7500000,Payroll Software,Low,Fully On-site,Online Job Boards,34,220,Annually,No,2,No,No,2,No,No,Yes,2
+CO81,IT Services,480,Urban,48000000,Integrated HRIS,High,Hybrid,Referrals,15,1550,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO82,Manufacturing,230,Suburban,23000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,26,680,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO83,Healthcare,920,Urban,92000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,11,1750,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO84,Retail,52,Urban,5200000,Payroll Software,Low,Fully On-site,Online Job Boards,31,280,Annually,No,2,No,No,2,No,No,Yes,2
+CO85,Finance,320,Suburban,32000000,Integrated HRIS,High,Hybrid,Referrals,12,2200,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO86,Education,160,Urban,16000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,18,820,Annually,No,3,Yes,No,3,No,No,No,3
+CO87,Consulting,780,Urban,78000000,Integrated HRIS,High,Fully Remote,Recruiters/Agencies,9,3000,Continuous,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO88,Hospitality,68,Suburban,6800000,Payroll Software,Low,Fully On-site,Online Job Boards,35,230,Annually,No,2,No,No,2,No,No,Yes,2
+CO89,IT Services,550,Urban,55000000,Integrated HRIS,High,Hybrid,Referrals,17,1600,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO90,Manufacturing,240,Suburban,24000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,27,700,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO91,Healthcare,900,Urban,90000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,10,1800,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO92,Retail,48,Urban,4800000,Payroll Software,Low,Fully On-site,Online Job Boards,32,290,Annually,No,2,No,No,2,No,No,Yes,2
+CO93,Finance,300,Suburban,30000000,Integrated HRIS,High,Hybrid,Referrals,11,2300,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO94,Education,150,Urban,15000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,18,850,Annually,No,3,Yes,No,3,No,No,No,3
+CO95,Consulting,800,Urban,80000000,Integrated HRIS,High,Fully Remote,Recruiters/Agencies,8,3100,Continuous,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+CO96,Hospitality,70,Suburban,7000000,Payroll Software,Low,Fully On-site,Online Job Boards,36,240,Annually,No,2,No,No,2,No,No,Yes,2
+CO97,IT Services,500,Urban,50000000,Integrated HRIS,High,Hybrid,Referrals,16,1650,Bi-annually,Yes,4,Yes,Yes,4,Yes,Yes,No,4
+CO98,Manufacturing,200,Suburban,20000000,Standalone HRMS,Medium,Fully On-site,Online Job Boards,28,720,Annually,No,3,Yes,No,3,No,No,Yes,3
+CO99,Healthcare,1000,Urban,100000000,Integrated HRIS,High,Hybrid,Recruiters/Agencies,12,1900,Quarterly,Yes,5,Yes,Yes,5,Yes,Yes,No,5
+C100,Retail,50,Urban,5000000,Payroll Software,Low,Fully On-site,Online Job Boards,37,300,Annually,No,2,No,No,2,No,No,Yes,2

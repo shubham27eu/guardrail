@@ -1,0 +1,101 @@
+﻿CitizenID,Age,Gender,LocationType,HouseholdIncome_USD,EducationLevel,EmploymentStatus,ServiceCategoryAccessed_Primary,FrequencyOfInteraction_Last12Months,PrimaryInteractionChannel,ServiceSatisfactionRating,LikelihoodToRecommend_Service,ComplaintFiled_Last12Months,FeedbackProvided_Last12Months,HasDriversLicense,ReceivesSocialBenefits,RegisteredToVote,OwnsProperty,HasPassport,UsesOnlineGovernmentPortals,DigitalIDPossessed
+G001,35,Female,Urban,75000,Bachelor's,Employed,Taxation,3,Online Portal,4,4,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+G002,48,Male,Suburban,90000,Master's,Employed,Licensing,2,Online Portal,5,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+G003,28,Female,Urban,60000,Bachelor's,Employed,Public Records,1,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G004,65,Male,Rural,40000,High School,Retired,Social Security,4,In-Person Office,3,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G005,30,Other,Urban,80000,Bachelor's,Employed,Employment,2,Online Portal,4,4,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes
+G006,55,Female,Suburban,110000,Master's,Employed,Taxation,1,Online Portal,5,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+G007,24,Male,Urban,45000,High School,Student,Education,3,Phone Call,3,3,No,No,No,No,Yes,No,No,Yes,Yes
+G008,72,Female,Rural,35000,High School,Retired,Healthcare,5,In-Person Office,2,2,Yes,Yes,No,Yes,Yes,No,No,No,No
+G009,42,Male,Urban,95000,Master's,Employed,Licensing,1,Online Portal,5,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+G010,33,Female,Suburban,70000,Bachelor's,Employed,Public Records,2,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G011,29,Male,Urban,55000,Bachelor's,Employed,Employment,1,Online Portal,4,4,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G012,60,Female,Rural,85000,Master's,Employed,Taxation,2,Online Portal,4,4,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+G013,27,Other,Urban,62000,Bachelor's,Employed,Healthcare,3,Phone Call,3,3,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G014,78,Male,Suburban,58000,PhD,Retired,Social Security,4,In-Person Office,3,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G015,44,Female,Urban,120000,Master's,Employed,Taxation,1,Online Portal,5,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+G016,36,Male,Suburban,82000,Bachelor's,Employed,Licensing,2,Online Portal,4,4,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+G017,23,Female,Urban,40000,High School,Student,Education,3,Phone Call,2,2,Yes,No,No,No,Yes,No,No,No,Yes
+G018,70,Male,Rural,50000,Bachelor's,Retired,Healthcare,5,In-Person Office,2,2,Yes,Yes,No,Yes,Yes,No,No,No,No
+G019,31,Other,Urban,78000,Master's,Employed,Employment,1,Online Portal,4,4,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G020,49,Female,Suburban,100000,Master's,Employed,Taxation,2,Online Portal,5,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+G021,26,Male,Urban,50000,Bachelor's,Employed,Public Records,1,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G022,64,Female,Suburban,68000,High School,Retired,Social Security,4,In-Person Office,3,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G023,34,Male,Urban,88000,Bachelor's,Employed,Licensing,2,Online Portal,5,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+G024,47,Female,Rural,92000,Master's,Employed,Taxation,1,Online Portal,4,4,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+G025,29,Other,Urban,60000,Bachelor's,Employed,Education,3,Phone Call,3,3,No,No,No,No,Yes,No,No,Yes,Yes
+G026,75,Male,Suburban,72000,PhD,Retired,Healthcare,5,In-Person Office,2,2,Yes,Yes,No,Yes,Yes,No,No,No,No
+G027,41,Female,Urban,115000,Master's,Employed,Employment,1,Online Portal,5,5,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G028,32,Male,Suburban,78000,Bachelor's,Employed,Public Records,2,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G029,25,Female,Urban,48000,High School,Student,Licensing,3,Phone Call,3,3,No,No,Yes,No,Yes,No,No,No,Yes
+G030,58,Male,Rural,63000,Bachelor's,Homemaker,Social Security,4,In-Person Office,3,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G031,37,Other,Urban,85000,Master's,Employed,Taxation,1,Online Portal,5,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+G032,46,Female,Suburban,98000,Master's,Employed,Licensing,2,Online Portal,4,4,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+G033,28,Male,Urban,53000,Bachelor's,Employed,Public Records,1,Online Portal,4,4,No,No,Yes,No,Yes,No,No,Yes,Yes
+G034,65,Female,Suburban,68000,High School,Retired,Healthcare,5,In-Person Office,2,2,Yes,Yes,No,Yes,Yes,No,No,No,No
+G035,40,Male,Urban,105000,Master's,Employed,Employment,1,Online Portal,5,5,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G036,30,Female,Suburban,75000,Bachelor's,Employed,Taxation,2,Online Portal,4,4,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+G037,24,Other,Urban,47000,Bachelor's,Student,Education,3,Phone Call,3,3,No,No,No,No,Yes,No,No,Yes,Yes
+G038,78,Male,Rural,60000,PhD,Retired,Social Security,4,In-Person Office,2,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G039,45,Female,Urban,118000,Master's,Employed,Licensing,1,Online Portal,5,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+G040,33,Male,Suburban,80000,Bachelor's,Employed,Public Records,2,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G041,27,Female,Urban,52000,Bachelor's,Employed,Employment,1,Online Portal,4,4,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G042,62,Male,Suburban,70000,High School,Retired,Healthcare,5,In-Person Office,3,3,Yes,Yes,No,Yes,Yes,No,No,No,No
+G043,38,Female,Urban,90000,Master's,Employed,Taxation,2,Online Portal,5,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+G044,49,Male,Rural,95000,Master's,Employed,Licensing,1,Online Portal,4,4,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+G045,29,Female,Urban,65000,Bachelor's,Employed,Education,3,Phone Call,3,3,No,No,No,No,Yes,No,No,Yes,Yes
+G046,70,Other,Suburban,75000,PhD,Retired,Social Security,4,In-Person Office,2,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G047,43,Male,Urban,110000,Master's,Employed,Employment,1,Online Portal,5,5,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G048,31,Female,Suburban,77000,Bachelor's,Employed,Public Records,2,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G049,26,Male,Urban,50000,High School,Student,Licensing,3,Phone Call,3,3,No,No,Yes,No,Yes,No,No,No,Yes
+G050,57,Female,Rural,68000,Bachelor's,Homemaker,Healthcare,5,In-Person Office,2,2,Yes,Yes,No,Yes,Yes,No,No,No,No
+G051,34,Other,Urban,82000,Master's,Employed,Taxation,1,Online Portal,5,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+G052,48,Male,Suburban,99000,Master's,Employed,Licensing,2,Online Portal,4,4,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+G053,28,Female,Urban,55000,Bachelor's,Employed,Public Records,1,Online Portal,4,4,No,No,Yes,No,Yes,No,No,Yes,Yes
+G054,66,Male,Suburban,70000,High School,Retired,Social Security,4,In-Person Office,3,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G055,41,Female,Urban,108000,Master's,Employed,Employment,1,Online Portal,5,5,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G056,32,Male,Suburban,76000,Bachelor's,Employed,Taxation,2,Online Portal,4,4,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+G057,25,Other,Urban,49000,Bachelor's,Student,Education,3,Phone Call,3,3,No,No,No,No,Yes,No,No,Yes,Yes
+G058,79,Female,Rural,62000,PhD,Retired,Healthcare,5,In-Person Office,2,2,Yes,Yes,No,Yes,Yes,No,No,No,No
+G059,44,Male,Urban,112000,Master's,Employed,Licensing,1,Online Portal,5,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+G060,33,Female,Suburban,81000,Bachelor's,Employed,Public Records,2,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G061,27,Male,Urban,54000,Bachelor's,Employed,Employment,1,Online Portal,4,4,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G062,63,Female,Suburban,69000,High School,Retired,Taxation,2,Online Portal,4,4,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+G063,39,Male,Urban,92000,Master's,Employed,Healthcare,3,Phone Call,3,3,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G064,50,Female,Rural,97000,Master's,Employed,Social Security,4,In-Person Office,2,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G065,30,Other,Urban,67000,Bachelor's,Employed,Licensing,1,Online Portal,5,5,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G066,71,Male,Suburban,73000,PhD,Retired,Public Records,2,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G067,42,Female,Urban,115000,Master's,Employed,Employment,1,Online Portal,5,5,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G068,31,Male,Suburban,79000,Bachelor's,Employed,Taxation,2,Online Portal,4,4,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+G069,26,Female,Urban,51000,High School,Student,Healthcare,3,Phone Call,2,2,Yes,No,No,No,Yes,No,No,No,Yes
+G070,59,Male,Rural,64000,Bachelor's,Homemaker,Social Security,4,In-Person Office,3,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G071,35,Other,Urban,86000,Master's,Employed,Licensing,1,Online Portal,5,5,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G072,47,Male,Suburban,100000,Master's,Employed,Public Records,2,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G073,29,Female,Urban,56000,Bachelor's,Employed,Employment,1,Online Portal,4,4,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G074,67,Male,Suburban,70000,High School,Retired,Taxation,2,Online Portal,4,4,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+G075,40,Female,Urban,109000,Master's,Employed,Healthcare,3,Phone Call,3,3,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G076,30,Male,Suburban,76000,Bachelor's,Employed,Social Security,4,In-Person Office,2,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G077,24,Other,Urban,48000,Bachelor's,Student,Licensing,1,Online Portal,4,4,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G078,80,Female,Rural,63000,PhD,Retired,Public Records,2,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G079,45,Male,Urban,113000,Master's,Employed,Employment,1,Online Portal,5,5,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G080,33,Female,Suburban,82000,Bachelor's,Employed,Taxation,2,Online Portal,4,4,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+G081,27,Male,Urban,55000,Bachelor's,Employed,Healthcare,3,Phone Call,3,3,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G082,64,Female,Suburban,71000,High School,Retired,Social Security,4,In-Person Office,2,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G083,39,Male,Urban,93000,Master's,Employed,Licensing,1,Online Portal,5,5,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G084,51,Female,Rural,98000,Master's,Employed,Public Records,2,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G085,30,Other,Urban,68000,Bachelor's,Employed,Employment,1,Online Portal,4,4,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G086,72,Male,Suburban,74000,PhD,Retired,Taxation,2,Online Portal,4,4,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+G087,43,Female,Urban,116000,Master's,Employed,Healthcare,3,Phone Call,3,3,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G088,31,Male,Suburban,80000,Bachelor's,Employed,Social Security,4,In-Person Office,2,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G089,26,Female,Urban,52000,High School,Student,Licensing,1,Online Portal,4,4,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G090,58,Male,Rural,65000,Bachelor's,Homemaker,Public Records,2,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G091,35,Other,Urban,87000,Master's,Employed,Employment,1,Online Portal,5,5,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G092,48,Male,Suburban,101000,Master's,Employed,Taxation,2,Online Portal,4,4,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+G093,29,Female,Urban,57000,Bachelor's,Employed,Healthcare,3,Phone Call,3,3,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G094,65,Male,Suburban,72000,High School,Retired,Social Security,4,In-Person Office,2,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+G095,40,Female,Urban,110000,Master's,Employed,Licensing,1,Online Portal,5,5,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes
+G096,30,Male,Suburban,77000,Bachelor's,Employed,Public Records,2,Online Portal,4,4,No,Yes,Yes,No,Yes,No,No,Yes,Yes
+G097,24,Other,Urban,49000,Bachelor's,Student,Employment,1,Online Portal,4,4,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G098,81,Female,Rural,64000,PhD,Retired,Taxation,2,Online Portal,4,4,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+G099,45,Male,Urban,114000,Master's,Employed,Healthcare,3,Phone Call,3,3,No,No,Yes,No,Yes,No,Yes,Yes,Yes
+G100,33,Female,Suburban,83000,Bachelor's,Employed,Social Security,4,In-Person Office,2,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No

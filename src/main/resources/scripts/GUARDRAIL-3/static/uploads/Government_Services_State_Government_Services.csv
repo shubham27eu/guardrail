@@ -1,0 +1,101 @@
+﻿StateCode,Population_Millions,GDP_Billion_USD,GovernanceModel,DigitalServicesAdoptionRate_Percentage,PrimaryOnlineService,E_GovernanceInvestment_Annual_USD,PublicServiceSatisfaction_Rating,NumCitizenComplaints_Annual,InfrastructureQuality_Rating,PublicSafetyIndex,EnvironmentalQuality_Rating,HealthcareAccess_Rating,EducationSystem_Rating,TransparencyIndex,BureaucracyEfficiency_Rating,CitizenParticipationInGovernance,DisasterPreparednessRating,RevenueCollectionEfficiency_Percentage,RuralDigitalDivide_Severity,DataDrivenPolicyMaking
+ST001,35.0,800,Mixed,75,Tax Filing,50000000,4,15000,4,85,4,4,4,75,4,Medium,4,90,Medium,Yes
+ST002,12.0,300,Decentralized,60,License Renewal,20000000,3,8000,3,70,3,3,3,60,3,Medium,3,80,High,No
+ST003,80.0,2000,Centralized,85,Social Welfare Applications,100000000,5,20000,5,90,5,5,5,90,5,High,5,95,Low,Yes
+ST004,5.0,150,Mixed,50,Property Records,10000000,2,12000,2,60,2,2,2,50,2,Low,2,70,High,No
+ST005,25.0,600,Decentralized,70,Health Portal,40000000,4,10000,4,80,4,4,4,70,4,Medium,4,88,Medium,Yes
+ST006,18.0,450,Mixed,65,Education Portal,30000000,3,9000,3,75,3,3,3,65,3,Medium,3,82,High,No
+ST007,60.0,1500,Centralized,90,Tax Filing,80000000,5,18000,5,92,5,5,5,92,5,High,5,96,Low,Yes
+ST008,10.0,250,Mixed,45,License Renewal,8000000,2,15000,2,55,2,2,2,45,2,Low,2,65,High,No
+ST009,40.0,950,Decentralized,80,Social Welfare Applications,60000000,4,13000,4,88,4,4,4,80,4,Medium,4,92,Medium,Yes
+ST010,7.0,200,Mixed,55,Property Records,12000000,3,11000,3,68,3,3,3,55,3,Medium,3,78,High,No
+ST011,32.0,750,Centralized,78,Health Portal,48000000,4,14000,4,83,4,4,4,78,4,Medium,4,89,Medium,Yes
+ST012,15.0,380,Mixed,62,Education Portal,25000000,3,9500,3,72,3,3,3,62,3,Medium,3,81,High,No
+ST013,85.0,2200,Centralized,88,Tax Filing,110000000,5,22000,5,93,5,5,5,93,5,High,5,97,Low,Yes
+ST014,6.0,180,Mixed,48,License Renewal,9000000,2,13000,2,58,2,2,2,48,2,Low,2,68,High,No
+ST015,28.0,650,Decentralized,72,Social Welfare Applications,42000000,4,11000,4,82,4,4,4,72,4,Medium,4,89,Medium,Yes
+ST016,20.0,500,Mixed,68,Property Records,35000000,3,10000,3,77,3,3,3,68,3,Medium,3,84,High,No
+ST017,62.0,1600,Centralized,92,Health Portal,85000000,5,19000,5,94,5,5,5,94,5,High,5,98,Low,Yes
+ST018,11.0,280,Mixed,47,Education Portal,9500000,2,16000,2,57,2,2,2,47,2,Low,2,67,High,No
+ST019,42.0,1000,Decentralized,82,Tax Filing,65000000,4,14000,4,89,4,4,4,82,4,Medium,4,93,Medium,Yes
+ST020,8.0,220,Mixed,58,License Renewal,13000000,3,12000,3,69,3,3,3,58,3,Medium,3,79,High,No
+ST021,30.0,700,Mixed,73,Tax Filing,45000000,4,14500,4,84,4,4,4,74,4,Medium,4,88,Medium,Yes
+ST022,13.5,320,Decentralized,58,License Renewal,18000000,3,8500,3,71,3,3,3,61,3,Medium,3,79,High,No
+ST023,82.0,2100,Centralized,87,Social Welfare Applications,105000000,5,21000,5,91,5,5,5,91,5,High,5,96,Low,Yes
+ST024,5.5,160,Mixed,47,Property Records,11000000,2,12500,2,62,2,2,2,52,2,Low,2,71,High,No
+ST025,26.0,620,Decentralized,71,Health Portal,41000000,4,10500,4,81,4,4,4,71,4,Medium,4,87,Medium,Yes
+ST026,19.0,470,Mixed,63,Education Portal,32000000,3,9200,3,76,3,3,3,66,3,Medium,3,83,High,No
+ST027,61.0,1550,Centralized,89,Tax Filing,82000000,5,18500,5,93,5,5,5,93,5,High,5,97,Low,Yes
+ST028,10.5,260,Mixed,44,License Renewal,8500000,2,15500,2,56,2,2,2,46,2,Low,2,66,High,No
+ST029,41.0,970,Decentralized,79,Social Welfare Applications,62000000,4,13500,4,87,4,4,4,79,4,Medium,4,91,Medium,Yes
+ST030,7.5,210,Mixed,53,Property Records,12500000,3,11500,3,69,3,3,3,56,3,Medium,3,77,High,No
+ST031,33.0,780,Centralized,77,Health Portal,49000000,4,14800,4,85,4,4,4,77,4,Medium,4,90,Medium,Yes
+ST032,16.0,400,Mixed,60,Education Portal,27000000,3,9800,3,73,3,3,3,63,3,Medium,3,80,High,No
+ST033,88.0,2300,Centralized,90,Tax Filing,115000000,5,23000,5,94,5,5,5,94,5,High,5,98,Low,Yes
+ST034,6.5,190,Mixed,49,License Renewal,10000000,2,13500,2,59,2,2,2,49,2,Low,2,69,High,No
+ST035,29.0,680,Decentralized,74,Social Welfare Applications,44000000,4,11500,4,83,4,4,4,73,4,Medium,4,90,Medium,Yes
+ST036,21.0,520,Mixed,70,Property Records,38000000,3,10500,3,78,3,3,3,69,3,Medium,3,85,High,No
+ST037,63.0,1700,Centralized,93,Health Portal,90000000,5,20000,5,95,5,5,5,95,5,High,5,99,Low,Yes
+ST038,11.5,290,Mixed,46,Education Portal,10500000,2,17000,2,58,2,2,2,48,2,Low,2,68,High,No
+ST039,43.0,1050,Decentralized,83,Tax Filing,68000000,4,15000,4,90,4,4,4,83,4,Medium,4,94,Medium,Yes
+ST040,8.5,230,Mixed,60,License Renewal,14000000,3,12500,3,70,3,3,3,59,3,Medium,3,80,High,No
+ST041,31.0,720,Mixed,74,Tax Filing,46000000,4,14200,4,85,4,4,4,75,4,Medium,4,89,Medium,Yes
+ST042,14.0,330,Decentralized,59,License Renewal,19000000,3,8800,3,72,3,3,3,62,3,Medium,3,80,High,No
+ST043,83.0,2150,Centralized,88,Social Welfare Applications,108000000,5,21500,5,92,5,5,5,92,5,High,5,97,Low,Yes
+ST044,5.8,170,Mixed,48,Property Records,11500000,2,12800,2,63,2,2,2,53,2,Low,2,72,High,No
+ST045,27.0,630,Decentralized,72,Health Portal,42000000,4,10800,4,82,4,4,4,72,4,Medium,4,88,Medium,Yes
+ST046,19.5,480,Mixed,64,Education Portal,33000000,3,9400,3,77,3,3,3,67,3,Medium,3,84,High,No
+ST047,62.5,1580,Centralized,90,Tax Filing,83000000,5,18800,5,94,5,5,5,94,5,High,5,98,Low,Yes
+ST048,10.8,270,Mixed,45,License Renewal,8800000,2,15800,2,57,2,2,2,47,2,Low,2,67,High,No
+ST049,41.5,980,Decentralized,80,Social Welfare Applications,63000000,4,13800,4,88,4,4,4,80,4,Medium,4,92,Medium,Yes
+ST050,7.8,215,Mixed,54,Property Records,12800000,3,11800,3,70,3,3,3,57,3,Medium,3,78,High,No
+ST051,34.0,810,Centralized,76,Health Portal,51000000,4,15200,4,86,4,4,4,76,4,Medium,4,91,Medium,Yes
+ST052,17.0,420,Mixed,61,Education Portal,28000000,3,10100,3,74,3,3,3,64,3,Medium,3,81,High,No
+ST053,89.0,2350,Centralized,91,Tax Filing,118000000,5,23500,5,95,5,5,5,95,5,High,5,99,Low,Yes
+ST054,6.8,195,Mixed,50,License Renewal,10500000,2,14000,2,60,2,2,2,50,2,Low,2,70,High,No
+ST055,30.0,700,Decentralized,75,Social Welfare Applications,45000000,4,12000,4,84,4,4,4,74,4,Medium,4,91,Medium,Yes
+ST056,22.0,540,Mixed,71,Property Records,40000000,3,11000,3,79,3,3,3,70,3,Medium,3,86,High,No
+ST057,64.0,1750,Centralized,94,Health Portal,92000000,5,20500,5,96,5,5,5,96,5,High,5,100,Low,Yes
+ST058,12.0,300,Mixed,49,Education Portal,11000000,2,17500,2,59,2,2,2,49,2,Low,2,69,High,No
+ST059,44.0,1100,Decentralized,84,Tax Filing,70000000,4,15500,4,91,4,4,4,84,4,Medium,4,95,Medium,Yes
+ST060,9.0,240,Mixed,62,License Renewal,15000000,3,13000,3,71,3,3,3,60,3,Medium,3,81,High,No
+ST061,32.0,760,Mixed,75,Tax Filing,47000000,4,14400,4,86,4,4,4,76,4,Medium,4,90,Medium,Yes
+ST062,14.5,340,Decentralized,60,License Renewal,20000000,3,9000,3,73,3,3,3,63,3,Medium,3,81,High,No
+ST063,84.0,2200,Centralized,89,Social Welfare Applications,110000000,5,22000,5,93,5,5,5,93,5,High,5,98,Low,Yes
+ST064,6.0,175,Mixed,49,Property Records,12000000,2,13000,2,64,2,2,2,54,2,Low,2,73,High,No
+ST065,27.5,640,Decentralized,73,Health Portal,43000000,4,11000,4,83,4,4,4,73,4,Medium,4,89,Medium,Yes
+ST066,20.0,490,Mixed,65,Education Portal,34000000,3,9600,3,78,3,3,3,68,3,Medium,3,85,High,No
+ST067,63.5,1650,Centralized,91,Tax Filing,84000000,5,19000,5,95,5,5,5,95,5,High,5,99,Low,Yes
+ST068,11.0,285,Mixed,46,License Renewal,9000000,2,16000,2,58,2,2,2,48,2,Low,2,68,High,No
+ST069,42.5,1020,Decentralized,81,Social Welfare Applications,64000000,4,14000,4,89,4,4,4,81,4,Medium,4,93,Medium,Yes
+ST070,8.0,225,Mixed,56,Property Records,13500000,3,12000,3,71,3,3,3,58,3,Medium,3,79,High,No
+ST071,35.0,820,Centralized,77,Health Portal,52000000,4,15500,4,87,4,4,4,77,4,Medium,4,92,Medium,Yes
+ST072,17.5,430,Mixed,62,Education Portal,29000000,3,10300,3,75,3,3,3,65,3,Medium,3,82,High,No
+ST073,90.0,2400,Centralized,92,Tax Filing,120000000,5,24000,5,96,5,5,5,96,5,High,5,100,Low,Yes
+ST074,7.0,200,Mixed,51,License Renewal,11000000,2,14500,2,61,2,2,2,51,2,Low,2,71,High,No
+ST075,30.5,710,Decentralized,76,Social Welfare Applications,46000000,4,12500,4,85,4,4,4,75,4,Medium,4,92,Medium,Yes
+ST076,23.0,550,Mixed,72,Property Records,41000000,3,11500,3,80,3,3,3,71,3,Medium,3,87,High,No
+ST077,65.0,1800,Centralized,95,Health Portal,95000000,5,21000,5,97,5,5,5,97,5,High,5,100,Low,Yes
+ST078,12.5,310,Mixed,50,Education Portal,11500000,2,18000,2,60,2,2,2,50,2,Low,2,70,High,No
+ST079,45.0,1150,Decentralized,85,Tax Filing,72000000,4,16000,4,92,4,4,4,85,4,Medium,4,96,Medium,Yes
+ST080,9.5,250,Mixed,63,License Renewal,16000000,3,13500,3,72,3,3,3,61,3,Medium,3,82,High,No
+ST081,33.0,770,Mixed,76,Tax Filing,48000000,4,14600,4,87,4,4,4,77,4,Medium,4,91,Medium,Yes
+ST082,15.0,350,Decentralized,61,License Renewal,21000000,3,9200,3,74,3,3,3,64,3,Medium,3,82,High,No
+ST083,85.0,2250,Centralized,90,Social Welfare Applications,112000000,5,22500,5,94,5,5,5,94,5,High,5,99,Low,Yes
+ST084,6.2,180,Mixed,50,Property Records,12500000,2,13200,2,65,2,2,2,55,2,Low,2,74,High,No
+ST085,28.0,650,Decentralized,74,Health Portal,44000000,4,11200,4,84,4,4,4,74,4,Medium,4,90,Medium,Yes
+ST086,20.5,500,Mixed,66,Education Portal,35000000,3,9800,3,79,3,3,3,69,3,Medium,3,86,High,No
+ST087,64.5,1700,Centralized,92,Tax Filing,85000000,5,19500,5,96,5,5,5,96,5,High,5,100,Low,Yes
+ST088,11.5,295,Mixed,47,License Renewal,9500000,2,16500,2,59,2,2,2,49,2,Low,2,69,High,No
+ST089,43.5,1070,Decentralized,82,Social Welfare Applications,66000000,4,14200,4,90,4,4,4,82,4,Medium,4,94,Medium,Yes
+ST090,8.8,235,Mixed,58,Property Records,14500000,3,12200,3,71,3,3,3,60,3,Medium,3,80,High,No
+ST091,36.0,830,Centralized,78,Health Portal,53000000,4,15800,4,88,4,4,4,78,4,Medium,4,93,Medium,Yes
+ST092,18.0,440,Mixed,63,Education Portal,30000000,3,10500,3,76,3,3,3,66,3,Medium,3,83,High,No
+ST093,91.0,2450,Centralized,93,Tax Filing,122000000,5,24500,5,97,5,5,5,97,5,High,5,100,Low,Yes
+ST094,7.2,205,Mixed,52,License Renewal,11500000,2,14800,2,62,2,2,2,52,2,Low,2,72,High,No
+ST095,31.0,730,Decentralized,77,Social Welfare Applications,47000000,4,12800,4,86,4,4,4,76,4,Medium,4,93,Medium,Yes
+ST096,24.0,560,Mixed,73,Property Records,42000000,3,11800,3,81,3,3,3,72,3,Medium,3,88,High,No
+ST097,66.0,1850,Centralized,96,Health Portal,97000000,5,21500,5,98,5,5,5,98,5,High,5,100,Low,Yes
+ST098,13.0,320,Mixed,51,Education Portal,12000000,2,18500,2,61,2,2,2,51,2,Low,2,71,High,No
+ST099,46.0,1200,Decentralized,86,Tax Filing,74000000,4,16500,4,93,4,4,4,86,4,Medium,4,97,Medium,Yes
+S100,9.8,260,Mixed,64,License Renewal,17000000,3,14000,3,73,3,3,3,62,3,Medium,3,83,High,No

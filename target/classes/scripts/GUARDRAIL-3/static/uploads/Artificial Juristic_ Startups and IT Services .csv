@@ -1,0 +1,101 @@
+﻿EntityID,EntityType,FoundingYear,NumStaff_FullTime,AnnualBudget_USD,PrimaryMission,TechEngagementLevel,UtilizesCloudServices,UsesDedicatedSoftware,Partnerships_TechSector,DigitalLiteracyPrograms,OnlinePresence_Rating,FundingSource_Primary,VolunteerBase_Size,DataDrivenDecisionMaking,TechSolutionDeveloped_InHouse,CollaboratesWithStartups,ITInfrastructureMaturity,CybersecurityMeasures_InPlace,ImpactMeasurement,TechInnovationFocus
+AJ001,Trust,1998,15,300000,Tech Skill Development,High,Yes,Yes,8,Yes,4,Grants,Medium,Yes,No,Yes,Advanced,Yes,Yes,Yes
+AJ002,NGO,2005,8,150000,Digital Inclusion,Medium,Yes,No,3,Yes,3,Donations,Large,No,No,No,Standard,No,Yes,No
+AJ003,Society,2010,5,80000,Startup Support,High,Yes,Yes,5,No,4,Program Fees,Small,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ004,Association,1990,20,400000,Policy Advocacy,Medium,Yes,Yes,10,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ005,Section 8 Company,2015,12,250000,Social Innovation,Tech-Focused,Yes,Yes,7,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ006,Trust,2000,10,200000,Research,Medium,Yes,No,4,No,3,Grants,Small,Yes,No,No,Standard,No,Yes,No
+AJ007,NGO,2008,6,100000,Digital Inclusion,Low,No,No,1,Yes,2,Donations,Large,No,No,No,Basic,No,No,No
+AJ008,Society,2012,3,60000,Startup Support,Medium,Yes,No,2,No,3,Program Fees,Small,No,No,Yes,Standard,No,Yes,No
+AJ009,Association,1992,18,350000,Policy Advocacy,High,Yes,Yes,9,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ010,Section 8 Company,2017,10,200000,Social Innovation,Tech-Focused,Yes,Yes,6,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ011,Trust,2002,13,280000,Tech Skill Development,High,Yes,Yes,7,Yes,4,Grants,Medium,Yes,No,Yes,Advanced,Yes,Yes,Yes
+AJ012,NGO,2006,7,140000,Digital Inclusion,Medium,Yes,No,2,Yes,3,Donations,Large,No,No,No,Standard,No,Yes,No
+AJ013,Society,2011,4,70000,Startup Support,High,Yes,Yes,4,No,4,Program Fees,Small,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ014,Association,1991,22,420000,Policy Advocacy,Medium,Yes,Yes,11,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ015,Section 8 Company,2016,14,280000,Social Innovation,Tech-Focused,Yes,Yes,8,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ016,Trust,2003,11,220000,Research,Medium,Yes,No,5,No,3,Grants,Small,Yes,No,No,Standard,No,Yes,No
+AJ017,NGO,2009,5,90000,Digital Inclusion,Low,No,No,1,Yes,2,Donations,Large,No,No,No,Basic,No,No,No
+AJ018,Society,2013,2,50000,Startup Support,Medium,Yes,No,3,No,3,Program Fees,Small,No,No,Yes,Standard,No,Yes,No
+AJ019,Association,1993,19,380000,Policy Advocacy,High,Yes,Yes,10,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ020,Section 8 Company,2018,11,230000,Social Innovation,Tech-Focused,Yes,Yes,7,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ021,Trust,1999,16,320000,Tech Skill Development,High,Yes,Yes,9,Yes,4,Grants,Medium,Yes,No,Yes,Advanced,Yes,Yes,Yes
+AJ022,NGO,2007,9,160000,Digital Inclusion,Medium,Yes,No,4,Yes,3,Donations,Large,No,No,No,Standard,No,Yes,No
+AJ023,Society,2012,6,90000,Startup Support,High,Yes,Yes,6,No,4,Program Fees,Small,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ024,Association,1994,21,410000,Policy Advocacy,Medium,Yes,Yes,12,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ025,Section 8 Company,2019,13,260000,Social Innovation,Tech-Focused,Yes,Yes,8,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ026,Trust,2004,14,290000,Research,Medium,Yes,No,6,No,3,Grants,Small,Yes,No,No,Standard,No,Yes,No
+AJ027,NGO,2010,7,150000,Digital Inclusion,Low,No,No,2,Yes,2,Donations,Large,No,No,No,Basic,No,No,No
+AJ028,Society,2014,3,65000,Startup Support,Medium,Yes,No,4,No,3,Program Fees,Small,No,No,Yes,Standard,No,Yes,No
+AJ029,Association,1995,20,390000,Policy Advocacy,High,Yes,Yes,11,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ030,Section 8 Company,2020,12,240000,Social Innovation,Tech-Focused,Yes,Yes,7,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ031,Trust,2001,17,340000,Tech Skill Development,High,Yes,Yes,10,Yes,4,Grants,Medium,Yes,No,Yes,Advanced,Yes,Yes,Yes
+AJ032,NGO,2008,10,170000,Digital Inclusion,Medium,Yes,No,5,Yes,3,Donations,Large,No,No,No,Standard,No,Yes,No
+AJ033,Society,2013,7,100000,Startup Support,High,Yes,Yes,7,No,4,Program Fees,Small,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ034,Association,1996,23,430000,Policy Advocacy,Medium,Yes,Yes,13,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ035,Section 8 Company,2021,15,280000,Social Innovation,Tech-Focused,Yes,Yes,9,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ036,Trust,2005,16,310000,Research,Medium,Yes,No,7,No,3,Grants,Small,Yes,No,No,Standard,No,Yes,No
+AJ037,NGO,2011,8,160000,Digital Inclusion,Low,No,No,3,Yes,2,Donations,Large,No,No,No,Basic,No,No,No
+AJ038,Society,2015,5,70000,Startup Support,Medium,Yes,No,5,No,3,Program Fees,Small,No,No,Yes,Standard,No,Yes,No
+AJ039,Association,1997,22,400000,Policy Advocacy,High,Yes,Yes,12,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ040,Section 8 Company,2022,14,250000,Social Innovation,Tech-Focused,Yes,Yes,8,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ041,Trust,2000,18,360000,Tech Skill Development,High,Yes,Yes,11,Yes,4,Grants,Medium,Yes,No,Yes,Advanced,Yes,Yes,Yes
+AJ042,NGO,2007,11,180000,Digital Inclusion,Medium,Yes,No,6,Yes,3,Donations,Large,No,No,No,Standard,No,Yes,No
+AJ043,Society,2014,8,110000,Startup Support,High,Yes,Yes,8,No,4,Program Fees,Small,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ044,Association,1998,24,450000,Policy Advocacy,Medium,Yes,Yes,14,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ045,Section 8 Company,2023,16,300000,Social Innovation,Tech-Focused,Yes,Yes,10,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ046,Trust,2006,17,330000,Research,Medium,Yes,No,8,No,3,Grants,Small,Yes,No,No,Standard,No,Yes,No
+AJ047,NGO,2012,9,170000,Digital Inclusion,Low,No,No,4,Yes,2,Donations,Large,No,No,No,Basic,No,No,No
+AJ048,Society,2016,6,80000,Startup Support,Medium,Yes,No,6,No,3,Program Fees,Small,No,No,Yes,Standard,No,Yes,No
+AJ049,Association,1999,23,420000,Policy Advocacy,High,Yes,Yes,13,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ050,Section 8 Company,2024,15,270000,Social Innovation,Tech-Focused,Yes,Yes,9,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ051,Trust,2002,19,380000,Tech Skill Development,High,Yes,Yes,12,Yes,4,Grants,Medium,Yes,No,Yes,Advanced,Yes,Yes,Yes
+AJ052,NGO,2009,12,190000,Digital Inclusion,Medium,Yes,No,7,Yes,3,Donations,Large,No,No,No,Standard,No,Yes,No
+AJ053,Society,2015,9,120000,Startup Support,High,Yes,Yes,9,No,4,Program Fees,Small,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ054,Association,2000,25,460000,Policy Advocacy,Medium,Yes,Yes,15,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ055,Section 8 Company,2025,17,310000,Social Innovation,Tech-Focused,Yes,Yes,11,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ056,Trust,2007,18,350000,Research,Medium,Yes,No,9,No,3,Grants,Small,Yes,No,No,Standard,No,Yes,No
+AJ057,NGO,2013,10,180000,Digital Inclusion,Low,No,No,5,Yes,2,Donations,Large,No,No,No,Basic,No,No,No
+AJ058,Society,2017,7,90000,Startup Support,Medium,Yes,No,7,No,3,Program Fees,Small,No,No,Yes,Standard,No,Yes,No
+AJ059,Association,2001,24,430000,Policy Advocacy,High,Yes,Yes,14,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ060,Section 8 Company,2026,16,280000,Social Innovation,Tech-Focused,Yes,Yes,10,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ061,Trust,2003,20,400000,Tech Skill Development,High,Yes,Yes,13,Yes,4,Grants,Medium,Yes,No,Yes,Advanced,Yes,Yes,Yes
+AJ062,NGO,2010,13,200000,Digital Inclusion,Medium,Yes,No,8,Yes,3,Donations,Large,No,No,No,Standard,No,Yes,No
+AJ063,Society,2016,10,130000,Startup Support,High,Yes,Yes,10,No,4,Program Fees,Small,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ064,Association,2002,26,480000,Policy Advocacy,Medium,Yes,Yes,16,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ065,Section 8 Company,2027,18,330000,Social Innovation,Tech-Focused,Yes,Yes,12,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ066,Trust,2008,19,370000,Research,Medium,Yes,No,10,No,3,Grants,Small,Yes,No,No,Standard,No,Yes,No
+AJ067,NGO,2014,11,190000,Digital Inclusion,Low,No,No,6,Yes,2,Donations,Large,No,No,No,Basic,No,No,No
+AJ068,Society,2018,8,100000,Startup Support,Medium,Yes,No,8,No,3,Program Fees,Small,No,No,Yes,Standard,No,Yes,No
+AJ069,Association,2003,25,450000,Policy Advocacy,High,Yes,Yes,15,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ070,Section 8 Company,2028,17,300000,Social Innovation,Tech-Focused,Yes,Yes,11,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ071,Trust,2004,21,420000,Tech Skill Development,High,Yes,Yes,14,Yes,4,Grants,Medium,Yes,No,Yes,Advanced,Yes,Yes,Yes
+AJ072,NGO,2011,14,210000,Digital Inclusion,Medium,Yes,No,9,Yes,3,Donations,Large,No,No,No,Standard,No,Yes,No
+AJ073,Society,2017,11,140000,Startup Support,High,Yes,Yes,11,No,4,Program Fees,Small,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ074,Association,2004,27,500000,Policy Advocacy,Medium,Yes,Yes,17,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ075,Section 8 Company,2029,19,340000,Social Innovation,Tech-Focused,Yes,Yes,13,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ076,Trust,2009,20,390000,Research,Medium,Yes,No,11,No,3,Grants,Small,Yes,No,No,Standard,No,Yes,No
+AJ077,NGO,2015,12,200000,Digital Inclusion,Low,No,No,7,Yes,2,Donations,Large,No,No,No,Basic,No,No,No
+AJ078,Society,2019,9,110000,Startup Support,Medium,Yes,No,9,No,3,Program Fees,Small,No,No,Yes,Standard,No,Yes,No
+AJ079,Association,2005,26,470000,Policy Advocacy,High,Yes,Yes,16,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ080,Section 8 Company,2030,18,310000,Social Innovation,Tech-Focused,Yes,Yes,12,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ081,Trust,2005,22,440000,Tech Skill Development,High,Yes,Yes,15,Yes,4,Grants,Medium,Yes,No,Yes,Advanced,Yes,Yes,Yes
+AJ082,NGO,2012,15,220000,Digital Inclusion,Medium,Yes,No,10,Yes,3,Donations,Large,No,No,No,Standard,No,Yes,No
+AJ083,Society,2018,12,150000,Startup Support,High,Yes,Yes,12,No,4,Program Fees,Small,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ084,Association,2006,28,520000,Policy Advocacy,Medium,Yes,Yes,18,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ085,Section 8 Company,2031,20,350000,Social Innovation,Tech-Focused,Yes,Yes,14,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ086,Trust,2010,21,410000,Research,Medium,Yes,No,12,No,3,Grants,Small,Yes,No,No,Standard,No,Yes,No
+AJ087,NGO,2016,13,210000,Digital Inclusion,Low,No,No,8,Yes,2,Donations,Large,No,No,No,Basic,No,No,No
+AJ088,Society,2020,10,120000,Startup Support,Medium,Yes,No,10,No,3,Program Fees,Small,No,No,Yes,Standard,No,Yes,No
+AJ089,Association,2006,27,490000,Policy Advocacy,High,Yes,Yes,17,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ090,Section 8 Company,2032,19,320000,Social Innovation,Tech-Focused,Yes,Yes,13,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ091,Trust,2006,23,460000,Tech Skill Development,High,Yes,Yes,16,Yes,4,Grants,Medium,Yes,No,Yes,Advanced,Yes,Yes,Yes
+AJ092,NGO,2013,16,230000,Digital Inclusion,Medium,Yes,No,11,Yes,3,Donations,Large,No,No,No,Standard,No,Yes,No
+AJ093,Society,2019,13,160000,Startup Support,High,Yes,Yes,13,No,4,Program Fees,Small,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ094,Association,2007,29,540000,Policy Advocacy,Medium,Yes,Yes,19,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ095,Section 8 Company,2033,21,360000,Social Innovation,Tech-Focused,Yes,Yes,15,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes
+AJ096,Trust,2011,22,430000,Research,Medium,Yes,No,13,No,3,Grants,Small,Yes,No,No,Standard,No,Yes,No
+AJ097,NGO,2017,14,220000,Digital Inclusion,Low,No,No,9,Yes,2,Donations,Large,No,No,No,Basic,No,No,No
+AJ098,Society,2021,11,130000,Startup Support,Medium,Yes,No,11,No,3,Program Fees,Small,No,No,Yes,Standard,No,Yes,No
+AJ099,Association,2008,28,510000,Policy Advocacy,High,Yes,Yes,18,No,5,Corporate CSR,Medium,Yes,No,Yes,Advanced,Yes,Yes,No
+AJ100,Section 8 Company,2034,20,340000,Social Innovation,Tech-Focused,Yes,Yes,14,Yes,4,Government Funds,Medium,Yes,Yes,Yes,Advanced,Yes,Yes,Yes

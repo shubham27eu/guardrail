@@ -1,0 +1,101 @@
+﻿CustomerID,Age,Gender,LocationType,HouseholdIncome_USD,EducationLevel,EmploymentStatus,ServiceType,ContractType,DataPlan_GB,CallMinutes_Monthly,SMSCount_Monthly,InternetSpeed_Mbps,MonthlyBill_USD,PaymentMethod,NumSupportTickets_Last12Months,ChurnRisk,LoyaltyProgramMember,HasStreamingBundle,DeviceOwnership,LastUpgradeDaysAgo
+T001,35,Female,Urban,75000,Bachelor's,Employed,Bundled,2-Year,100,1500,200,300,85.50,Auto-Pay,0,Low,Yes,Yes,Smartphone,180
+T002,42,Male,Suburban,90000,Master's,Employed,Internet,1-Year,500,0,0,500,70.00,Auto-Pay,1,Low,Yes,No,Smartphone,250
+T003,28,Female,Urban,60000,Bachelor's,Employed,Mobile,Monthly,50,800,150,0,45.00,Manual Online,0,Low,No,No,Smartphone,90
+T004,55,Male,Rural,50000,High School,Retired,Landline,Monthly,0,300,0,0,20.00,Manual Bank,2,Medium,No,No,No Mobile Device,700
+T005,30,Other,Urban,80000,Bachelor's,Employed,Mobile,1-Year,75,1000,180,0,55.00,Auto-Pay,0,Low,No,Yes,Smartphone,120
+T006,48,Female,Suburban,110000,Master's,Employed,Bundled,2-Year,200,2000,300,800,110.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,300
+T007,24,Male,Urban,45000,Bachelor's,Student,Internet,Monthly,100,0,0,100,40.00,Manual Online,1,Medium,No,No,Smartphone,60
+T008,68,Female,Suburban,65000,High School,Retired,Landline,Monthly,0,200,0,0,15.00,Manual Bank,0,Low,Yes,No,No Mobile Device,500
+T009,39,Male,Urban,95000,Master's,Employed,Bundled,2-Year,150,1800,250,600,95.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,200
+T010,33,Female,Suburban,70000,Bachelor's,Employed,Mobile,1-Year,60,900,160,0,50.00,Auto-Pay,0,Low,No,No,Smartphone,150
+T011,29,Male,Urban,55000,Bachelor's,Employed,Internet,Monthly,200,0,0,200,55.00,Manual Online,1,Medium,No,No,Smartphone,100
+T012,50,Female,Rural,85000,Master's,Employed,Bundled,1-Year,120,1600,220,400,90.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,280
+T013,27,Other,Urban,62000,Bachelor's,Employed,Mobile,Monthly,40,700,120,0,40.00,Manual Online,0,Low,No,No,Smartphone,75
+T014,72,Male,Suburban,58000,PhD,Retired,Landline,Monthly,0,150,0,0,18.00,Manual Bank,1,Low,No,No,No Mobile Device,600
+T015,44,Female,Urban,120000,Master's,Employed,Bundled,2-Year,250,2500,350,1000,130.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,365
+T016,36,Male,Suburban,82000,Bachelor's,Employed,Internet,1-Year,300,0,0,300,60.00,Auto-Pay,0,Low,Yes,No,Smartphone,210
+T017,23,Female,Urban,40000,High School,Student,Mobile,Monthly,30,600,100,0,35.00,Manual Online,1,High,No,No,Smartphone,45
+T018,60,Male,Rural,70000,Bachelor's,Homemaker,Landline,Monthly,0,250,0,0,22.00,Manual Bank,0,Low,Yes,No,No Mobile Device,400
+T019,31,Other,Urban,78000,Master's,Employed,Mobile,1-Year,65,950,170,0,52.00,Auto-Pay,0,Low,No,Yes,Smartphone,130
+T020,49,Female,Suburban,100000,Master's,Employed,Bundled,2-Year,180,1900,280,700,105.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,320
+T021,26,Male,Urban,50000,Bachelor's,Employed,Internet,Monthly,150,0,0,150,48.00,Manual Online,1,Medium,No,No,Smartphone,70
+T022,64,Female,Suburban,68000,High School,Retired,Landline,Monthly,0,180,0,0,17.00,Manual Bank,0,Low,No,No,No Mobile Device,550
+T023,34,Male,Urban,88000,Bachelor's,Employed,Mobile,2-Year,80,1100,190,0,60.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,190
+T024,47,Female,Rural,92000,Master's,Employed,Bundled,1-Year,130,1700,230,500,98.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,270
+T025,29,Other,Urban,60000,Bachelor's,Employed,Mobile,Monthly,45,750,130,0,42.00,Manual Online,0,Low,No,No,Smartphone,80
+T026,70,Male,Suburban,72000,PhD,Retired,Landline,Monthly,0,160,0,0,19.00,Manual Bank,1,Low,No,No,No Mobile Device,650
+T027,41,Female,Urban,115000,Master's,Employed,Bundled,2-Year,220,2300,320,900,120.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,340
+T028,32,Male,Suburban,78000,Bachelor's,Employed,Internet,1-Year,400,0,0,400,65.00,Auto-Pay,0,Low,Yes,No,Smartphone,230
+T029,25,Female,Urban,48000,High School,Student,Mobile,Monthly,35,650,110,0,38.00,Manual Online,1,High,No,No,Smartphone,50
+T030,58,Male,Rural,63000,Bachelor's,Homemaker,Landline,Monthly,0,280,0,0,25.00,Manual Bank,0,Low,Yes,No,No Mobile Device,450
+T031,37,Other,Urban,85000,Master's,Employed,Bundled,2-Year,140,1750,240,550,92.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,260
+T032,46,Female,Suburban,98000,Master's,Employed,Internet,1-Year,450,0,0,450,72.00,Auto-Pay,0,Low,Yes,No,Smartphone,290
+T033,28,Male,Urban,53000,Bachelor's,Employed,Mobile,Monthly,55,850,160,0,47.00,Manual Online,0,Low,No,No,Smartphone,85
+T034,65,Female,Suburban,68000,High School,Retired,Landline,Monthly,0,170,0,0,16.00,Manual Bank,0,Low,No,No,No Mobile Device,580
+T035,40,Male,Urban,105000,Master's,Employed,Bundled,2-Year,200,2100,310,850,115.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,310
+T036,30,Female,Suburban,75000,Bachelor's,Employed,Mobile,1-Year,70,1050,185,0,58.00,Auto-Pay,0,Low,No,Yes,Smartphone,140
+T037,24,Other,Urban,47000,Bachelor's,Student,Internet,Monthly,120,0,0,120,42.00,Manual Online,1,Medium,No,No,Smartphone,65
+T038,78,Male,Rural,60000,PhD,Retired,Landline,Monthly,0,100,0,0,15.00,Manual Bank,2,Medium,No,No,No Mobile Device,750
+T039,45,Female,Urban,118000,Master's,Employed,Bundled,2-Year,240,2400,340,950,125.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,350
+T040,33,Male,Suburban,80000,Bachelor's,Employed,Mobile,1-Year,75,1150,200,0,62.00,Auto-Pay,0,Low,Yes,No,Smartphone,160
+T041,27,Female,Urban,52000,Bachelor's,Employed,Internet,Monthly,180,0,0,180,50.00,Manual Online,1,Medium,No,No,Smartphone,90
+T042,62,Male,Suburban,70000,High School,Retired,Landline,Monthly,0,220,0,0,21.00,Manual Bank,0,Low,Yes,No,No Mobile Device,480
+T043,38,Female,Urban,90000,Master's,Employed,Bundled,2-Year,160,1850,260,650,100.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,220
+T044,49,Male,Rural,95000,Master's,Employed,Internet,1-Year,550,0,0,600,75.00,Auto-Pay,1,Low,Yes,No,Smartphone,275
+T045,29,Female,Urban,65000,Bachelor's,Employed,Mobile,Monthly,60,900,170,0,48.00,Manual Online,0,Low,No,No,Smartphone,100
+T046,70,Other,Suburban,75000,PhD,Retired,Landline,Monthly,0,190,0,0,20.00,Manual Bank,1,Low,No,No,No Mobile Device,680
+T047,43,Male,Urban,110000,Master's,Employed,Bundled,2-Year,230,2350,330,950,122.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,330
+T048,31,Female,Suburban,77000,Bachelor's,Employed,Mobile,1-Year,68,1000,175,0,56.00,Auto-Pay,0,Low,No,Yes,Smartphone,135
+T049,26,Male,Urban,50000,High School,Student,Internet,Monthly,160,0,0,160,49.00,Manual Online,1,Medium,No,No,Smartphone,75
+T050,57,Female,Rural,68000,Bachelor's,Homemaker,Landline,Monthly,0,270,0,0,24.00,Manual Bank,0,Low,Yes,No,No Mobile Device,420
+T051,34,Other,Urban,82000,Master's,Employed,Bundled,2-Year,150,1800,250,600,95.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,200
+T052,48,Male,Suburban,99000,Master's,Employed,Internet,1-Year,500,0,0,550,73.00,Auto-Pay,0,Low,Yes,No,Smartphone,260
+T053,28,Female,Urban,55000,Bachelor's,Employed,Mobile,Monthly,50,820,155,0,46.00,Manual Online,0,Low,No,No,Smartphone,95
+T054,66,Male,Suburban,70000,High School,Retired,Landline,Monthly,0,170,0,0,17.00,Manual Bank,0,Low,No,No,No Mobile Device,560
+T055,41,Female,Urban,108000,Master's,Employed,Bundled,2-Year,210,2200,310,880,118.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,325
+T056,32,Male,Suburban,76000,Bachelor's,Employed,Mobile,1-Year,65,980,170,0,53.00,Auto-Pay,0,Low,No,Yes,Smartphone,145
+T057,25,Other,Urban,49000,Bachelor's,Student,Internet,Monthly,130,0,0,130,44.00,Manual Online,1,Medium,No,No,Smartphone,70
+T058,79,Female,Rural,62000,PhD,Retired,Landline,Monthly,0,110,0,0,16.00,Manual Bank,2,Medium,No,No,No Mobile Device,780
+T059,44,Male,Urban,112000,Master's,Employed,Bundled,2-Year,230,2300,330,920,123.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,345
+T060,33,Female,Suburban,81000,Bachelor's,Employed,Mobile,1-Year,70,1080,190,0,59.00,Auto-Pay,0,Low,Yes,No,Smartphone,170
+T061,27,Male,Urban,54000,Bachelor's,Employed,Internet,Monthly,190,0,0,190,52.00,Manual Online,1,Medium,No,No,Smartphone,95
+T062,63,Female,Suburban,69000,High School,Retired,Landline,Monthly,0,180,0,0,18.00,Manual Bank,0,Low,No,No,No Mobile Device,590
+T063,39,Male,Urban,92000,Master's,Employed,Bundled,2-Year,170,1900,270,700,102.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,230
+T064,50,Female,Rural,97000,Master's,Employed,Internet,1-Year,580,0,0,650,78.00,Auto-Pay,1,Low,Yes,No,Smartphone,285
+T065,30,Other,Urban,67000,Bachelor's,Employed,Mobile,Monthly,62,920,172,0,49.00,Manual Online,0,Low,No,No,Smartphone,105
+T066,71,Male,Suburban,73000,PhD,Retired,Landline,Monthly,0,200,0,0,21.00,Manual Bank,1,Low,No,No,No Mobile Device,700
+T067,42,Female,Urban,115000,Master's,Employed,Bundled,2-Year,240,2450,345,980,128.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,355
+T068,31,Male,Suburban,79000,Bachelor's,Employed,Mobile,1-Year,72,1050,180,0,57.00,Auto-Pay,0,Low,No,Yes,Smartphone,140
+T069,26,Female,Urban,51000,High School,Student,Internet,Monthly,170,0,0,170,50.00,Manual Online,1,Medium,No,No,Smartphone,80
+T070,59,Male,Rural,64000,Bachelor's,Homemaker,Landline,Monthly,0,260,0,0,23.00,Manual Bank,0,Low,Yes,No,No Mobile Device,430
+T071,35,Other,Urban,86000,Master's,Employed,Bundled,2-Year,160,1850,260,650,98.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,210
+T072,47,Male,Suburban,100000,Master's,Employed,Internet,1-Year,520,0,0,580,74.00,Auto-Pay,0,Low,Yes,No,Smartphone,270
+T073,29,Female,Urban,56000,Bachelor's,Employed,Mobile,Monthly,58,880,165,0,47.00,Manual Online,0,Low,No,No,Smartphone,90
+T074,67,Male,Suburban,70000,High School,Retired,Landline,Monthly,0,175,0,0,18.00,Manual Bank,0,Low,No,No,No Mobile Device,570
+T075,40,Female,Urban,109000,Master's,Employed,Bundled,2-Year,220,2250,320,900,120.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,335
+T076,30,Male,Suburban,76000,Bachelor's,Employed,Mobile,1-Year,68,1020,178,0,55.00,Auto-Pay,0,Low,No,Yes,Smartphone,150
+T077,24,Other,Urban,48000,Bachelor's,Student,Internet,Monthly,140,0,0,140,45.00,Manual Online,1,Medium,No,No,Smartphone,70
+T078,80,Female,Rural,63000,PhD,Retired,Landline,Monthly,0,120,0,0,17.00,Manual Bank,2,Medium,No,No,No Mobile Device,800
+T079,45,Male,Urban,113000,Master's,Employed,Bundled,2-Year,250,2550,355,1000,130.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,360
+T080,33,Female,Suburban,82000,Bachelor's,Employed,Mobile,1-Year,78,1180,205,0,61.00,Auto-Pay,0,Low,Yes,No,Smartphone,165
+T081,27,Male,Urban,55000,Bachelor's,Employed,Internet,Monthly,200,0,0,200,53.00,Manual Online,1,Medium,No,No,Smartphone,100
+T082,64,Female,Suburban,71000,High School,Retired,Landline,Monthly,0,190,0,0,19.00,Manual Bank,0,Low,No,No,No Mobile Device,600
+T083,39,Male,Urban,93000,Master's,Employed,Bundled,2-Year,180,1950,275,750,105.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,240
+T084,51,Female,Rural,98000,Master's,Employed,Internet,1-Year,600,0,0,700,80.00,Auto-Pay,1,Low,Yes,No,Smartphone,290
+T085,30,Other,Urban,68000,Bachelor's,Employed,Mobile,Monthly,65,950,175,0,50.00,Manual Online,0,Low,No,No,Smartphone,110
+T086,72,Male,Suburban,74000,PhD,Retired,Landline,Monthly,0,210,0,0,22.00,Manual Bank,1,Low,No,No,No Mobile Device,720
+T087,43,Female,Urban,116000,Master's,Employed,Bundled,2-Year,230,2400,340,950,125.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,340
+T088,31,Male,Suburban,80000,Bachelor's,Employed,Mobile,1-Year,70,1050,180,0,58.00,Auto-Pay,0,Low,No,Yes,Smartphone,145
+T089,26,Female,Urban,52000,High School,Student,Internet,Monthly,180,0,0,180,51.00,Manual Online,1,Medium,No,No,Smartphone,85
+T090,58,Male,Rural,65000,Bachelor's,Homemaker,Landline,Monthly,0,270,0,0,25.00,Manual Bank,0,Low,Yes,No,No Mobile Device,440
+T091,35,Other,Urban,87000,Master's,Employed,Bundled,2-Year,170,1900,270,700,100.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,225
+T092,48,Male,Suburban,101000,Master's,Employed,Internet,1-Year,550,0,0,620,76.00,Auto-Pay,0,Low,Yes,No,Smartphone,280
+T093,29,Female,Urban,57000,Bachelor's,Employed,Mobile,Monthly,60,900,170,0,49.00,Manual Online,0,Low,No,No,Smartphone,95
+T094,65,Male,Suburban,72000,High School,Retired,Landline,Monthly,0,180,0,0,19.00,Manual Bank,0,Low,No,No,No Mobile Device,580
+T095,40,Female,Urban,110000,Master's,Employed,Bundled,2-Year,230,2300,330,920,123.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,340
+T096,30,Male,Suburban,77000,Bachelor's,Employed,Mobile,1-Year,72,1080,185,0,57.00,Auto-Pay,0,Low,No,Yes,Smartphone,155
+T097,24,Other,Urban,49000,Bachelor's,Student,Internet,Monthly,150,0,0,150,47.00,Manual Online,1,Medium,No,No,Smartphone,75
+T098,81,Female,Rural,64000,PhD,Retired,Landline,Monthly,0,130,0,0,18.00,Manual Bank,2,Medium,No,No,No Mobile Device,820
+T099,45,Male,Urban,114000,Master's,Employed,Bundled,2-Year,260,2600,360,1000,132.00,Auto-Pay,0,Low,Yes,Yes,Smartphone,365
+T100,33,Female,Suburban,83000,Bachelor's,Employed,Mobile,1-Year,80,1200,210,0,63.00,Auto-Pay,0,Low,Yes,No,Smartphone,170

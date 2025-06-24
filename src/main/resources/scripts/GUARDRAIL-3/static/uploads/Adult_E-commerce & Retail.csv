@@ -1,0 +1,101 @@
+﻿CustomerID,Age,Gender,Location,HouseholdIncome_USD,EducationLevel,EmploymentStatus,PreferredShoppingChannel,DeviceUsedForOnlineShopping,AvgMonthlyOnlineSpend_USD,NumOnlinePurchases_Last12Months,LastPurchaseCategory,FrequencyOfPurchases,Returns_Last12Months,WebsiteVisits_Last30Days,EmailMarketingOptIn,CustomerServiceInteractions_Last12Months,LoyaltyProgramMember,ProductReviewCount,PreferredPaymentMethod,CustomerLifetimeValue_USD
+C001,35,Female,Urban,75000,Bachelor's,Employed,Online,Mobile,150,12,Clothing,Monthly,1,15,Yes,0,Yes,5,Credit Card,1800
+C002,42,Male,Suburban,90000,Master's,Employed,Both,Desktop,220,18,Electronics,Monthly,0,10,Yes,1,Yes,10,Credit Card,2500
+C003,28,Female,Urban,60000,Bachelor's,Employed,Online,Mobile,80,8,Beauty,Quarterly,0,8,Yes,0,No,2,Digital Wallet,900
+C004,55,Male,Rural,50000,High School,Retired,In-Store,Desktop,30,2,Home Goods,Annually,1,2,No,2,No,1,Debit Card,400
+C005,30,Other,Urban,80000,Bachelor's,Employed,Online,Mobile,120,10,Books,Monthly,0,12,Yes,0,No,3,UPI,1500
+C006,48,Female,Suburban,110000,Master's,Employed,Both,Desktop,300,20,Electronics,Monthly,2,18,Yes,1,Yes,15,Credit Card,3500
+C007,24,Male,Urban,45000,Bachelor's,Student,Online,Mobile,60,6,Sports,Quarterly,0,7,No,0,No,1,Digital Wallet,700
+C008,68,Female,Suburban,65000,High School,Retired,In-Store,Desktop,40,3,Groceries,Quarterly,0,3,No,1,Yes,0,Debit Card,600
+C009,39,Male,Urban,95000,Master's,Employed,Online,Desktop,250,15,Clothing,Monthly,1,16,Yes,0,Yes,8,Credit Card,2800
+C010,33,Female,Suburban,70000,Bachelor's,Employed,Both,Mobile,100,9,Home Goods,Monthly,0,11,Yes,0,No,4,UPI,1100
+C011,29,Male,Urban,55000,Bachelor's,Employed,Online,Mobile,90,7,Electronics,Quarterly,0,9,Yes,0,No,2,Digital Wallet,1000
+C012,50,Female,Rural,85000,Master's,Employed,Both,Desktop,180,14,Beauty,Monthly,1,13,Yes,1,Yes,7,Credit Card,2000
+C013,27,Other,Urban,62000,Bachelor's,Employed,Online,Mobile,70,5,Books,Quarterly,0,6,Yes,0,No,1,UPI,800
+C014,72,Male,Suburban,58000,PhD,Retired,In-Store,Desktop,20,1,Groceries,Annually,0,1,No,0,No,0,Debit Card,300
+C015,44,Female,Urban,120000,Master's,Employed,Online,Desktop,350,25,Electronics,Monthly,3,20,Yes,2,Yes,20,Credit Card,4000
+C016,36,Male,Suburban,82000,Bachelor's,Employed,Both,Mobile,160,11,Sports,Monthly,0,14,Yes,0,No,6,Digital Wallet,1700
+C017,23,Female,Urban,40000,High School,Student,Online,Mobile,50,4,Clothing,Quarterly,0,5,No,0,No,0,UPI,600
+C018,60,Male,Rural,70000,Bachelor's,Homemaker,In-Store,Desktop,35,2,Home Goods,Annually,0,2,No,1,Yes,1,Debit Card,500
+C019,31,Other,Urban,78000,Master's,Employed,Online,Desktop,130,10,Beauty,Monthly,0,12,Yes,0,Yes,4,Credit Card,1600
+C020,49,Female,Suburban,100000,Master's,Employed,Both,Mobile,280,19,Books,Monthly,2,17,Yes,1,Yes,12,Digital Wallet,3200
+C021,26,Male,Urban,50000,Bachelor's,Employed,Online,Mobile,75,6,Electronics,Quarterly,0,8,Yes,0,No,1,UPI,850
+C022,64,Female,Suburban,68000,High School,Retired,In-Store,Desktop,25,1,Groceries,Annually,0,2,No,0,No,0,Debit Card,350
+C023,34,Male,Urban,88000,Bachelor's,Employed,Online,Desktop,190,13,Clothing,Monthly,1,16,Yes,0,Yes,7,Credit Card,2100
+C024,47,Female,Rural,92000,Master's,Employed,Both,Mobile,260,17,Home Goods,Monthly,1,15,Yes,1,Yes,10,Digital Wallet,2900
+C025,29,Other,Urban,60000,Bachelor's,Employed,Online,Mobile,85,9,Sports,Quarterly,0,10,Yes,0,No,3,UPI,950
+C026,70,Male,Suburban,72000,PhD,Retired,In-Store,Desktop,30,2,Beauty,Annually,0,3,No,1,No,0,Debit Card,450
+C027,41,Female,Urban,115000,Master's,Employed,Online,Desktop,320,22,Electronics,Monthly,2,19,Yes,1,Yes,18,Credit Card,3800
+C028,32,Male,Suburban,78000,Bachelor's,Employed,Both,Mobile,140,10,Books,Monthly,0,13,Yes,0,No,5,Digital Wallet,1550
+C029,25,Female,Urban,48000,High School,Student,Online,Mobile,65,5,Clothing,Quarterly,0,7,No,0,No,0,UPI,750
+C030,58,Male,Rural,63000,Bachelor's,Homemaker,In-Store,Desktop,45,3,Groceries,Annually,0,4,No,1,Yes,1,Debit Card,550
+C031,37,Other,Urban,85000,Master's,Employed,Online,Desktop,200,16,Home Goods,Monthly,1,17,Yes,0,Yes,9,Credit Card,2300
+C032,46,Female,Suburban,98000,Master's,Employed,Both,Mobile,270,18,Sports,Monthly,1,16,Yes,1,Yes,11,Digital Wallet,3100
+C033,28,Male,Urban,53000,Bachelor's,Employed,Online,Mobile,80,7,Beauty,Quarterly,0,9,Yes,0,No,2,UPI,900
+C034,65,Female,Suburban,68000,High School,Retired,In-Store,Desktop,20,1,Books,Annually,0,2,No,0,No,0,Debit Card,300
+C035,40,Male,Urban,105000,Master's,Employed,Online,Desktop,300,20,Electronics,Monthly,2,18,Yes,1,Yes,15,Credit Card,3600
+C036,30,Female,Suburban,75000,Bachelor's,Employed,Both,Mobile,130,10,Clothing,Monthly,0,12,Yes,0,No,4,Digital Wallet,1450
+C037,24,Other,Urban,47000,Bachelor's,Student,Online,Mobile,55,4,Home Goods,Quarterly,0,6,No,0,No,0,UPI,650
+C038,78,Male,Rural,60000,PhD,Retired,In-Store,Desktop,25,1,Groceries,Annually,0,1,No,0,No,0,Debit Card,350
+C039,45,Female,Urban,118000,Master's,Employed,Online,Desktop,340,24,Electronics,Monthly,3,20,Yes,2,Yes,19,Credit Card,3900
+C040,33,Male,Suburban,80000,Bachelor's,Employed,Both,Mobile,150,12,Sports,Monthly,0,14,Yes,0,No,6,Digital Wallet,1750
+C041,27,Female,Urban,52000,Bachelor's,Employed,Online,Mobile,70,6,Beauty,Quarterly,0,8,Yes,0,No,1,UPI,800
+C042,62,Male,Suburban,70000,High School,Retired,In-Store,Desktop,35,2,Books,Annually,0,3,No,1,No,1,Debit Card,500
+C043,38,Female,Urban,90000,Master's,Employed,Online,Desktop,210,17,Clothing,Monthly,1,16,Yes,0,Yes,8,Credit Card,2400
+C044,49,Male,Rural,95000,Master's,Employed,Both,Mobile,280,19,Home Goods,Monthly,2,17,Yes,1,Yes,12,Digital Wallet,3300
+C045,29,Female,Urban,65000,Bachelor's,Employed,Online,Mobile,95,8,Sports,Quarterly,0,11,Yes,0,No,3,UPI,1050
+C046,70,Other,Suburban,75000,PhD,Retired,In-Store,Desktop,30,2,Electronics,Annually,0,2,No,1,No,0,Debit Card,450
+C047,43,Male,Urban,110000,Master's,Employed,Online,Desktop,310,21,Beauty,Monthly,2,19,Yes,1,Yes,16,Credit Card,3700
+C048,31,Female,Suburban,77000,Bachelor's,Employed,Both,Mobile,135,11,Books,Monthly,0,13,Yes,0,No,5,Digital Wallet,1500
+C049,26,Male,Urban,50000,High School,Student,Online,Mobile,60,5,Clothing,Quarterly,0,7,No,0,No,0,UPI,700
+C050,57,Female,Rural,68000,Bachelor's,Homemaker,In-Store,Desktop,40,3,Groceries,Annually,0,4,No,1,Yes,1,Debit Card,500
+C051,34,Other,Urban,82000,Master's,Employed,Online,Desktop,180,15,Home Goods,Monthly,1,17,Yes,0,Yes,7,Credit Card,2000
+C052,48,Male,Suburban,99000,Master's,Employed,Both,Mobile,260,18,Sports,Monthly,1,16,Yes,1,Yes,10,Digital Wallet,3000
+C053,28,Female,Urban,55000,Bachelor's,Employed,Online,Mobile,85,7,Beauty,Quarterly,0,9,Yes,0,No,2,UPI,950
+C054,66,Male,Suburban,70000,High School,Retired,In-Store,Desktop,25,1,Electronics,Annually,0,2,No,0,No,0,Debit Card,350
+C055,41,Female,Urban,108000,Master's,Employed,Online,Desktop,300,20,Books,Monthly,2,18,Yes,1,Yes,15,Credit Card,3600
+C056,32,Male,Suburban,76000,Bachelor's,Employed,Both,Mobile,140,11,Clothing,Monthly,0,12,Yes,0,No,4,Digital Wallet,1400
+C057,25,Other,Urban,49000,Bachelor's,Student,Online,Mobile,60,5,Home Goods,Quarterly,0,6,No,0,No,0,UPI,700
+C058,79,Female,Rural,62000,PhD,Retired,In-Store,Desktop,30,2,Groceries,Annually,0,1,No,0,No,0,Debit Card,400
+C059,44,Male,Urban,112000,Master's,Employed,Online,Desktop,330,23,Electronics,Monthly,3,20,Yes,2,Yes,18,Credit Card,3800
+C060,33,Female,Suburban,81000,Bachelor's,Employed,Both,Mobile,160,13,Sports,Monthly,0,14,Yes,0,No,6,Digital Wallet,1800
+C061,27,Male,Urban,54000,Bachelor's,Employed,Online,Mobile,75,7,Beauty,Quarterly,0,8,Yes,0,No,1,UPI,850
+C062,63,Female,Suburban,69000,High School,Retired,In-Store,Desktop,20,1,Books,Annually,0,2,No,0,No,0,Debit Card,300
+C063,39,Male,Urban,92000,Master's,Employed,Online,Desktop,220,18,Clothing,Monthly,1,16,Yes,0,Yes,9,Credit Card,2500
+C064,50,Female,Rural,97000,Master's,Employed,Both,Mobile,290,20,Home Goods,Monthly,2,17,Yes,1,Yes,13,Digital Wallet,3400
+C065,30,Other,Urban,67000,Bachelor's,Employed,Online,Mobile,100,9,Sports,Quarterly,0,11,Yes,0,No,3,UPI,1100
+C066,71,Male,Suburban,73000,PhD,Retired,In-Store,Desktop,35,2,Electronics,Annually,0,3,No,1,No,0,Debit Card,500
+C067,42,Female,Urban,115000,Master's,Employed,Online,Desktop,320,22,Beauty,Monthly,2,19,Yes,1,Yes,17,Credit Card,3700
+C068,31,Male,Suburban,79000,Bachelor's,Employed,Both,Mobile,145,11,Books,Monthly,0,13,Yes,0,No,5,Digital Wallet,1600
+C069,26,Female,Urban,51000,High School,Student,Online,Mobile,65,5,Clothing,Quarterly,0,7,No,0,No,0,UPI,750
+C070,59,Male,Rural,64000,Bachelor's,Homemaker,In-Store,Desktop,40,3,Groceries,Annually,0,4,No,1,Yes,1,Debit Card,500
+C071,35,Other,Urban,86000,Master's,Employed,Online,Desktop,200,16,Home Goods,Monthly,1,17,Yes,0,Yes,8,Credit Card,2300
+C072,47,Male,Suburban,100000,Master's,Employed,Both,Mobile,270,18,Sports,Monthly,1,16,Yes,1,Yes,11,Digital Wallet,3100
+C073,29,Female,Urban,56000,Bachelor's,Employed,Online,Mobile,85,7,Beauty,Quarterly,0,9,Yes,0,No,2,UPI,950
+C074,67,Male,Suburban,70000,High School,Retired,In-Store,Desktop,25,1,Electronics,Annually,0,2,No,0,No,0,Debit Card,350
+C075,40,Female,Urban,109000,Master's,Employed,Online,Desktop,300,20,Books,Monthly,2,18,Yes,1,Yes,15,Credit Card,3600
+C076,30,Male,Suburban,76000,Bachelor's,Employed,Both,Mobile,130,10,Clothing,Monthly,0,12,Yes,0,No,4,Digital Wallet,1450
+C077,24,Other,Urban,48000,Bachelor's,Student,Online,Mobile,55,4,Home Goods,Quarterly,0,6,No,0,No,0,UPI,650
+C078,80,Female,Rural,63000,PhD,Retired,In-Store,Desktop,30,2,Groceries,Annually,0,1,No,0,No,0,Debit Card,400
+C079,45,Male,Urban,113000,Master's,Employed,Online,Desktop,330,23,Electronics,Monthly,3,20,Yes,2,Yes,18,Credit Card,3800
+C080,33,Female,Suburban,82000,Bachelor's,Employed,Both,Mobile,160,13,Sports,Monthly,0,14,Yes,0,No,6,Digital Wallet,1800
+C081,27,Male,Urban,55000,Bachelor's,Employed,Online,Mobile,75,7,Beauty,Quarterly,0,8,Yes,0,No,1,UPI,850
+C082,64,Female,Suburban,71000,High School,Retired,In-Store,Desktop,20,1,Books,Annually,0,2,No,0,No,0,Debit Card,300
+C083,39,Male,Urban,93000,Master's,Employed,Online,Desktop,220,18,Clothing,Monthly,1,16,Yes,0,Yes,9,Credit Card,2500
+C084,51,Female,Rural,98000,Master's,Employed,Both,Mobile,290,20,Home Goods,Monthly,2,17,Yes,1,Yes,13,Digital Wallet,3400
+C085,30,Other,Urban,68000,Bachelor's,Employed,Online,Mobile,100,9,Sports,Quarterly,0,11,Yes,0,No,3,UPI,1100
+C086,72,Male,Suburban,74000,PhD,Retired,In-Store,Desktop,35,2,Electronics,Annually,0,3,No,1,No,0,Debit Card,500
+C087,43,Female,Urban,116000,Master's,Employed,Online,Desktop,320,22,Beauty,Monthly,2,19,Yes,1,Yes,17,Credit Card,3700
+C088,31,Male,Suburban,80000,Bachelor's,Employed,Both,Mobile,145,11,Books,Monthly,0,13,Yes,0,No,5,Digital Wallet,1600
+C089,26,Female,Urban,52000,High School,Student,Online,Mobile,65,5,Clothing,Quarterly,0,7,No,0,No,0,UPI,750
+C090,58,Male,Rural,65000,Bachelor's,Homemaker,In-Store,Desktop,40,3,Groceries,Annually,0,4,No,1,Yes,1,Debit Card,500
+C091,35,Other,Urban,87000,Master's,Employed,Online,Desktop,200,16,Home Goods,Monthly,1,17,Yes,0,Yes,8,Credit Card,2300
+C092,48,Male,Suburban,101000,Master's,Employed,Both,Mobile,270,18,Sports,Monthly,1,16,Yes,1,Yes,11,Digital Wallet,3100
+C093,29,Female,Urban,57000,Bachelor's,Employed,Online,Mobile,85,7,Beauty,Quarterly,0,9,Yes,0,No,2,UPI,950
+C094,65,Male,Suburban,72000,High School,Retired,In-Store,Desktop,25,1,Electronics,Annually,0,2,No,0,No,0,Debit Card,350
+C095,40,Female,Urban,110000,Master's,Employed,Online,Desktop,300,20,Books,Monthly,2,18,Yes,1,Yes,15,Credit Card,3600
+C096,30,Male,Suburban,77000,Bachelor's,Employed,Both,Mobile,130,10,Clothing,Monthly,0,12,Yes,0,No,4,Digital Wallet,1450
+C097,24,Other,Urban,49000,Bachelor's,Student,Online,Mobile,55,4,Home Goods,Quarterly,0,6,No,0,No,0,UPI,650
+C098,81,Female,Rural,64000,PhD,Retired,In-Store,Desktop,30,2,Groceries,Annually,0,1,No,0,No,0,Debit Card,400
+C099,45,Male,Urban,114000,Master's,Employed,Online,Desktop,330,23,Electronics,Monthly,3,20,Yes,2,Yes,18,Credit Card,3800
+C100,33,Female,Suburban,83000,Bachelor's,Employed,Both,Mobile,160,13,Sports,Monthly,0,14,Yes,0,No,6,Digital Wallet,1800

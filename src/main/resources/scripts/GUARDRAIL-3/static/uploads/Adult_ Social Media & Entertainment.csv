@@ -1,0 +1,101 @@
+﻿UserID,Age,Gender,LocationType,HouseholdIncome_USD,EducationLevel,EmploymentStatus,PrimarySocialMediaPlatform,NumSocialMediaAccounts,DailySocialMediaHours,PurposeOfSocialMedia,FollowsInfluencers,PrimaryEntertainmentType,DailyEntertainmentHours,HasPaidStreamingSubscription,NumStreamingServices,PreferredContentGenre,AvgWeeklyGamingHours,CreatesContent,ParticipatesInOnlineCommunities,ConcernedAboutPrivacy,AwareOfAlgorithmInfluence
+S001,35,Female,Urban,75000,Bachelor's,Employed,Instagram,4,2.5,Socializing,Yes,Streaming Video,3.0,Yes,3,Drama,0,No,Yes,Yes,Yes
+S002,42,Male,Suburban,90000,Master's,Employed,LinkedIn,3,1.0,Professional Networking,No,Online News,1.5,No,0,News/Current Affairs,0,No,Yes,Yes,Yes
+S003,28,Female,Urban,60000,Bachelor's,Employed,TikTok,5,4.0,Entertainment,Yes,Music Streaming,2.0,Yes,1,Music,5,Yes,No,No,Yes
+S004,65,Male,Rural,40000,High School,Retired,Facebook,2,1.5,Socializing,No,Reading E-books,1.0,No,0,Documentary,0,No,Yes,Yes,No
+S005,30,Other,Urban,80000,Bachelor's,Employed,YouTube,4,3.0,Entertainment,Yes,Gaming,4.0,Yes,2,Gaming,15,Yes,Yes,Yes,Yes
+S006,55,Female,Suburban,110000,Master's,Employed,Facebook,3,1.0,News,No,Streaming Video,2.0,Yes,4,Comedy,0,No,Yes,Yes,Yes
+S007,24,Male,Urban,45000,High School,Student,Instagram,5,3.5,Socializing,Yes,Music Streaming,2.5,Yes,2,Music,0,No,Yes,No,Yes
+S008,72,Female,Rural,35000,High School,Retired,Facebook,1,0.5,Socializing,No,Online News,0.5,No,0,News/Current Affairs,0,No,No,Yes,No
+S009,42,Male,Urban,95000,Master's,Employed,Instagram,4,2.0,Entertainment,Yes,Streaming Video,3.0,Yes,3,Action/Adventure,0,No,Yes,Yes,Yes
+S010,33,Female,Suburban,70000,Bachelor's,Employed,Pinterest,3,1.5,Shopping/Brands,Yes,Streaming Video,2.0,Yes,2,Drama,0,No,No,Yes,Yes
+S011,29,Male,Urban,55000,Bachelor's,Employed,X (Twitter),4,2.0,News,Yes,Gaming,3.0,Yes,1,Gaming,10,No,Yes,Yes,Yes
+S012,60,Female,Rural,85000,Master's,Employed,Facebook,2,1.0,Socializing,No,Streaming Video,1.5,Yes,1,Documentary,0,No,Yes,Yes,No
+S013,27,Other,Urban,62000,Bachelor's,Employed,TikTok,5,4.5,Entertainment,Yes,Music Streaming,2.5,Yes,2,Music,8,Yes,No,No,Yes
+S014,78,Male,Suburban,58000,PhD,Retired,None,1,0.5,Socializing,No,Reading E-books,0.5,No,0,News/Current Affairs,0,No,No,Yes,No
+S015,44,Female,Urban,120000,Master's,Employed,LinkedIn,3,1.0,Professional Networking,No,Streaming Video,2.5,Yes,4,Drama,0,No,Yes,Yes,Yes
+S016,36,Male,Suburban,82000,Bachelor's,Employed,Instagram,4,2.0,Socializing,Yes,Gaming,3.5,Yes,2,Gaming,12,No,Yes,Yes,Yes
+S017,23,Female,Urban,40000,High School,Student,TikTok,5,4.0,Entertainment,Yes,Music Streaming,2.0,Yes,1,Music,6,Yes,No,No,Yes
+S018,70,Male,Rural,50000,Bachelor's,Retired,Facebook,2,1.0,Socializing,No,Online News,1.0,No,0,News/Current Affairs,0,No,Yes,Yes,No
+S019,31,Other,Urban,78000,Master's,Employed,YouTube,4,3.0,Entertainment,Yes,Streaming Video,3.0,Yes,3,Comedy,0,Yes,Yes,Yes,Yes
+S020,49,Female,Suburban,100000,Master's,Employed,Facebook,3,1.5,News,No,Streaming Video,2.5,Yes,4,Drama,0,No,Yes,Yes,Yes
+S021,26,Male,Urban,50000,Bachelor's,Employed,Instagram,5,3.0,Socializing,Yes,Gaming,4.0,Yes,2,Gaming,18,No,Yes,Yes,Yes
+S022,64,Female,Suburban,68000,High School,Retired,Facebook,1,0.5,Socializing,No,Reading E-books,0.5,No,0,Documentary,0,No,No,Yes,No
+S023,34,Male,Urban,88000,Bachelor's,Employed,X (Twitter),4,2.5,News,Yes,Streaming Video,3.5,Yes,3,Sci-Fi/Fantasy,0,No,Yes,Yes,Yes
+S024,47,Female,Rural,92000,Master's,Employed,Pinterest,3,1.0,Shopping/Brands,Yes,Streaming Video,1.5,Yes,2,Reality TV,0,No,No,Yes,Yes
+S025,29,Other,Urban,60000,Bachelor's,Employed,TikTok,5,4.0,Entertainment,Yes,Music Streaming,2.0,Yes,1,Music,7,Yes,No,No,Yes
+S026,75,Male,Suburban,72000,PhD,Retired,None,1,0.5,Socializing,No,Online News,0.5,No,0,News/Current Affairs,0,No,No,Yes,No
+S027,41,Female,Urban,115000,Master's,Employed,LinkedIn,3,1.5,Professional Networking,No,Streaming Video,2.0,Yes,4,Drama,0,No,Yes,Yes,Yes
+S028,32,Male,Suburban,78000,Bachelor's,Employed,Instagram,4,2.5,Entertainment,Yes,Gaming,3.0,Yes,2,Gaming,10,No,Yes,Yes,Yes
+S029,25,Female,Urban,48000,High School,Student,TikTok,5,3.5,Entertainment,Yes,Music Streaming,2.5,Yes,1,Music,5,Yes,No,No,Yes
+S030,58,Male,Rural,63000,Bachelor's,Homemaker,Facebook,2,1.0,Socializing,No,Streaming Video,1.0,Yes,1,Comedy,0,No,Yes,Yes,No
+S031,37,Other,Urban,85000,Master's,Employed,YouTube,4,3.0,Entertainment,Yes,Gaming,4.0,Yes,3,Gaming,16,Yes,Yes,Yes,Yes
+S032,46,Female,Suburban,98000,Master's,Employed,Facebook,3,1.0,News,No,Streaming Video,2.0,Yes,4,Drama,0,No,Yes,Yes,Yes
+S033,28,Male,Urban,53000,Bachelor's,Employed,Instagram,5,3.5,Socializing,Yes,Music Streaming,2.0,Yes,1,Music,7,Yes,No,No,Yes
+S034,65,Female,Suburban,68000,High School,Retired,Facebook,1,0.5,Socializing,No,Reading E-books,0.5,No,0,Documentary,0,No,No,Yes,No
+S035,40,Male,Urban,105000,Master's,Employed,X (Twitter),4,2.0,News,Yes,Streaming Video,3.5,Yes,3,Sci-Fi/Fantasy,0,No,Yes,Yes,Yes
+S036,30,Female,Suburban,75000,Bachelor's,Employed,Pinterest,3,1.5,Shopping/Brands,Yes,Streaming Video,2.0,Yes,2,Reality TV,0,No,No,Yes,Yes
+S037,24,Other,Urban,47000,Bachelor's,Student,TikTok,5,4.0,Entertainment,Yes,Music Streaming,2.5,Yes,1,Music,8,Yes,No,No,Yes
+S038,78,Male,Rural,60000,PhD,Retired,None,1,0.5,Socializing,No,Online News,0.5,No,0,News/Current Affairs,0,No,No,Yes,No
+S039,45,Female,Urban,118000,Master's,Employed,LinkedIn,3,1.0,Professional Networking,No,Streaming Video,2.5,Yes,4,Drama,0,No,Yes,Yes,Yes
+S040,33,Male,Suburban,80000,Bachelor's,Employed,Instagram,4,2.5,Entertainment,Yes,Gaming,3.5,Yes,2,Gaming,14,No,Yes,Yes,Yes
+S041,27,Female,Urban,52000,Bachelor's,Employed,TikTok,5,4.0,Entertainment,Yes,Music Streaming,2.0,Yes,1,Music,6,Yes,No,No,Yes
+S042,62,Male,Suburban,70000,High School,Retired,Facebook,2,1.0,Socializing,No,Streaming Video,1.0,Yes,1,Comedy,0,No,Yes,Yes,No
+S043,38,Female,Urban,90000,Master's,Employed,YouTube,4,3.0,Entertainment,Yes,Gaming,4.0,Yes,3,Gaming,18,Yes,Yes,Yes,Yes
+S044,49,Male,Rural,95000,Master's,Employed,Facebook,3,1.5,News,No,Streaming Video,2.5,Yes,4,Action/Adventure,0,No,Yes,Yes,Yes
+S045,29,Other,Urban,65000,Bachelor's,Employed,Instagram,5,3.0,Socializing,Yes,Music Streaming,2.5,Yes,2,Music,0,No,Yes,No,Yes
+S046,70,Other,Suburban,75000,PhD,Retired,None,1,0.5,Socializing,No,Reading E-books,0.5,No,0,Documentary,0,No,No,Yes,No
+S047,43,Male,Urban,110000,Master's,Employed,LinkedIn,3,1.5,Professional Networking,No,Streaming Video,2.0,Yes,4,Drama,0,No,Yes,Yes,Yes
+S048,31,Female,Suburban,77000,Bachelor's,Employed,Pinterest,3,1.0,Shopping/Brands,Yes,Streaming Video,1.5,Yes,2,Reality TV,0,No,No,Yes,Yes
+S049,26,Male,Urban,50000,High School,Student,TikTok,5,4.5,Entertainment,Yes,Music Streaming,2.5,Yes,1,Music,9,Yes,No,No,Yes
+S050,57,Female,Rural,68000,Bachelor's,Homemaker,Facebook,2,1.0,Socializing,No,Streaming Video,1.0,Yes,1,Comedy,0,No,Yes,Yes,No
+S051,34,Other,Urban,82000,Master's,Employed,YouTube,4,3.0,Entertainment,Yes,Gaming,4.0,Yes,3,Gaming,17,Yes,Yes,Yes,Yes
+S052,48,Male,Suburban,99000,Master's,Employed,Facebook,3,1.0,News,No,Streaming Video,2.0,Yes,4,Drama,0,No,Yes,Yes,Yes
+S053,28,Female,Urban,55000,Bachelor's,Employed,Instagram,5,3.5,Socializing,Yes,Music Streaming,2.0,Yes,1,Music,7,Yes,No,No,Yes
+S054,66,Male,Suburban,70000,High School,Retired,Facebook,1,0.5,Socializing,No,Reading E-books,0.5,No,0,Documentary,0,No,No,Yes,No
+S055,41,Female,Urban,108000,Master's,Employed,X (Twitter),4,2.0,News,Yes,Streaming Video,3.5,Yes,3,Sci-Fi/Fantasy,0,No,Yes,Yes,Yes
+S056,32,Male,Suburban,76000,Bachelor's,Employed,Pinterest,3,1.5,Shopping/Brands,Yes,Streaming Video,2.0,Yes,2,Reality TV,0,No,No,Yes,Yes
+S057,25,Other,Urban,49000,Bachelor's,Student,TikTok,5,4.0,Entertainment,Yes,Music Streaming,2.5,Yes,1,Music,8,Yes,No,No,Yes
+S058,79,Female,Rural,62000,PhD,Retired,None,1,0.5,Socializing,No,Online News,0.5,No,0,News/Current Affairs,0,No,No,Yes,No
+S059,44,Male,Urban,112000,Master's,Employed,LinkedIn,3,1.0,Professional Networking,No,Streaming Video,2.5,Yes,4,Drama,0,No,Yes,Yes,Yes
+S060,33,Female,Suburban,81000,Bachelor's,Employed,Instagram,4,2.5,Entertainment,Yes,Gaming,3.5,Yes,2,Gaming,13,No,Yes,Yes,Yes
+S061,27,Male,Urban,54000,Bachelor's,Employed,TikTok,5,4.0,Entertainment,Yes,Music Streaming,2.0,Yes,1,Music,6,Yes,No,No,Yes
+S062,63,Female,Suburban,69000,High School,Retired,Facebook,2,1.0,Socializing,No,Streaming Video,1.0,Yes,1,Comedy,0,No,Yes,Yes,No
+S063,39,Male,Urban,92000,Master's,Employed,YouTube,4,3.0,Entertainment,Yes,Gaming,4.0,Yes,3,Gaming,19,Yes,Yes,Yes,Yes
+S064,50,Female,Rural,97000,Master's,Employed,Facebook,3,1.5,News,No,Streaming Video,2.5,Yes,4,Action/Adventure,0,No,Yes,Yes,Yes
+S065,30,Other,Urban,67000,Bachelor's,Employed,Instagram,5,3.0,Socializing,Yes,Music Streaming,2.5,Yes,2,Music,0,No,Yes,No,Yes
+S066,71,Male,Suburban,73000,PhD,Retired,None,1,0.5,Socializing,No,Reading E-books,0.5,No,0,Documentary,0,No,No,Yes,No
+S067,42,Female,Urban,115000,Master's,Employed,LinkedIn,3,1.5,Professional Networking,No,Streaming Video,2.0,Yes,4,Drama,0,No,Yes,Yes,Yes
+S068,31,Male,Suburban,79000,Bachelor's,Employed,Pinterest,3,1.0,Shopping/Brands,Yes,Streaming Video,1.5,Yes,2,Reality TV,0,No,No,Yes,Yes
+S069,26,Female,Urban,51000,High School,Student,TikTok,5,4.5,Entertainment,Yes,Music Streaming,2.5,Yes,1,Music,10,Yes,No,No,Yes
+S070,59,Male,Rural,64000,Bachelor's,Homemaker,Facebook,2,1.0,Socializing,No,Streaming Video,1.0,Yes,1,Comedy,0,No,Yes,Yes,No
+S071,35,Other,Urban,86000,Master's,Employed,YouTube,4,3.0,Entertainment,Yes,Gaming,4.0,Yes,3,Gaming,16,Yes,Yes,Yes,Yes
+S072,47,Male,Suburban,100000,Master's,Employed,Facebook,3,1.0,News,No,Streaming Video,2.0,Yes,4,Drama,0,No,Yes,Yes,Yes
+S073,29,Female,Urban,56000,Bachelor's,Employed,Instagram,5,3.5,Socializing,Yes,Music Streaming,2.0,Yes,1,Music,7,Yes,No,No,Yes
+S074,67,Male,Suburban,70000,High School,Retired,Facebook,1,0.5,Socializing,No,Reading E-books,0.5,No,0,Documentary,0,No,No,Yes,No
+S075,40,Female,Urban,109000,Master's,Employed,X (Twitter),4,2.0,News,Yes,Streaming Video,3.5,Yes,3,Sci-Fi/Fantasy,0,No,Yes,Yes,Yes
+S076,30,Male,Suburban,76000,Bachelor's,Employed,Pinterest,3,1.5,Shopping/Brands,Yes,Streaming Video,2.0,Yes,2,Reality TV,0,No,No,Yes,Yes
+S077,24,Other,Urban,48000,Bachelor's,Student,TikTok,5,4.0,Entertainment,Yes,Music Streaming,2.5,Yes,1,Music,8,Yes,No,No,Yes
+S078,80,Female,Rural,63000,PhD,Retired,None,1,0.5,Socializing,No,Online News,0.5,No,0,News/Current Affairs,0,No,No,Yes,No
+S079,45,Male,Urban,113000,Master's,Employed,LinkedIn,3,1.0,Professional Networking,No,Streaming Video,2.5,Yes,4,Drama,0,No,Yes,Yes,Yes
+S080,33,Female,Suburban,82000,Bachelor's,Employed,Instagram,4,2.5,Entertainment,Yes,Gaming,3.5,Yes,2,Gaming,15,No,Yes,Yes,Yes
+S081,27,Male,Urban,55000,Bachelor's,Employed,TikTok,5,4.0,Entertainment,Yes,Music Streaming,2.0,Yes,1,Music,7,Yes,No,No,Yes
+S082,64,Female,Suburban,71000,High School,Retired,Facebook,2,1.0,Socializing,No,Streaming Video,1.0,Yes,1,Comedy,0,No,Yes,Yes,No
+S083,39,Male,Urban,93000,Master's,Employed,YouTube,4,3.0,Entertainment,Yes,Gaming,4.0,Yes,3,Gaming,19,Yes,Yes,Yes,Yes
+S084,51,Female,Rural,98000,Master's,Employed,Facebook,3,1.5,News,No,Streaming Video,2.5,Yes,4,Action/Adventure,0,No,Yes,Yes,Yes
+S085,30,Other,Urban,68000,Bachelor's,Employed,Instagram,5,3.0,Socializing,Yes,Music Streaming,2.5,Yes,2,Music,0,No,Yes,No,Yes
+S086,72,Male,Suburban,74000,PhD,Retired,None,1,0.5,Socializing,No,Reading E-books,0.5,No,0,Documentary,0,No,No,Yes,No
+S087,43,Female,Urban,116000,Master's,Employed,LinkedIn,3,1.5,Professional Networking,No,Streaming Video,2.0,Yes,4,Drama,0,No,Yes,Yes,Yes
+S088,31,Male,Suburban,80000,Bachelor's,Employed,Pinterest,3,1.0,Shopping/Brands,Yes,Streaming Video,1.5,Yes,2,Reality TV,0,No,No,Yes,Yes
+S089,26,Female,Urban,52000,High School,Student,TikTok,5,4.5,Entertainment,Yes,Music Streaming,2.5,Yes,1,Music,10,Yes,No,No,Yes
+S090,58,Male,Rural,65000,Bachelor's,Homemaker,Facebook,2,1.0,Socializing,No,Streaming Video,1.0,Yes,1,Comedy,0,No,Yes,Yes,No
+S091,35,Other,Urban,87000,Master's,Employed,YouTube,4,3.0,Entertainment,Yes,Gaming,4.0,Yes,3,Gaming,17,Yes,Yes,Yes,Yes
+S092,48,Male,Suburban,101000,Master's,Employed,Facebook,3,1.0,News,No,Streaming Video,2.0,Yes,4,Drama,0,No,Yes,Yes,Yes
+S093,29,Female,Urban,57000,Bachelor's,Employed,Instagram,5,3.5,Socializing,Yes,Music Streaming,2.0,Yes,1,Music,7,Yes,No,No,Yes
+S094,65,Male,Suburban,72000,High School,Retired,Facebook,1,0.5,Socializing,No,Reading E-books,0.5,No,0,Documentary,0,No,No,Yes,No
+S095,40,Female,Urban,110000,Master's,Employed,X (Twitter),4,2.0,News,Yes,Streaming Video,3.5,Yes,3,Sci-Fi/Fantasy,0,No,Yes,Yes,Yes
+S096,30,Male,Suburban,77000,Bachelor's,Employed,Pinterest,3,1.5,Shopping/Brands,Yes,Streaming Video,2.0,Yes,2,Reality TV,0,No,No,Yes,Yes
+S097,24,Other,Urban,49000,Bachelor's,Student,TikTok,5,4.0,Entertainment,Yes,Music Streaming,2.5,Yes,1,Music,8,Yes,No,No,Yes
+S098,81,Female,Rural,64000,PhD,Retired,None,1,0.5,Socializing,No,Online News,0.5,No,0,News/Current Affairs,0,No,No,Yes,No
+S099,45,Male,Urban,114000,Master's,Employed,LinkedIn,3,1.0,Professional Networking,No,Streaming Video,2.5,Yes,4,Drama,0,No,Yes,Yes,Yes
+S100,33,Female,Suburban,83000,Bachelor's,Employed,Instagram,4,2.5,Entertainment,Yes,Gaming,3.5,Yes,2,Gaming,16,No,Yes,Yes,Yes

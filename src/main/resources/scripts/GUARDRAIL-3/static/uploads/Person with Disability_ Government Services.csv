@@ -1,0 +1,101 @@
+﻿PersonID_PWD,Age_Years,Gender,LocationType,HouseholdIncome_USD,DisabilityType_Primary,DisabilitySeverity,GuardianRelationship,RegisteredForDisabilityBenefits,TypeOfBenefitReceived,FrequencyOfServiceInteraction_Last12Months,PrimaryInteractionChannel,ServiceSatisfactionRating,ComplaintFiled_Last12Months,AccessToSpecializedTransport,AssistedLivingSupport,AccessibilityOfPublicSpaces,DigitalLiteracy_Guardian,AwarenessOfRights,LegalAidAccessed_Last12Months,EmploymentSupportAccessed
+D001,25,Female,Urban,45000,Physical,Moderate,Parent,Yes,Financial Aid,4,Online Portal,4,No,Yes,No,4,Intermediate,High,No,No
+D002,10,Male,Suburban,60000,Intellectual,Severe,Parent,Yes,Education Support,3,Specialized Agency,3,Yes,No,No,3,Basic,Medium,No,No
+D003,50,Other,Rural,30000,Multiple,Profound,Sibling,Yes,Healthcare,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D004,18,Female,Urban,55000,Sensory,Mild,Parent,Yes,Mobility Aid,2,Online Portal,5,No,Yes,No,5,Advanced,High,No,No
+D005,35,Male,Suburban,70000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D006,7,Female,Urban,40000,Developmental,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,No,Yes,No,3,Basic,Medium,No,No
+D007,65,Male,Rural,25000,Physical,Severe,Legal Guardian,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D008,22,Other,Urban,50000,Intellectual,Mild,Parent,Yes,Education Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,No
+D009,40,Female,Suburban,80000,Sensory,Moderate,Spouse,Yes,Mobility Aid,3,Phone Call,4,No,Yes,No,4,Intermediate,High,No,No
+D010,14,Male,Urban,38000,Physical,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D011,70,Other,Rural,32000,Multiple,Profound,Sibling,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D012,16,Female,Urban,58000,Intellectual,Mild,Parent,Yes,Education Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,No
+D013,30,Male,Suburban,65000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D014,9,Female,Urban,42000,Developmental,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,No,Yes,No,3,Basic,Medium,No,No
+D015,60,Male,Rural,28000,Physical,Severe,Legal Guardian,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D016,28,Other,Urban,48000,Sensory,Mild,Parent,Yes,Mobility Aid,2,Online Portal,5,No,Yes,No,5,Advanced,High,No,No
+D017,45,Female,Suburban,75000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D018,11,Male,Urban,36000,Intellectual,Severe,Parent,Yes,Education Support,4,Specialized Agency,3,Yes,No,No,3,Basic,Medium,No,No
+D019,75,Female,Rural,30000,Multiple,Profound,Sibling,Yes,Healthcare,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D020,20,Male,Urban,52000,Physical,Mild,Parent,Yes,Financial Aid,2,Online Portal,5,No,Yes,No,5,Advanced,High,No,No
+D021,38,Other,Suburban,68000,Sensory,Moderate,Spouse,Yes,Mobility Aid,3,Phone Call,4,No,Yes,No,4,Intermediate,High,No,No
+D022,13,Female,Urban,40000,Developmental,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D023,68,Male,Rural,27000,Physical,Severe,Legal Guardian,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D024,24,Female,Urban,53000,Intellectual,Mild,Parent,Yes,Education Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,No
+D025,42,Male,Suburban,72000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D026,8,Other,Urban,39000,Physical,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D027,72,Female,Rural,31000,Multiple,Profound,Sibling,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D028,19,Male,Urban,50000,Sensory,Mild,Parent,Yes,Mobility Aid,2,Online Portal,5,No,Yes,No,5,Advanced,High,No,No
+D029,36,Female,Suburban,67000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D030,12,Other,Urban,41000,Developmental,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D031,63,Male,Rural,29000,Physical,Severe,Legal Guardian,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D032,26,Female,Urban,56000,Intellectual,Mild,Parent,Yes,Education Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,No
+D033,48,Male,Suburban,78000,Sensory,Moderate,Spouse,Yes,Mobility Aid,3,Phone Call,4,No,Yes,No,4,Intermediate,High,No,No
+D034,15,Female,Urban,43000,Physical,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D035,77,Other,Rural,33000,Multiple,Profound,Sibling,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D036,21,Male,Urban,51000,Mental Health,Mild,Parent,Yes,Employment Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,Yes
+D037,39,Female,Suburban,70000,Developmental,Moderate,Spouse,Yes,Healthcare,3,Phone Call,4,No,Yes,No,4,Intermediate,High,No,No
+D038,10,Other,Urban,37000,Intellectual,Severe,Parent,Yes,Education Support,4,Specialized Agency,3,Yes,No,No,3,Basic,Medium,No,No
+D039,69,Male,Rural,26000,Physical,Severe,Legal Guardian,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D040,23,Female,Urban,54000,Sensory,Mild,Parent,Yes,Mobility Aid,2,Online Portal,5,No,Yes,No,5,Advanced,High,No,No
+D041,46,Male,Suburban,76000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D042,14,Female,Urban,42000,Physical,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D043,71,Other,Rural,30000,Multiple,Profound,Sibling,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D044,20,Male,Urban,50000,Intellectual,Mild,Parent,Yes,Education Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,No
+D045,38,Female,Suburban,69000,Sensory,Moderate,Spouse,Yes,Mobility Aid,3,Phone Call,4,No,Yes,No,4,Intermediate,High,No,No
+D046,9,Other,Urban,40000,Developmental,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D047,68,Male,Rural,27000,Physical,Severe,Legal Guardian,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D048,24,Female,Urban,53000,Intellectual,Mild,Parent,Yes,Education Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,No
+D049,42,Male,Suburban,72000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D050,8,Other,Urban,39000,Physical,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D051,72,Female,Rural,31000,Multiple,Profound,Sibling,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D052,19,Male,Urban,50000,Sensory,Mild,Parent,Yes,Mobility Aid,2,Online Portal,5,No,Yes,No,5,Advanced,High,No,No
+D053,36,Female,Suburban,67000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D054,12,Other,Urban,41000,Developmental,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D055,63,Male,Rural,29000,Physical,Severe,Legal Guardian,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D056,26,Female,Urban,56000,Intellectual,Mild,Parent,Yes,Education Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,No
+D057,48,Male,Suburban,78000,Sensory,Moderate,Spouse,Yes,Mobility Aid,3,Phone Call,4,No,Yes,No,4,Intermediate,High,No,No
+D058,15,Female,Urban,43000,Physical,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D059,77,Other,Rural,33000,Multiple,Profound,Sibling,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D060,21,Male,Urban,51000,Mental Health,Mild,Parent,Yes,Employment Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,Yes
+D061,39,Female,Suburban,70000,Developmental,Moderate,Spouse,Yes,Healthcare,3,Phone Call,4,No,Yes,No,4,Intermediate,High,No,No
+D062,10,Other,Urban,37000,Intellectual,Severe,Parent,Yes,Education Support,4,Specialized Agency,3,Yes,No,No,3,Basic,Medium,No,No
+D063,69,Male,Rural,26000,Physical,Severe,Legal Guardian,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D064,23,Female,Urban,54000,Sensory,Mild,Parent,Yes,Mobility Aid,2,Online Portal,5,No,Yes,No,5,Advanced,High,No,No
+D065,46,Male,Suburban,76000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D066,14,Female,Urban,42000,Physical,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D067,71,Other,Rural,30000,Multiple,Profound,Sibling,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D068,20,Male,Urban,50000,Intellectual,Mild,Parent,Yes,Education Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,No
+D069,38,Female,Suburban,69000,Sensory,Moderate,Spouse,Yes,Mobility Aid,3,Phone Call,4,No,Yes,No,4,Intermediate,High,No,No
+D070,9,Other,Urban,40000,Developmental,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D071,68,Male,Rural,27000,Physical,Severe,Legal Guardian,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D072,24,Female,Urban,53000,Intellectual,Mild,Parent,Yes,Education Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,No
+D073,42,Male,Suburban,72000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D074,8,Other,Urban,39000,Physical,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D075,72,Female,Rural,31000,Multiple,Profound,Sibling,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D076,19,Male,Urban,50000,Sensory,Mild,Parent,Yes,Mobility Aid,2,Online Portal,5,No,Yes,No,5,Advanced,High,No,No
+D077,36,Female,Suburban,67000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D078,12,Other,Urban,41000,Developmental,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D079,63,Male,Rural,29000,Physical,Severe,Legal Guardian,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D080,26,Female,Urban,56000,Intellectual,Mild,Parent,Yes,Education Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,No
+D081,48,Male,Suburban,78000,Sensory,Moderate,Spouse,Yes,Mobility Aid,3,Phone Call,4,No,Yes,No,4,Intermediate,High,No,No
+D082,15,Female,Urban,43000,Physical,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D083,77,Other,Rural,33000,Multiple,Profound,Sibling,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D084,21,Male,Urban,51000,Mental Health,Mild,Parent,Yes,Employment Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,Yes
+D085,39,Female,Suburban,70000,Developmental,Moderate,Spouse,Yes,Healthcare,3,Phone Call,4,No,Yes,No,4,Intermediate,High,No,No
+D086,10,Other,Urban,37000,Intellectual,Severe,Parent,Yes,Education Support,4,Specialized Agency,3,Yes,No,No,3,Basic,Medium,No,No
+D087,69,Male,Rural,26000,Physical,Severe,Legal Guardian,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D088,23,Female,Urban,54000,Sensory,Mild,Parent,Yes,Mobility Aid,2,Online Portal,5,No,Yes,No,5,Advanced,High,No,No
+D089,46,Male,Suburban,76000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D090,14,Female,Urban,42000,Physical,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D091,71,Other,Rural,30000,Multiple,Profound,Sibling,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D092,20,Male,Urban,50000,Intellectual,Mild,Parent,Yes,Education Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,No
+D093,38,Female,Suburban,69000,Sensory,Moderate,Spouse,Yes,Mobility Aid,3,Phone Call,4,No,Yes,No,4,Intermediate,High,No,No
+D094,9,Other,Urban,40000,Developmental,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D095,68,Male,Rural,27000,Physical,Severe,Legal Guardian,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D096,24,Female,Urban,53000,Intellectual,Mild,Parent,Yes,Education Support,2,Online Portal,5,No,No,No,5,Advanced,High,No,No
+D097,42,Male,Suburban,72000,Mental Health,Moderate,Spouse,Yes,Employment Support,3,Phone Call,4,No,No,No,4,Intermediate,High,No,Yes
+D098,8,Other,Urban,39000,Physical,Severe,Parent,Yes,Healthcare,4,Specialized Agency,3,Yes,Yes,No,3,Basic,Medium,No,No
+D099,72,Female,Rural,31000,Multiple,Profound,Sibling,Yes,Financial Aid,5,In-Person Office,2,Yes,Yes,Yes,2,Low,Low,Yes,No
+D100,19,Male,Urban,50000,Sensory,Mild,Parent,Yes,Mobility Aid,2,Online Portal,5,No,Yes,No,5,Advanced,High,No,No

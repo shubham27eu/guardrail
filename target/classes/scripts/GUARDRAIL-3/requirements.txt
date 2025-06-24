@@ -1,0 +1,8 @@
+Flask
+pandas
+joblib
+scikit-learn
+faiss-cpu
+Werkzeug
+sentence_transformers
+openpyxl
