@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load compliance repository only once
-compliance_df = pd.read_excel("compliance_repository.xlsx")
+compliance_df = pd.read_excel("compliance_repository[Merged].xlsx")
 
 def get_sensitivity_for_about_domain(about: str, domain: str) -> dict:
     match = compliance_df[
@@ -13,12 +13,12 @@ def get_sensitivity_for_about_domain(about: str, domain: str) -> dict:
         row = match.iloc[0]
         return {
             "Sensitivity Level": row["Sensitivity Level"],
-            "Explainability": row.get("Explainability", "N/A"),
-            "Sharing Entity": row.get("Sharing Entity", "N/A")
+            "Explaination": row.get("Explaination", "N/A"),
+            "Receiving Entity": row.get("Receiving Entity", "N/A")
         }
     else:
         return {
-            "Sensitivity Level": "Unknown",
-            "Explainability": "N/A",
-            "Sharing Entity": "N/A"
+            "Sensitivity Level": "Low",
+            "Explaination": "As Sensitivity is default, there is no explanation ",
+            "Recieving Entity": "N/A"
         }
