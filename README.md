@@ -35,8 +35,8 @@ The system comprises two main parts:
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/shubham27eu/guardrail.git
-    cd guardrail
-    git checkout feat/display-anonymization-strategy
+cd guardrail
+git checkout fix-alpha-score-display
     ```
 
 2.  **Build the Java Anonymization Engine:**
